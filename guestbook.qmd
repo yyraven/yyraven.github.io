@@ -1,0 +1,43 @@
+---
+title: "Guestbook"
+format: html
+---
+
+Leave me a message! *Simple Markdown formatting is supported*.
+
+```{=html}
+<div style="max-width: 650px; margin: 0 auto;">
+  
+  <!-- FORM -->
+  <form id="msg-form" style="display: flex; flex-direction: column; gap: 1rem;">
+    <!-- Inputs inherit the body text color and font, with transparent backgrounds -->
+    <input type="text" id="msg-name" placeholder="Name (Required)" required 
+           style="background: transparent; color: inherit; border: 1px solid currentColor; opacity: 0.6; border-radius: 0.2rem; padding: 0.8rem; font-family: inherit;">
+           
+    <input type="text" id="msg-website" placeholder="Website (Optional)" 
+           style="background: transparent; color: inherit; border: 1px solid currentColor; opacity: 0.6; border-radius: 0.2rem; padding: 0.8rem; font-family: inherit;">
+           
+    <textarea id="msg-content" placeholder="Message (Required)" required rows="4" maxlength="3000"
+          style="background: transparent; color: inherit; border: 1px solid currentColor; opacity: 0.6; border-radius: var(--global-radius); padding: 0.8rem; font-family: inherit; resize: vertical;"></textarea>
+<div id="char-count" style="font-size: 0.8em; opacity: 0.6; text-align: right; margin-top: 4px; font-family: inherit;">0 / 3000</div>
+    
+    <button type="submit" id="msg-submit" class="button" style="padding: 0.6rem 1.2rem; align-self: flex-start; font-family: inherit;">Post Message</button>
+  </form>
+  
+  <p id="msg-feedback" style="display: none; font-weight: bold; margin-top: 1rem; opacity: 0.9;"></p>
+  
+  <hr>
+  
+  <!-- MESSAGES -->
+  <div id="messages-container">
+    <p style="opacity: 0.7; font-family: inherit;">Loading messages...</p>
+  </div>
+
+</div>
+```
+
+```{=html}
+<script src="scripts/mymessage.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+```

@@ -1,19 +1,18 @@
 ---
 title: "Archive"
 listing:
-  contents: 
-    - personal/**/*.qmd
-    - work/**/*.qmd
+  contents: personal/**/*.qmd
   sort: "date desc"
+  type: default
+  image-height: 150px
+  max-description-length: 100
   date-format: short
-  type: table
   categories: cloud
   sort-ui: true
   filter-ui: true
-  fields: [date, title]
+  fields: [date, image, title, description, categories]
   exclude:
     categories: "draft*"
-  page-size: 20
 page-layout: full
 title-block-banner: false
 ---

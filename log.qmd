@@ -17,4 +17,4 @@ I mainly use [RStudio](https://posit.co/products/open-source/rstudio/?sid=1) as 
 - **260127** Dark theme
 - **260401** Better dark theme; use '#sample' tag format
 - **260506** New feature 'Surprise Me' added on homepage; better listing page styling for mobile devices
-- **260729** Blog moving from [yyraven.github.io/quarto-blog](yyraven.github.io/quarto-blog) to [yyraven.github.io](yyraven.github.io), temporarily removing the commenting function
+- **260729** Blog moved from [yyraven.github.io/quarto-blog (now disabled)]() to [yyraven.github.io](yyraven.github.io), removed comment section; added a [guestbook](guestbook.qmd), which allows visitors to leave messages without logging in

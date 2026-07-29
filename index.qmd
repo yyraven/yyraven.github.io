@@ -44,7 +44,11 @@ listing:
 
 [archive](archive.qmd){.button} [about](about.qmd){.button} [gallery](gallery.qmd){.button} [changelog](log.qmd){.button} [RSS](index.xml){.button}
 
-<a href="javascript:void(0)" id="random-post-btn" style="cursor: pointer;">Surprise me with</a> a random post!
+<a href="javascript:void(0)" id="random-post-btn" style="cursor: pointer;">Surprise me with</a> a random post.
+
+If you like my blog, please leave me a message [here](guestbook.qmd)!
+
+---
 
 I'm constantly updating my [birding megapost](personal/nd_birding/index.qmd). 
 
