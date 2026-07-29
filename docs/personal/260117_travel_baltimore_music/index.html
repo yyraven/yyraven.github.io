@@ -87,7 +87,7 @@ gtag('config', 'G-XJSP4R93HW', { 'anonymize_ip': true});
 
 <meta property="og:title" content="巴尔的摩｜与音乐 – raven’s nest">
 <meta property="og:description" content="Raven’s Nest, a personal blog">
-<meta property="og:image" content="https://yyraven.github.io/quarto-blog/personal/260117_travel_baltimore_music/covers/jialing.jpg">
+<meta property="og:image" content="https://yyraven.github.io/personal/260117_travel_baltimore_music/covers/jialing.jpg">
 <meta property="og:site_name" content="raven's nest">
 </head>
 
@@ -892,7 +892,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/yyraven\.github\.io\/quarto-blog\/");
+      var filterRegex = new RegExp("https:\/\/yyraven\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -1234,7 +1234,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </nav>
 </div> <!-- /content -->
 <script src="../../scripts/mylikebutton.js"></script>
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","selector":".lightbox","closeEffect":"zoom","openEffect":"zoom","loop":false});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"closeEffect":"zoom","descPosition":"bottom","openEffect":"zoom"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {

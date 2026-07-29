@@ -1,1 +1,1 @@
-Sitemap: https://yyraven.github.io/quarto-blog/sitemap.xml
+Sitemap: https://yyraven.github.io/sitemap.xml

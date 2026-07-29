@@ -8,7 +8,7 @@ website:
   image: figs/preview.png
   open-graph: true
   description: "Raven's Nest, a personal blog"
-  site-url: https://yyraven.github.io/quarto-blog/
+  site-url: https://yyraven.github.io/
   google-analytics: G-XJSP4R93HW
   site-path: "/"
   body-footer: |
