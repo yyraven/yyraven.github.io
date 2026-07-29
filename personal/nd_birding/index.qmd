@@ -277,7 +277,7 @@ fillOpacity = 1, radius = 5) %>%
 #### ![](pixelart/canadagoose_s.png) Baltimore, MD: Patterson Park
 
 ::: column-margin
-![Patterson Park, May 2025](landspics/pattersonpark.JPeG){group="landspics"}
+![Patterson Park, May 2025](landspics/pattersonpark.jpeg){group="landspics"}
 :::
 
 -   **Type**: Urban \| Wetlands (freshwater)
