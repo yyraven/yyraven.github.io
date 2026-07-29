@@ -1,0 +1,145 @@
+---
+title: ""
+from: markdown
+format: 
+  html:
+    page-layout: article
+    anchor-sections: false
+navbar: false
+sidebar: false
+listing:
+  id: latest
+  contents: 
+    - personal/**/*.qmd
+  sort: "date desc"
+  max-items: 3
+  type: table
+  sort-ui: false
+  filter-ui: false
+  max-description-length: 100
+  grid-columns: 3
+  date-format: short
+  fields: [date, title, description]
+  exclude:
+    categories: 
+    - "draft*"
+    - "diary*"
+  feed: true
+---
+
+<body id="welcome">
+
+# raven's nest
+
+渡鸦巢 | welcome, my friend
+
+![](figs/crow_s.png)<img src="figs/crow_s.png" class="bird-swap" data-hover="figs/crow_s_flip.png"/> ![](figs/crow_s_flip.png)![](figs/crow_s.png) ![](figs/crow_s.png) ![](figs/crow_s_flip.png)![](figs/crow_s.png)<img src="figs/crow_s.png" class="bird-swap" data-hover="figs/crow_s_flip.png"/>![](figs/crow_s_flip.png) ![](figs/crow_s_flip.png)![](figs/crow_s_flip.png)<img src="figs/crow_s.png" class="bird-swap" data-hover="figs/crow_s_flip.png"/> ![](figs/crow_s_flip.png)![](figs/crow_s.png) ![](figs/crow_s_flip.png)![](figs/crow_s.png)
+
+### Latest | [Archive](archive.qmd)
+
+::: {#latest}
+:::
+
+### Explore
+
+[archive](archive.qmd){.button} [about](about.qmd){.button} [gallery](gallery.qmd){.button} [changelog](log.qmd){.button} [RSS](index.xml){.button}
+
+<a href="javascript:void(0)" id="random-post-btn" style="cursor: pointer;">Surprise me with</a> a random post!
+
+I'm constantly updating my [birding megapost](personal/nd_birding/index.qmd). 
+
+See what I'm reading and watching recently [here](personal/nd_personal_library/index.qmd).
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+library(tidyverse)
+library(readr)
+library(here)
+
+# load
+df <- read_csv(here("personal", "nd_personal_library", "lib_df.csv"))
+lib <- read_csv(here("personal", "nd_personal_library", "lib_df.csv"))
+gig <- read_csv(here("personal", "nd_personal_library", "gig_df.csv"))
+
+# book
+lib_book <- lib %>%
+  filter(type == "book") %>%
+  mutate(name = str_replace(name, "\\[(.*?)\\]\\(.*?\\)", "\\1"))
+
+last_book <- lib_book %>%
+  slice_tail(n = 1)
+
+# movie
+lib_mov <- lib %>%
+  filter(type == "movie") %>%
+  mutate(name = str_replace(name, "\\[(.*?)\\]\\(.*?\\)", "\\1"))
+
+last_mov <- lib_mov %>%
+  slice_tail(n = 1)
+
+gig <- gig %>%
+  mutate(tour = str_replace(tour, "\\[(.*?)\\]\\(.*?\\)", "\\1"))
+
+last_gig <- gig %>%
+  slice_tail(n = 1)
+```
+
+- Recently watched: *`{r} last_mov[1,3]` *by *`{r} last_mov[1,4]` *on `{r} last_mov[1,1]`
+
+- Recently read: *`{r} last_book[1,3]` *by *`{r} last_book[1,4]` *on `{r} last_book[1,1]`
+
+- Recently attended: *`{r} last_gig[1,2]` *by *`{r} last_gig[1,3]` *on `{r} last_gig[1,1]`
+
+<center>
+
+![](figs/crow_s_flip.png)![](figs/crow_s.png)<img src="figs/crow_s.png" class="bird-swap" data-hover="figs/crow_s_flip.png"/>![](figs/crow_s_flip.png)![](figs/crow_s.png)
+
+![Hi, Chicago](figs/26chi.jpg)
+
+```{=html}
+<script>NekoType="kina"</script>
+<h1 id=nl><script src="https://webneko.net/n20171213.js"></script><a 
+href="https://webneko.net">Neko</a></h1>
+
+<script>
+document.getElementById('random-post-btn').addEventListener('click', function(e) {
+    e.preventDefault();
+    const btn = this;
+    const originalText = btn.innerHTML;
+    
+    btn.innerHTML = 'Picking...';
+    btn.style.pointerEvents = 'none';
+
+    fetch('search.json')
+        .then(response => {
+            if (!response.ok) throw new Error('File not found');
+            return response.json();
+        })
+        .then(data => {
+            const posts = data.filter(item => 
+                item.href && 
+                (item.href.includes('personal/') || item.href.includes('work/')) && 
+                !item.href.includes('#')
+            );
+
+            if (posts.length > 0) {
+                const randomIndex = Math.floor(Math.random() * posts.length);
+                let targetRelativePath = posts[randomIndex].href;
+
+                const basePath = window.location.pathname.replace(/\/[^\/]*$/, '/');
+                
+                window.location.href = window.location.origin + basePath + targetRelativePath;
+            } else {
+                alert('No posts found!');
+                btn.innerHTML = originalText;
+                btn.style.pointerEvents = 'auto';
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('Oops! Could not load the blog index.');
+            btn.innerHTML = originalText;
+            btn.style.pointerEvents = 'auto';
+        });
+});
+</script>
+```

@@ -1,0 +1,72 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: figs/crow_s.png
+  title: "raven's nest"
+  image: figs/preview.png
+  open-graph: true
+  description: "Raven's Nest, a personal blog"
+  site-url: https://yyraven.github.io/quarto-blog/
+  google-analytics: G-XJSP4R93HW
+  site-path: "/"
+  body-footer: |
+    <center>© 2024-2026 RavensNest.</center>
+  page-navigation: true
+  bread-crumbs: false
+  search:
+    location: navbar
+    keyboard-shortcut: ["?", "H"]
+  navbar:
+    right:
+    - text: Archive
+      href: archive.qmd
+    - text: About
+      href: about.qmd
+    - text: RSS
+      href: index.xml
+
+  sidebar:
+    - id: personal
+      style: "floating"
+      border: false
+      background: none
+      foreground: "#635d5d"
+      collapse-level: -1
+      contents:
+        - section: "Cities"
+          contents:
+            - auto: "personal/*travel*/*.qmd"
+        - section: "Birding"
+          contents:
+            - auto: "personal/*birding*/*.qmd"
+        - section: "Nature"
+          contents:
+            - auto: "personal/*nature*/*.qmd"
+        - section: "Review"
+          contents:
+            - personal/nd_personal_library/index.qmd
+            - auto: "personal/*review*/*.qmd"
+        - section: "Radio"
+          contents:
+            - auto: "personal/*radio*/*.qmd"
+        - section: "Diary"
+          contents:
+            - auto: "personal/*diary*/*.qmd"
+
+format:
+  html:
+    grid:
+      body-width: 800px
+    theme:
+      light:
+        - morph
+        - focused.scss
+      dark:
+        - morph
+        - dedicated.scss
+
+callout-appearance: simple
+
+csl: figs/nature.csl

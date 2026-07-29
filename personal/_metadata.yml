@@ -1,0 +1,34 @@
+# options specified here will apply to all posts in this folder
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+freeze: true
+
+# Enable banner style title blocks
+title-block-banner: false
+
+# Author name of all blog posts
+author: ""
+
+image: ../figs/preview.png
+
+# Table of content settings
+toc: true
+toc-depth: 3
+
+page-layout: article
+
+from: markdown+emoji
+
+format:
+  html:
+    include-after-body:
+      - text: |
+          <script src="../../scripts/mylikebutton.js"></script>
+
+lightbox: true
+
+filters:
+  - wordcount-blog
+
+sidebar: personal

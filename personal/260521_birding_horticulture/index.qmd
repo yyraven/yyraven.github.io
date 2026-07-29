@@ -1,0 +1,133 @@
+---
+title: "Birding｜Summertime: Watching Songbirds in Your Favourite Park"
+date: "2026-05-21"
+categories: [birding, indiana, nature, EN]
+toc: true
+image: figs/gcb.jpg
+output:
+  html_document:
+    code_folding: hide
+---
+
+Summer has come - *almost*. 
+
+In western Indiana, it means the sun stays up until around 21:00, which makes it a very good time of year to watch songbirds after work. 
+
+My boyfriend sent me a pic of a scarlet tanager ('black-winged redbird', as he named it) on a tree which he randomly encountered on his way to work, and it left me green with envy. As a result, I started going birdwatching from 17:00 to 19:00. My target life list this summer includes the colorful songbirds specific to America - *scarlet tanager, summer tanager, indigo bunting, *and *Baltimore oriole*. Luckily, I've ticked off half my list in only three days.
+
+::: callout-note
+I've fixed some bugs and added some scientific comments to the original post! 260522
+:::
+
+## A Beginner's Guide to Spotting Songbirds
+
+Since I could always somehow find a place near water to live, I mainly watched shorebirds and waterfowl in the past; and since those birds can swim (obviously), they are much more bolder, thus easier to spot than songbirds. However, I don't really want to go near water during summer - I don't want to be a walking buffet for mosquitoes. 
+
+As a result, I started spotting songbirds, and had slowly gathered some tips over these days.
+
+### 1. Birds are more likely to live on 'edges'.
+
+For some reasons I wasn't sure enough, you can always see more songbirds at trailside compared to some place deep in the forest. Maybe it's because there is more food.
+
+### 2. Birds have their territories. 
+
+If you (or your Merlin bird ID app) hear a bird near a tree, and you can't find them immediately, don't worry! Walk past it tomorrow, and you might find your target. 
+
+![I spent 20 minutes waiting for **indigo buntings** yesterday, and today they just sit on the trail.](figs/ib.jpg){group='grp'}
+
+::: callout-tip
+**Read more** about the colorful nine-primaried oscines: [Why Are Buntings All So Good? - Audubon](https://www.audubon.org/magazine/why-are-buntings-all-so-good?int_src=site_search&int_query=bunting)
+:::
+
+### 3. Different birds have different preferences for privacy.
+
+You always see robins, starlings, corvids, pigeons and doves, sparrows, and finches on the open ground. They are braver than other birds, and they usually allow you to approach them closer. 
+
+![Fluffy **chipping sparrow** with a rufous-colored hat.](figs/cps.jpg){group='grp'}
+
+Wrens like to hide in the bushes. You need to bow to see them, and those birds fly away as soon as you stare at them for too long.
+
+Waxwings, mockingbirds, thrashers, cardinals, and catbirds sometimes jump on the branches of roadside shrubs. They are braver than many other birds, but if you approach them suddenly, they will certainly fly away. 
+
+Pewees, vireos, and orioles are very shy. They usually skulk in the canopy of large trees, and most times you can only identify them by their songs. 
+
+![**Baltimore oriole** were not named after the city Baltimore; rather, they were named after the flag of Lord Baltimore because of their black-and-yellow plumage. You can also see that color from the famous Maryland flag. It's almost 30 meters from me to this beautiful little **oriole** bird.](figs/bo.jpg){group='grp'}
+
+::: callout-tip
+**Read more** about niche partitioning, the classic ecology concept: [Spruce-Woods Warblers Revisited: 60 Years Later, the Cast of Characters Has Changed - Cornell Lab](https://www.allaboutbirds.org/news/spruce-woods-warblers-revisited-60-years-later-the-cast-of-characters-has-changed/)
+:::
+
+### 4. Stand still, and use your Dynamic Visual Acuity to find them.
+
+That's it. Use your DVA. If you find a 'singing' tree, stand still under it and wait for 15 minutes, it's highly likely that you'll find that singing bird. 
+
+![Due to their camouflage, it's almost impossible to find this little **vireo** with your naked eyes - unless you see it flying to a branch.](figs/ewv.jpg){group='grp'}
+
+### 5. Size and vibe matter.
+
+Size and vibe of a bird really matter when trying to identify it in the wild. 
+
+For example, people often confuse **orioles** with **robins**, since they both have a darker back and a bright orange belly; but if you know that orioles are smaller, and robins like to walk with their heads held high and chests out, you'll be able to differentiate them immediately. **American goldfinches** like to fly in pairs, if you see some little lemon-yellow bullets flying up and down while glittering under the sun, that's them!
+
+![Comparing to their Chinese relatives spotted doves which chase and bow to the female birds every 5 seconds in mating seasons, **mourning doves** look calm and demure, and you can see that from their silhouette.](figs/md.jpg){group='grp'}
+
+Sometimes you can see large waterfowl and raptors flying overhead, and it's possible to identify them only by the way they fly. For example, **double-crested cormorants** fly by flapping their wings really fast, and if you see some huge bird with its neck retracted, that's almost always a **great blue heron**.
+
+::: callout-tip
+**Read more** about the birds' 'vibe': [Identifying Birds with GISS or JIZZ - Ornithology, the Science of Birds](https://ornithology.com/identifying-birds-with-giss-or-jizz/)
+:::
+
+## Some Memories
+
+Three days ago, for the first time, I saw a female **red-winged blackbird**. She was an incredibly cute little bird, with facial features that subtly mirrored her male counterpart. She was diligently pulling algae from the pond. I initially thought I was seeing some kind of American dipper or waterthrush. After discussing with my friends, we confirmed that it's not a new lifer, which was a bit of a disappointment. Then I remembered her mate flying nearby, calling out loudly. Okay, who am I to stop the happy couple from being there? 
+
+![Unlike its male counterpart, the female **red-winged blackbird** does not have those striking red-and-white epaulettes. This one likes washing herself.](figs/rwbb.jpg){group='grp'}
+
+I also heard some **gray catbirds** meowing, which reminded me of two summers I'd spent on the East Coast before. These light and fluffy gray birds always evoked memories of summer. They are braver birds, slightly smaller than a robin, and like their relatives, mockingbirds, they can mock other birds' songs. Someone called it 'buzz-cut bird' - okay, that's fair - but I'd like to call it 'nun bird' since I think that small patch of gray feathers on its head looks like a 
+nun's hat. 
+
+![My little meow meow... with these little claws...](figs/gcb.jpg){group='grp'}
+
+Additionally, I saw a **common nighthawk** flying overhead, with two prominent white patches on its wings. It flew very high; I initially thought it was a chimney swift. In China, we have nightjars - nighthawks' relatives - which have a mating call that resembles a laser gun. The American version does not sound like that. In ancient China, nightjars were called 'mosquito mother' because of their massive gapes, and the ancients believed that mosquitoes were spat out by them. 
+
+Speaking of which, I got bitten four times by mosquitoes that day. Even fully covered, going into the woods always comes at a price. The good thing is that we don't have *Aedes* here. Back in my hometown, I have got blisters all over my legs because of *Aedes* bites, and trust me, that's an absolute nightmare. 
+
+---
+
+## The Reason We Need a Scientific Name
+
+If you're a Chinese birder like me, you might also be fascinated by the New World birds' beautiful feathers while easily get confused by their common names. 
+
+What do you mean by 'indigo bunting is indeed a cardinal'? Why are 'new world sparrows' indeed 'old world buntings'? Why are American robins look like our Chinese blackbirds, as they both walk *that way* and like pulling earthworms from the ground? Is Beatles singing about our red-winged blackbird in their White album? - that would be a very, very loud song. 
+
+- Baltimore orioles and red-winged blackbirds are both New World Blackbirds (*Icterids*), which has no relationship with our Old World Blackbirds (*Turdus*, aka thrushes). 
+
+- Indigo bunting, as well as summer tanager and scarlet tanager, are not buntings (*Emberizidae*, aka old world buntings) nor tanagers (*Thraupidae*, mostly neotropical birds) but indeed cardinals as our friend northern cardinal (*Cardinalidae*).
+
+- American robin is a thrush (*Turdus*), like Chinese blackbird. It has nothing to do with European robin (*Muscicapidae*, aka Old World Flycatchers). 
+
+- Paul McCartney was singing about European blackbirds/common blackbirds, which look exactly like Chinese blackbirds. Read this interesting article: [Does a Blackbird Sing in a Beatles’ Song?](https://www.birdwatchersgeneralstore.com/does-a-blackbird-sing-in-a-beatles-song/)
+
+- Speaking of new world sparrows and old world buntings, [this reply on the iNaturalist forum](https://forum.inaturalist.org/t/are-old-world-sparrows-new-world-sparrows-and-old-world-buntings-part-of-one-superfamily-or-suborder/64113/4) answers it perfectly: 
+
+>'The “new world sparrows”, Passerellidae, are part of a radiation of birds that happened in north and south america over the last ~17 million years or so, named the Emberizoidea.
+>
+>The common ancestor of Emberizoidea probably started in the Americas, but early on, one lineage went back to Eurasia and formed the ancestor of the old world buntings (Emberizidae) and the longspurs (Calcariidae). Meanwhile, the group continued to diversify in the Americas, forming the new world tanagers, sparrows, warblers, cardinals, and a bunch of smaller families.
+>
+>The closest relatives of the Paserelidae sparrows are the new world warblers, blackbirds, and some smaller lineages endemic to the Caribbean and Central America (eg. chat-tanager, wrenthrush, Puerto Rican tanager, Spindalis).
+>
+>So, in the grand scheme of things, the Passerellidae are fairly closely related to the Emberizidae (both in Emberizoidea), though they are not each other’s closest relatives (Emberizidae is closer to the longspurs, Paserellidae is closer to new world warblers/cardinals/tanagers/etc.
+>
+>The Passeridae sparrows are even more distantly related: the common ancestor of the Passeridae and Emberizoidea probably lived in Eurasia a little over 20 million years ago. After Passeridae split off, that lineage did not produce any other families, so technically the Emberizoidea are their closest relatives, but so are the Fringillidae finches and Motacillidae wagtails that branched off before Emberizoidea started to radiate into its different families.'
+  
+---
+
+## 'Let's just forget everything said'
+
+American Football is releasing a new album this summer, if you know...
+
+::: photo-row
+![Looks exactly like their LP1.](figs/others_2.jpeg){group='grp'}
+
+![](figs/others_3.jpeg){group='grp'}
+:::

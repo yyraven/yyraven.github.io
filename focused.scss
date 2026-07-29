@@ -1,0 +1,507 @@
+/* This scss file is based on the bootstrap theme 'morph' */
+/* author: yyraven https://github.com/yyraven */
+
+/*-- scss:defaults --*/
+/* ==========================================================================
+   1. VARIABLES & SETUP
+   ========================================================================== */
+
+/* Color Palette */
+$body-bg:           #fdfbf7;
+$body-color:        #445466;
+$link-color:        #4b9ab0;
+$link-hover-color:  #d68c3a;
+$code-color:        #2d6a78;
+$code-bg:           rgba(#4b9ab0, 0.12);
+$code-block-bg:     $code-bg;
+$text-muted:        #8e9ba8;
+
+/* Typography Stacks */
+$font-serif:      'Newsreader', 'Noto Serif SC', serif;
+$font-sans:       'Quicksand', 'Noto Sans SC', sans-serif;
+$font-cursive:    'Castoro', 'Noto Serif SC', serif;
+$font-cursive-sans: 'Comfortaa', 'Noto Sans SC', sans-serif;
+$font-code:       'Fira Code', monospace;
+
+/* Spacing and Borders */
+$padding:         1.2rem;
+$margin:          1rem;
+$border-radius:   0.2rem;
+
+/* Imported Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Noto+Serif+SC:wght@200..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Fira+Code:wght@400;500;600&family=Noto+Sans+SC:wght@300;400;500;700&family=Quicksand:wght@300..700&display=swap');
+
+
+/*-- scss:rules --*/
+/* ==========================================================================
+   2. GLOBAL RESETS
+   ========================================================================== */
+
+* {
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+
+::selection {
+  background-color: rgba($link-color, 0.5);
+}
+
+html {
+  scrollbar-color: rgba($link-color, 0.5) rgba(0,0,0,0);
+  scrollbar-gutter: none !important;
+  scrollbar-width: thin;
+  border-radius: 0;
+}
+
+body {
+  background-color: $body-bg;
+  color: $body-color;
+  font-family: $font-serif;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 0;
+  padding: $padding;
+  border-radius: $border-radius;
+}
+
+img,
+video,
+figure {
+  border-radius: none !important;
+}
+
+pre,
+.sourceCode,
+blockquote,
+.callout,
+.card,
+.alert,
+table {
+  border-radius: $border-radius !important;
+  overflow: hidden;
+}
+
+/* ==========================================================================
+   3. TYPOGRAPHY & INLINE ELEMENTS
+   ========================================================================== */
+
+/* Links */
+a {
+  color: $link-color;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+
+  &:hover {
+    color: $link-hover-color;
+    text-decoration-style: wavy;
+  }
+}
+
+/* Code */
+code {
+  background-color: $code-bg;
+  color: $code-color;
+  font-family: $font-code;
+}
+
+pre code {
+  color: $body-color;
+}
+
+/* Headings */
+h1 {
+  font-family: $font-cursive;
+  color: $link-color;
+  margin: $margin 0;
+  font-weight: 400;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: $font-serif;
+  font-weight: 400;
+  border-bottom: none !important;
+  color: $link-color;
+  margin: $margin 0;
+}
+
+/* Lists */
+ul {
+  list-style-type: disc;
+  padding-left: 2rem;
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+}
+
+/* Divider */
+hr {
+  color: $link-color;
+  border: none;
+  text-align: center;
+  margin: 2rem 0;
+  opacity: 1;
+
+  &::before {
+    content: "~~~";
+    font-family: $font-cursive;
+    font-size: 1.2rem;
+    letter-spacing: 0.2rem;
+  }
+}
+
+/* Blockquotes & Callouts */
+blockquote, .callout {
+  background-color: $code-block-bg;
+  color: $code-color !important;
+  border-left: 1px solid $link-color;
+  padding: 1rem;
+  font-style: italic;
+  background-size: 6px 6px;
+  background-position: 0 0, 3px 3px;
+}
+
+/* ==========================================================================
+   4. COMPONENTS (Buttons, Navbar, Sidebar)
+   ========================================================================== */
+
+/* Buttons */
+.button {
+  background-color: $link-color;
+  color: $body-bg;
+  border: 1px solid $link-color;
+  padding: 0.1rem;
+  font-family: $font-cursive;
+  font-size: 1rem;
+  cursor: pointer;
+  letter-spacing: 1px;
+
+  &:hover {
+    color: $body-bg;
+    background-color: $link-hover-color;
+    border-color: $link-hover-color;
+  }
+}
+
+/* Navbar */
+.navbar {
+  background-color: $code-block-bg;
+  border-bottom: 1px solid;
+  font-family: $font-cursive;
+  text-transform: lowercase;
+  padding: 0.2rem 1rem;
+  backdrop-filter: blur(2px);
+  background-size: 6px 6px;
+  background-position: 0 0, 3px 3px;
+
+  &:hover {
+    color: $link-hover-color;
+  }
+
+  &, .navbar-brand, .nav-link, .navbar-text, .navbar-toggler, * {
+    color: $link-color !important;
+    border-color: $link-color !important;
+  }
+}
+
+.quarto-dark .quarto-color-scheme-toggle{
+filter: invert(100%) !important;
+}
+
+.navbar-toggler-icon {
+  background-image: none !important;
+  background-color: $link-color !important;
+
+  -webkit-mask: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") center/100% 100% no-repeat;
+  mask: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") center/100% 100% no-repeat;
+
+  transition: transform 0.25s ease-in-out, mask 0.25s ease-in-out, -webkit-mask 0.25s ease-in-out;
+}
+
+.navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
+  -webkit-mask: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M7 7l16 16M23 7L7 23'/%3e%3c/svg%3e") center/100% 100% no-repeat;
+  mask: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M7 7l16 16M23 7L7 23'/%3e%3c/svg%3e") center/100% 100% no-repeat;
+
+  transform: rotate(90deg);
+}
+
+/* Sidebar & Navigation */
+.sidebar, .sidebar-navigation {
+  font-family: $font-serif;
+
+  .sidebar-item a.sidebar-link {
+    color: $body-color !important;
+    font-size: 0.8rem;
+
+    &:hover {
+      color: $link-color !important;
+      transform: translateY(1px);
+      opacity: 1;
+    }
+    &.active {
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      font-weight: 500;
+      color: $link-color !important;
+    }
+  }
+
+  ul ul {
+    padding-left: 0.6rem;
+    opacity: 0.85;
+  }
+}
+
+/* Table of Contents */
+#TOC {
+  font-family: $font-serif;
+
+  a {
+    color: $body-color !important;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0.8rem;
+
+    &:hover {
+      color: $link-color !important;
+      transform: translateY(1px);
+      transition: all 0s ease;
+    }
+    &.active {
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      font-weight: 500;
+      color: $link-color !important;
+    }
+  }
+}
+
+/* Disable responsive sidebar on mobile */
+@media (max-width: 992px) {
+  .quarto-btn-toggle { display: none; }
+  .flex-grow-1 { pointer-events: none; }
+}
+
+/* ==========================================================================
+   5. QUARTO SPECIFIC STYLES & OVERRIDES
+   ========================================================================== */
+
+/* Drop borders */
+.callout,
+.quarto-listing-table,
+.quarto-post,
+.quarto-header,
+.zindex-over-content,
+.quarto-appendix {
+  border: none !important;
+}
+
+table thead {
+  border-bottom: 0.8px solid $body-color !important;
+}
+
+.quarto-secondary-nav,
+.quarto-secondary-nav * {
+  color: $link-color;
+  border-bottom: none !important;
+}
+
+/* Margin Sidebar Hidden Scrollbars */
+#quarto-margin-sidebar {
+  overflow-y: auto;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE 10+ */
+
+  &::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Edge */
+  }
+}
+
+/* Form Elements & Tables */
+.listing-actions-group,
+.input-group,
+.form-select,
+.quarto-listing-table {
+  font-family: $font-serif;
+  background: none !important;
+  font-size: 0.9rem;
+}
+
+/* Appendix transparent backgrounds */
+#quarto-appendix,
+#quarto-appendix *,
+.quarto-appendix,
+.quarto-appendix * {
+  background-color: transparent !important;
+  background-image: none !important;
+  box-shadow: none !important;
+}
+
+/* Captions */
+.quarto-figure figcaption,
+.figure figcaption,
+.column-margin,
+.quarto-listing-category {
+  font-family: $font-serif;
+  font-size: 0.8rem;
+  color: rgba($body-color, 0.8);
+}
+
+/* Categories & Tags */
+.quarto-category,
+.listing-category {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 12px 0 0 !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+  text-transform: lowercase !important;
+  display: inline-flex !important;
+  align-items: center;
+  color: $body-color !important;
+
+  &::before {
+    content: "#";
+    color: $link-hover-color;
+    margin-right: 2px;
+    font-family: system-ui;
+  }
+
+  &:hover {
+    color: $link-hover-color !important;
+  }
+}
+
+.quarto-title-meta-contents .quarto-category {
+  margin-right: 5px;
+}
+
+/* Pagination */
+.pagination {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.pagination .page-link {
+    background-color: transparent !important;
+    color: $link-color !important;
+    border-color: transparent !important;
+}
+
+.page-item:not(.active) .page-link:hover {
+    background-color: transparent !important;
+    color: $link-hover-color !important;
+}
+
+.page-item.active .page-link {
+    background-color: transparent !important;
+    color: $body-color !important;
+    text-decoration: underline;
+}
+
+/* ==========================================================================
+   7. MOBILE TABLE OVERRIDE (Responsive Tracklist Vibe)
+   ========================================================================== */
+
+@media (max-width: 992px) {
+  .quarto-listing-table {
+    display: block;
+  }
+
+  .quarto-listing-table thead {
+    display: none !important;
+  }
+
+  .quarto-listing-table tbody,
+  .quarto-listing-table tr,
+  .quarto-listing-table td {
+    display: block;
+    width: 100%;
+    text-align: left !important;
+  }
+
+  .quarto-listing-table tr {
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid rgba($link-color, 0.5);
+    padding-bottom: 0.8rem;
+  }
+
+  .quarto-listing-table td {
+    padding: 0.1rem 0 !important;
+    border: none !important;
+  }
+
+  .quarto-listing-table td.listing-date {
+    font-family: $font-code;
+    font-size: 0.75rem;
+    color: rgba($body-color, 0.7);
+    margin-bottom: 0.2rem;
+  }
+
+  .quarto-listing-table td.listing-title {
+    font-size: 1.05rem;
+  }
+
+  .quarto-listing-table td.listing-description {
+    font-size: 0.85rem;
+    margin-top: 0.3rem;
+    opacity: 0.8;
+  }
+}
+
+/* Page Navigation */
+.nav-page .nav-page-text {
+  font-size: 0.8rem;
+}
+
+/* ==========================================================================
+   6. CUSTOM ACTIONS & MEDIA
+   ========================================================================== */
+
+/* Bird Swap */
+.bird-swap {
+  content: url("figs/crow_s.png");
+  transition: 0.3s ease;
+
+  &:hover {
+    content: url("figs/crow_s_flip.png");
+  }
+}
+
+/* Photo Row Gallery */
+.photo-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 1rem;
+  overflow-x: auto;
+  padding: 0.5rem 0;
+
+  img {
+    max-height: min(60vh, 28vw);
+    width: auto;
+    flex-shrink: 0;
+    object-fit: contain;
+  }
+}
+
+/* Utilities */
+.blur {
+  filter: blur(3px);
+  transition: filter 0.3s ease;
+
+  &:hover {
+    filter: blur(0);
+  }
+}
+
+.wordcount {
+  padding: 0 0 1rem 0;
+  font-size: 0.8rem;
+  color: $link-color;
+}

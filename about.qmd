@@ -1,0 +1,28 @@
+---
+title: "About"
+toc: false
+---
+
+## Me <img src="figs/crow_s.png" class="bird-swap" data-hover="figs/crow_s_flip.png"/>
+
+You can call me *'Raven'*. I enjoy digital painting, [birdwatching](personal/nd_birding/index.qmd), and listening to music.
+
+<details>
+
+<summary>*3 Fun Facts About Me*</summary>
+
+I like rainy days.
+
+*Uchiha Itachi* from *Naruto* has crows as his messengers and incarnation - that's the major reason I chose *'Raven'* as my online nickname at 16 yo. From then on I keep encountering more loveable corvids in literature and reality...
+
+[During primary and school my online nickname was *'Nyan-Nyan Elisa'*, which was somehow related to *Axis Powers Hetalia* for some reason I can't quite remember.]{.blur}
+
+</details>
+
+### Why Blogging
+
+This blog started as a class project to build a professional profile. Over time, I decided to make it more personal. Blogging offers a peaceful online experience without big company manipulation - no ads, no infinite scrolling, no censorship. You can filter all my articles by tags.
+
+### Why 'Raven's Nest'
+
+Corvids like shiny trinkets. I think blogging is like collecting and displaying trinkets online - maybe there are some inherent resemblance? When I lived in Baltimore, I used to see flocks of crows gathering on trees, especially during colder times at dusk and dawn. Sometimes what you think that are leaves would actually be a flock of birds. I tried to re-create that effect in the homepage XD

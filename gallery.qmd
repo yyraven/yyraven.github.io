@@ -1,0 +1,23 @@
+---
+title: "Gallery"
+lightbox: true
+toc: true
+---
+
+![June '26 Hi, Chicago](figs/26chi.jpg){group="home"}
+
+![June '26 'ditto'](figs/2606.jpg){group="home"}
+
+![May '26 fluffy little fairy](figs/2605.jpg){group="home"}
+
+![Apr '26 the U.S. feels mosquito-free unless you’re in the prairies](figs/2604.jpg){group="home"}
+
+![Feb '26 spring for us: invasive flowers and invasive human beings](figs/2602.jpg){group="home"}
+
+![Jan '26 cold rain](figs/2601.jpg){group="home"}
+
+![Dec '25 First winter in midwest :-\>](figs/2512.jpg){group="home"}
+
+---
+
+Pete Townshend.![](figs/gifs_7.gif)

@@ -1,0 +1,19 @@
+---
+title: "Archive"
+listing:
+  contents: 
+    - personal/**/*.qmd
+    - work/**/*.qmd
+  sort: "date desc"
+  date-format: short
+  type: table
+  categories: cloud
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title]
+  exclude:
+    categories: "draft*"
+  page-size: 20
+page-layout: full
+title-block-banner: false
+---

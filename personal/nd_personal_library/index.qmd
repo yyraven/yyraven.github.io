@@ -1,0 +1,338 @@
+---
+title: "置顶｜工业风豆瓣"
+date: "2025-12-12"
+categories: [book, movie, music, documentary, review, 中文]
+lightbox: false
+description: 书影音记录
+output:
+  html_document:
+    code_folding: hide
+---
+
+```{r set-up, echo = FALSE, message = FALSE, warning = FALSE}
+library(tidyverse)
+library(knitr)
+library(purrr)
+library(infer)
+library(scales)
+library(lubridate) # deal w/ date
+library(showtext) # deal w/ Chinese characters
+
+showtext_auto()
+
+# theme
+pekosz_theme <- theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = 'bold'),
+    axis.line = element_line(size = 0.5),
+    axis.ticks = element_line(),
+    legend.title = element_text(face = 'bold'),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+    rect = element_rect(fill = "transparent")
+  )
+theme_set(pekosz_theme)
+
+# load
+lib <- read.csv("lib_df.csv", fileEncoding = "UTF-8")
+gig <- read.csv("gig_df.csv", fileEncoding = "UTF-8")
+
+# global set-up: library
+lib <- lib %>%
+  mutate(date = mdy(date),
+         year = factor(year(date)),
+         month = month(date),
+         day = day(date)) %>%
+  group_by(year)
+
+gig <- gig %>%
+    mutate(date = mdy(date),
+         year = year(date),
+         month = month(date),
+         day = day(date))
+
+# book
+lib_book <- lib %>%
+  filter(type == "book")
+
+# movie
+lib_mov <- lib %>%
+  filter(type == "movie")
+```
+
+```{r split to years, echo = FALSE, message = FALSE, warning = FALSE}
+# 2023
+lib_book_2023 <- lib_book %>%
+  filter(year == "2023")
+
+lib_mov_2023 <- lib_mov %>%
+  filter(year == "2023")
+
+gig_2023 <- gig %>%
+  filter(year == "2023")
+
+# 2024
+lib_book_2024 <- lib_book %>%
+  filter(year == "2024")
+
+lib_mov_2024 <- lib_mov %>%
+  filter(year == "2024")
+
+gig_2024 <- gig %>%
+  filter(year == "2024")
+
+# 2025
+lib_book_2025 <- lib_book %>%
+  filter(year == "2025")
+
+lib_mov_2025 <- lib_mov %>%
+  filter(year == "2025")
+
+gig_2025 <- gig %>%
+  filter(year == "2025")
+
+# 2026
+lib_book_2026 <- lib_book %>%
+  filter(year == "2026")
+
+lib_mov_2026 <- lib_mov %>%
+  filter(year == "2026")
+
+gig_2026 <- gig %>%
+  filter(year == "2026")
+```
+
+
+自 2023 年 8 月以来所有（已完成的）书籍/电影/动漫/现场音乐记录 + 一些统计数据。主要是为了激励我摆脱2020年代的人类之毒aka短视频。
+
+------------------------------------------------------------------------
+
+## 书影音
+
+### 年度总结
+
+<details open>
+
+<summary>2026</summary>
+
+2026年，我一共看了 <code>`r nrow(lib_book_2026)`</code> 本书，<code>`r nrow(lib_mov_2026)`</code> 部电影/电视剧/动画，<code>`r nrow(gig_2026)`</code> 场演出。
+
+::: callout
+- 最喜欢的书：？
+- 最喜欢的电影/电视剧/动画：？
+- 最喜欢的现场：？
+:::
+
+```{r 2026 summ, echo = FALSE, message = FALSE, warning = FALSE}
+#list
+kable(lib_book_2026[,c(1,3,4,5,6,7)])
+
+kable(lib_mov_2026[,c(1,3,4,5,6,7)])
+
+kable(gig_2026[,c(1,2,3,4,5,6,7)])
+```
+
+ongoing...
+
+</details>
+
+<details>
+
+<summary>2025</summary>
+
+2025年，我一共看了 <code>`r nrow(lib_book_2025)`</code> 本书，<code>`r nrow(lib_mov_2025)`</code> 部电影/电视剧/动画，<code>`r nrow(gig_2025)`</code> 场演出。
+
+::: callout
+- 最喜欢的书：在路上
+- 最喜欢的电影/电视剧/动画：没有最喜欢的
+- 最喜欢的现场：Alcest
+:::
+
+```{r 2025 summ, echo = FALSE, message = FALSE, warning = FALSE}
+#list
+kable(lib_book_2025[,c(1,3,4,5,6,7)])
+
+kable(lib_mov_2025[,c(1,3,4,5,6,7)])
+
+kable(gig_2025[,c(1,2,3,4,5,6,7)])
+```
+
+我可以解释…因为申请、毕业和适应新学校什么的…（心虚（算了今年就是不思进取！全部用来doomscrolling了！不好！
+
+</details>
+
+<details>
+
+<summary>2024</summary>
+
+2024年，我一共看了 <code>`r nrow(lib_book_2024)`</code> 本书，<code>`r nrow(lib_mov_2024)`</code> 部电影/电视剧/动画，<code>`r nrow(gig_2024)`</code> 场演出。
+
+::: callout
+- 最喜欢的书：仿生人会梦见电子羊吗？
+- 最喜欢的电影/电视剧/动画：The Shape of Water/My Own Private Idaho/Lost in Translation
+- 最喜欢的现场：Ride
+:::
+
+```{r 2024 summ, echo = FALSE, message = FALSE, warning = FALSE}
+#list
+kable(lib_book_2024[,c(1,3,4,5,6,7)])
+
+kable(lib_mov_2024[,c(1,3,4,5,6,7)])
+
+kable(gig_2024[,c(1,2,3,4,5,6,7)])
+```
+
+过得最爽的一年。
+
+</details>
+
+<details>
+
+<summary>2023</summary>
+
+2023年，我一共看了 <code>`r nrow(lib_book_2023)`</code> 本书，<code>`r nrow(lib_mov_2023)`</code> 部电影/电视剧/动画，<code>`r nrow(gig_2023)`</code> 场演出。
+
+::: callout
+- 最喜欢的书：那不勒斯四部曲
+- 最喜欢的电影/电视剧/动画：没有最喜欢的
+- 最喜欢的现场：没有最喜欢的
+:::
+
+```{r 2023 summ, echo = FALSE, message = FALSE, warning = FALSE}
+
+#list
+kable(lib_book_2023[,c(1,3,4,5,6,7)])
+
+kable(lib_mov_2023[,c(1,3,4,5,6,7)])
+
+kable(gig_2023[,c(1,2,3,4,5,6,7)])
+```
+
+</details>
+
+### 数据分析
+
+#### 哪些天不是读书天
+
+看看啥时候我最不务正业吧。
+
+
+```{r happy times, echo = FALSE, message = FALSE, warning = FALSE}
+months <- rbind(gig[,c("month","year","type")], lib[,c("month","year","type")])
+
+months <- months %>%
+  drop_na()
+
+base1 <- ggplot(months, aes(x = month)) + 
+  geom_bar(aes(fill = type), 
+           position = position_stack()) + 
+  facet_wrap(~year)
+
+base1 +
+  scale_x_discrete(name = "月份",
+                   limits = c("1","2","3","4","5","6","7","8","9","10","11","12"),
+                   expand = c(0,0)) +
+  scale_y_continuous(name = "不务正业次数",
+                     expand = c(0,0),
+                     breaks = breaks_pretty()) +
+  scale_color_brewer(palette = "PuBuGn") +
+  scale_fill_brewer(palette = "PuBuGn") +
+  labs(title = "",
+       color = '种类',
+       fill = '种类')
+```
+
+
+#### 比大时代晚了*千分之一*秒
+
+> “你和我出生在尘埃落定后的时代，晚了千分之一秒” ——乔伊斯（极乐迪斯科）
+
+看看我到底是时代的弄潮儿还是活在20世纪的老古董？
+
+```{r retro, echo = FALSE, message = FALSE, warning = FALSE}
+# extract 
+years <- rbind(gig[,c("publish","type")], lib[,c("publish","type")])
+
+years <- years %>%
+  drop_na() %>%
+  rename(year = publish) %>%
+  mutate(decade = paste0(floor(year / 10) * 10, "s")
+  )
+
+base2 <- ggplot(years, aes(x = decade, color = type, fill = type)) + 
+  geom_bar() + 
+  facet_wrap(~type)
+
+base2 +
+  scale_x_discrete(name = "年代",
+                   expand = c(0,0)) +
+  scale_y_continuous(name = "数量",
+                     expand = c(0,0)) +
+  scale_color_brewer(palette = "PuBuGn") +
+  scale_fill_brewer(palette = "PuBuGn") +
+  labs(title = "",
+       color = '种类',
+       fill = '种类') +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+看书比较平均，60年代**较**多，这也确实是我想要的；电影看的都是最近上映的（本来就并非狂热电影迷）；音乐嘛，我是狂热的80-90年代爱好者，这确实也体现出来了…
+
+#### 我是一个慷慨的打分者吗？
+
+打分一般遵循这个原则：“有无法忽视的问题” - 5分及以下，“无聊但合格” - 6分，“还不错” - 7分，“蛮喜欢” - 8分，“超喜欢” - 9分，“我愿意对出门后遇到的每一个人卖安利” - 10分。
+
+```{r rating, echo = FALSE, message = FALSE, warning = FALSE}
+ratings <- rbind(gig[,c("rating","type")], lib[,c("rating","type")])
+
+ratings <- ratings %>%
+  drop_na()
+
+base3 <- ggplot(ratings, aes(x = factor(rating), color = type, fill = type)) + 
+  geom_bar()
+
+base3 +
+  scale_x_discrete(name = "评分",
+                   expand = c(0,0)) +
+  scale_y_continuous(name = "数量",
+                     expand = c(0,0)) +
+  scale_color_brewer(palette = "PuBuGn") +
+  scale_fill_brewer(palette = "PuBuGn") +
+  labs(title = "",
+       color = '种类',
+       fill = '种类') +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+——我是一个慷慨的打分者吗？从统计数据的角度上，是的。因为一般只有好看才会看完吧。对于书尤其如此，看不下去的我就不会看完（这是一个坏习惯），所以也不会记到这里。
+
+#### 每年花了多少时间读书、看电影？
+
+```{r totalhour, echo = FALSE, message = FALSE, warning = FALSE}
+# extract word count
+yearly_hours <- lib_book %>%
+  select(year, count) %>%
+  drop_na() %>%
+  group_by(year) %>%
+  summarise(
+    book_hours = round(sum(count) / 18000),
+    .groups = "drop"
+  )
+
+yearly_hours2 <- lib_mov %>%
+  select(year, count) %>%
+  drop_na() %>%
+  group_by(year) %>%
+  summarise(
+    movie_hours = round(sum(count) / 60),
+  )
+
+hour_summary <- cbind(yearly_hours, yearly_hours2[,2]) %>%
+  mutate(total_hours = book_hours + movie_hours)
+
+kable(hour_summary)
+```
+
+## 音乐电台
+
+季度音乐推荐，详见tag[“音乐电台”](../../archive.qmd#category=radio)。

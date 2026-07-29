@@ -1,0 +1,20 @@
+---
+title: "Changelog"
+toc: false
+---
+
+This blog was made using [Quarto](https://quarto.org/). 
+
+I mainly use [RStudio](https://posit.co/products/open-source/rstudio/?sid=1) as my text editor and publish it to [GitHub Pages](https://docs.github.com/en/pages).
+
+-   **240913** Blog started
+-   **241109** Comment section using [utterances](https://utteranc.es/)
+-   **241109** Favicon (a focused crow!)
+-   **251211** Kudos button using [code](https://bohemiansultriness.nekoweb.org/goodies/mylikebutton.txt) by [Fritzi](https://bohemiansultriness.nekoweb.org); word count adapted from christopherkenny's Quarto [wordcount](https://github.com/christopherkenny/wordcount) extension, added CJK character fits 
+-   **251211** The little cat cartoon on homepage is powered by [Neko](https://webneko.net/?white)
+-   **251212** RSS feed
+-   **251214** Sidebar/Page navigation. See Quarto documentation [here](https://quarto.org/docs/websites/website-navigation.html#side-navigation)
+- **260127** Dark theme
+- **260401** Better dark theme; use '#sample' tag format
+- **260506** New feature 'Surprise Me' added on homepage; better listing page styling for mobile devices
+- **260729** Blog moving from [yyraven.github.io/quarto-blog](yyraven.github.io/quarto-blog) to [yyraven.github.io](yyraven.github.io), temporarily removing the commenting function

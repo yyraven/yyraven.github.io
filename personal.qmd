@@ -1,0 +1,18 @@
+---
+title: "Personal"
+listing:
+  contents: personal/**/*.qmd
+  sort: "date desc"
+  type: default
+  image-height: 150px
+  max-description-length: 100
+  date-format: short
+  categories: cloud
+  sort-ui: true
+  filter-ui: true
+  fields: [date, image, title, description, categories]
+  exclude:
+    categories: "draft*"
+page-layout: full
+title-block-banner: false
+---

@@ -1,0 +1,58 @@
+---
+title: "Birding｜Spring Migration: Birds are flowing out like endless rain into a paper cup"
+date: "2026-03-26"
+categories: [birding, indiana, celery bog, nature, EN]
+toc: true
+image: figs/pelicans1.jpg
+output:
+  html_document:
+    code_folding: hide
+---
+
+> *...and they slither wildly as they slip away across the universe.*
+
+Spring is here. 
+
+It means: the temperature is getting warmer, the snow has finally stopped, and **the migration season is coming**.
+
+*Celery Bog*, the small pond north of West Lafayette, is a regional migration trap in Indiana; last April, I saw a bunch of American White Pelicans floating on the north pond of Celery Bog during a campus visit, and I immediately decided that I would accept my graduate school offer (okay, that’s at least partially true). Anyway, I have waited for one whole year to see those beautiful guests! Hooray!!
+
+## A Total of 30 Pelicans! Isn't that Beautiful?
+
+![](figs/pelicans1.jpg){group='grp'}
+
+I ran into pelicans totally unexpectedly yesterday. 
+
+Yes, I checked eBird daily to see if they have flown to Celery Bog yet (they were in Bicentennial Park last weekend), but I expect to see them in the north pond rather than the main pond. The second I saw a bunch of huge white birds floating on water when I entered the trail, my heart immediately started racing. 
+
+I watched them for a while. Those huge creatures swam in groups, using their red-orange legs for power, all towards one direction; and then they stopped and started using their huge beaks to dig and scoop in the shallow water (I heard that Celery Bog is only ~ 0.5m deep). They got fish - they are good fishers for sure - and then raised their chin (do they have chins?!) and swallowed their dinner (does it count as dinner if they have dinner every 10 minutes?). There were 22 of them. 
+
+I followed them to the overlook near the natural center, and some fellow birders told me that there are 30 of them in total. Those 22 pelicans swam towards us, met 8 resting pelicans standing next to some trees, and started socializing. They were really quiet and calm birds, never barked or what, just flapped their wings and preened their feathers in total silence. In contrast, the red-winged blackbirds and Canada geese were really loud.
+
+!['conk-la-REEEEEEEE!!!'](figs/RWBB.jpg){group='grp'}
+
+Interestingly, those white pelicans behaved quite differently compared to brown pelicans. I've seen brown pelicans twice, once at Cannon Beach, Oregon, and once at Malibu Lagoon, Los Angeles. Brown pelicans usually fly in a line extremely close to the sea, and swooped down to catch fish, which is obviously really different from our elegant guests.
+
+The arrival of white pelicans also benefited many other birds. For a while, a group of gulls - about 6 Bonaparte’s gulls and 2 ring-billed gulls (much larger than the others), all in their winter coat - flew around the pelicans, trying to catch some fish that the pelicans had gathered before. Great blue herons were also around, as they always do, but they kept standing still to wait for their food. I once saw one catch a big red fish (seemingly carp?) here in Celery bog, and struggled to swallow it. 
+
+The way nature works is so fascinating.
+
+![Those sneaky little opportunists...](figs/pelicans2.jpg){group='grp'}
+
+## Duck Lucky Streak
+
+Because it's the migration season, I've seen 5 different duck species this week! How lucky I am.
+
+After birdwatching in Shui Ba Xian Park in Suzhou last December, I got some experience looking for ducks. Unlike mallards, which are literally everywhere, other smaller duck species are usually much shier, as they tend to float on the water far away from the shore or hide in the reeds. I've seen bufflehead, ruddy duck, northern pintail, blue-winged teal, and, of course, mallards, here in celery bog this spring. Since they were so far away from the shore, I didn't get any nice pictures, but you can surely check them in the [birding megapost](../nd_birding/index.qmd). 
+
+Buffleheads are lovely, lively little fancy ducks. They dived up and down in the water like little orcas, and their feathers with iridescent structural color shined like obsidian under sunlight, which could be seen from a long distance. I enjoyed watching them so much. 
+
+## When Can I Finally See Ruby
+
+![- Is she in her home today? - No.](figs/treehole.jpg){group='grp'}
+
+Ruby, the mysterious eastern screech owl living on the tree near celery bog natural center, has been on my 'target species' list for a long time. I've heard of her since last November from my fellow bird club members. I've tried to see her three times by the time I wrote this post (3/14 ~10 a.m., 3/21 ~12 p.m., 3/25 ~5 p.m.) and only saw an empty treehole. 
+
+Someone on RedNote told me that she is usually there an hour before sunset... I'd try next time!
+
+![I want to see Ruby so bad that I have a lucky owl on my camera.](figs/wx800.jpg){group='grp'}
