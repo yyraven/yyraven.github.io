@@ -1,7 +1,9 @@
 ---
 title: "Archive"
 listing:
-  contents: personal/**/*.qmd
+  contents: 
+  - personal/**/*.qmd
+  - project/**/*.qmd
   sort: "date desc"
   type: default
   image-height: 150px

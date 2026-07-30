@@ -11,6 +11,7 @@ listing:
   id: latest
   contents: 
     - personal/**/*.qmd
+    - project/**/*.qmd
   sort: "date desc"
   max-items: 3
   type: table

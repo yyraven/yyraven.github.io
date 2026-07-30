@@ -1,0 +1,113 @@
+---
+title: "EasyGuestBook: A Lightweight GuestBook Tool for Static Blogs"
+date: "2026-07-29"
+image: logo.png
+description: "'EasyGuestBook' is a serverless, Google Forms-powered guestbook built for static blogs such as Quarto."
+categories: [blog, tool, development, javascript, EN]
+---
+
+![](logo.png)
+
+## About EasyGuestBook
+
+**EasyGuestBook** is a lightweight guestbook designed for static blogs (natively built for Quarto, adaptable anywhere).
+
+- **No user login** required; hosts only need a **Google account** to manage everything. 
+
+- **Features**: Markdown & emoji support, inline replies, and css styling.
+
+- **Architecture** (only 2 files): 
+  1. `easyguestbook.js`: Handles logic and Google Forms/Sheets integration.
+  2. `easyguestbook.qmd` (or `.html`): Contains the submission form and message board.
+  
+:::{.callout-note}
+Try the live demo on [my guestbook](../../guestbook.qmd)!
+:::
+
+---
+
+## Step-by-Step Guide
+
+### Download the tool
+   - Go to the EasyGuestBook GitHub repository: [yyraven/easyguestbook](https://github.com/yyraven/easyguestbook).
+   - Download the `easyguestbook.js` and `easyguestbook.qmd` files to your computer.
+
+### Set Up Google Forms & Sheets
+
+#### 1. Create a Google Form
+   - Go to Google Forms, and create a new blank form with 3 "Short answer" fields in this order: **nickname**, **homepage**, and **message**.
+
+#### 2. Get your Google Form ID and Entry IDs
+   - Click the three dots (⋮) in the top right corner, and select **"Get pre-filled link"**.
+   - Type dummy text into each field (e.g., `testname`, `testmessage`, `testwebsite`) and click **"Get link"** at the bottom.
+   - The link will look something like this:
+
+> `https://docs.google.com/forms/d/e/PLACEHOLDER_FORM_ID_abcdefg/viewform?usp=pp_url&entry.placeholder123=testname&entry.placeholder456=testwebsite&entry.placeholder789=testmessage`
+
+   - Your **Google form ID** would be the one between `...d/e/` and `/viewform?...`. For the example above, it should be `PLACEHOLDER_FORM_ID_abcdefg`.
+   - Your **entry IDs** would be the corresponding `entry.XXXXXXXX` IDs. For the example above, they should be `entry.placeholder123`, `entry.placeholder456`, and `entry.placeholder789`.
+   - Save those 4 IDs for later.
+
+#### 3. Make the Form Public
+   - Click **"Share"** in the top right corner. Under "General access", change it to **"Anyone with the link"**.
+
+#### 4. Create the Linked Google Sheet
+   - Go to the **"Responses"** tab at the top of your Google Form.
+   - Click the green **"Link to Sheets"** icon to create a spreadsheet that is linked to your form. It will store the message we receive.
+
+#### 5. Make the Sheet Public
+   - Open the new Google Sheet.
+   - Click **"Share"** in the top right corner. Under "General access", change it to **"Anyone with the link"**. This allows your blog to read the messages.
+
+#### 6. Get your Google Sheet ID
+   - Look at the URL of your Google Sheet. It will look like this: 
+
+> `https://docs.google.com/spreadsheets/d/PLACEHOLDER_SHEET_ID_hijklmn/edit?resourcekey=&gid=111111111#gid=2222222222222`
+
+   - Your **Google sheet ID** would be the one between `.../d/` and `/edit?...`. For the example above, it should be `PLACEHOLDER_SHEET_ID_hijklmn`.
+   - Save it for later.
+
+### Configuration & Deployment
+
+#### 7. Configure the JavaScript File
+   - Open `easyguestbook.js` in a text editor.
+   - At the very top, locate the `CONFIGURATION` section.
+   - Replace the 5 placeholder IDs with your actual Form ID, Sheet ID, and entry IDs you saved earlier.
+
+#### 8. Deploy to Quarto
+   - Simply drop both `easyguestbook.qmd` and `easyguestbook.js` into your Quarto blog's project directory. 
+   - Render your site, and your guestbook is live!
+   - Later, you can manage and edit the messages you received via that Google Sheet directly.
+
+---
+
+## Using with Other Static Sites
+
+EasyGuestBook also works with other static site generators or plain HTML websites. 
+
+The setup process for Google Forms and Sheets above is **exactly the same**. The only difference is how you **deploy** it:
+
+- Open `easyguestbook.qmd` and copy the first HTML block (everything between `<div style="max-width: 650px;...">` and its closing `</div>`).
+- Paste this HTML into your static site's page or template, and drop `easyguestbook.js` to your project directory. 
+- Add links to `easyguestbook.js` and `marked.js` (for Markdown support) scripts at the bottom of your page, right before the closing `</body>` tag:
+   
+```html
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="path/to/your/easyguestbook.js"></script>
+```
+
+## CSS Styling
+
+You don't need to write any custom CSS to make EasyGuestBook look good on your blog.
+
+The HTML structure uses smart, native inline styles (like `background: transparent`, `color: inherit`, `font-family: inherit`, and `border: currentColor`). This means the guestbook will automatically adapt to your website's existing CSS styling.
+
+---
+
+## License, Credit & Contact
+
+Released under [the MIT license](https://opensource.org/license/mit).
+
+Inspired by [Fritzi](https://bohemiansultriness.nekoweb.org)'s project [mylikebutton](https://bohemiansultriness.nekoweb.org/goodies/mylikebutton.txt).
+
+If you have any questions or suggestions, please feel free to contact me on my [guestbook](../../guestbook.qmd) or open an issue on the [project repo](https://github.com/yyraven/easyguestbook).

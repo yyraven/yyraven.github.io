@@ -17,7 +17,212 @@
 <width>144</width>
 </image>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Tue, 28 Jul 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>EasyGuestBook: A Lightweight GuestBook Tool for Static Blogs</title>
+  <link>https://yyraven.github.io/project/260729_tool_easyguestbook/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="post-meta-bar">
+  <span class="wordcount"> ✎496 </span>
+  <span class="mylikebutton"> ♥</span>
+</div>
+
+<p><a href="logo.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://yyraven.github.io/project/260729_tool_easyguestbook/logo.png" class="img-fluid"></a></p>
+<section id="about-easyguestbook" class="level2">
+<h2 class="anchored" data-anchor-id="about-easyguestbook">About EasyGuestBook</h2>
+<p><strong>EasyGuestBook</strong> is a lightweight guestbook designed for static blogs (natively built for Quarto, adaptable anywhere).</p>
+<ul>
+<li><p><strong>No user login</strong> required; hosts only need a <strong>Google account</strong> to manage everything.</p></li>
+<li><p><strong>Features</strong>: Markdown &amp; emoji support, inline replies, and css styling.</p></li>
+<li><p><strong>Architecture</strong> (only 2 files):</p>
+<ol type="1">
+<li><code>easyguestbook.js</code>: Handles logic and Google Forms/Sheets integration.</li>
+<li><code>easyguestbook.qmd</code> (or <code>.html</code>): Contains the submission form and message board.</li>
+</ol></li>
+</ul>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Try the live demo on <a href="../../guestbook.html">my guestbook</a>!</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="step-by-step-guide" class="level2">
+<h2 class="anchored" data-anchor-id="step-by-step-guide">Step-by-Step Guide</h2>
+<section id="download-the-tool" class="level3">
+<h3 class="anchored" data-anchor-id="download-the-tool">Download the tool</h3>
+<ul>
+<li>Go to the EasyGuestBook GitHub repository: <a href="https://github.com/yyraven/easyguestbook">yyraven/easyguestbook</a>.</li>
+<li>Download the <code>easyguestbook.js</code> and <code>easyguestbook.qmd</code> files to your computer.</li>
+</ul>
+</section>
+<section id="set-up-google-forms-sheets" class="level3">
+<h3 class="anchored" data-anchor-id="set-up-google-forms-sheets">Set Up Google Forms &amp; Sheets</h3>
+<section id="create-a-google-form" class="level4">
+<h4 class="anchored" data-anchor-id="create-a-google-form">1. Create a Google Form</h4>
+<ul>
+<li>Go to Google Forms, and create a new blank form with 3 “Short answer” fields in this order: <strong>nickname</strong>, <strong>homepage</strong>, and <strong>message</strong>.</li>
+</ul>
+</section>
+<section id="get-your-google-form-id-and-entry-ids" class="level4">
+<h4 class="anchored" data-anchor-id="get-your-google-form-id-and-entry-ids">2. Get your Google Form ID and Entry IDs</h4>
+<ul>
+<li>Click the three dots (⋮) in the top right corner, and select <strong>“Get pre-filled link”</strong>.</li>
+<li>Type dummy text into each field (e.g., <code>testname</code>, <code>testmessage</code>, <code>testwebsite</code>) and click <strong>“Get link”</strong> at the bottom.</li>
+<li>The link will look something like this:</li>
+</ul>
+<blockquote class="blockquote">
+<p><code>https://docs.google.com/forms/d/e/PLACEHOLDER_FORM_ID_abcdefg/viewform?usp=pp_url&amp;entry.placeholder123=testname&amp;entry.placeholder456=testwebsite&amp;entry.placeholder789=testmessage</code></p>
+</blockquote>
+<ul>
+<li>Your <strong>Google form ID</strong> would be the one between <code>...d/e/</code> and <code>/viewform?...</code>. For the example above, it should be <code>PLACEHOLDER_FORM_ID_abcdefg</code>.</li>
+<li>Your <strong>entry IDs</strong> would be the corresponding <code>entry.XXXXXXXX</code> IDs. For the example above, they should be <code>entry.placeholder123</code>, <code>entry.placeholder456</code>, and <code>entry.placeholder789</code>.</li>
+<li>Save those 4 IDs for later.</li>
+</ul>
+</section>
+<section id="make-the-form-public" class="level4">
+<h4 class="anchored" data-anchor-id="make-the-form-public">3. Make the Form Public</h4>
+<ul>
+<li>Click <strong>“Share”</strong> in the top right corner. Under “General access”, change it to <strong>“Anyone with the link”</strong>.</li>
+</ul>
+</section>
+<section id="create-the-linked-google-sheet" class="level4">
+<h4 class="anchored" data-anchor-id="create-the-linked-google-sheet">4. Create the Linked Google Sheet</h4>
+<ul>
+<li>Go to the <strong>“Responses”</strong> tab at the top of your Google Form.</li>
+<li>Click the green <strong>“Link to Sheets”</strong> icon to create a spreadsheet that is linked to your form. It will store the message we receive.</li>
+</ul>
+</section>
+<section id="make-the-sheet-public" class="level4">
+<h4 class="anchored" data-anchor-id="make-the-sheet-public">5. Make the Sheet Public</h4>
+<ul>
+<li>Open the new Google Sheet.</li>
+<li>Click <strong>“Share”</strong> in the top right corner. Under “General access”, change it to <strong>“Anyone with the link”</strong>. This allows your blog to read the messages.</li>
+</ul>
+</section>
+<section id="get-your-google-sheet-id" class="level4">
+<h4 class="anchored" data-anchor-id="get-your-google-sheet-id">6. Get your Google Sheet ID</h4>
+<ul>
+<li>Look at the URL of your Google Sheet. It will look like this:</li>
+</ul>
+<blockquote class="blockquote">
+<p><code>https://docs.google.com/spreadsheets/d/PLACEHOLDER_SHEET_ID_hijklmn/edit?resourcekey=&amp;gid=111111111#gid=2222222222222</code></p>
+</blockquote>
+<ul>
+<li>Your <strong>Google sheet ID</strong> would be the one between <code>.../d/</code> and <code>/edit?...</code>. For the example above, it should be <code>PLACEHOLDER_SHEET_ID_hijklmn</code>.</li>
+<li>Save it for later.</li>
+</ul>
+</section>
+</section>
+<section id="configuration-deployment" class="level3">
+<h3 class="anchored" data-anchor-id="configuration-deployment">Configuration &amp; Deployment</h3>
+<section id="configure-the-javascript-file" class="level4">
+<h4 class="anchored" data-anchor-id="configure-the-javascript-file">7. Configure the JavaScript File</h4>
+<ul>
+<li>Open <code>easyguestbook.js</code> in a text editor.</li>
+<li>At the very top, locate the <code>CONFIGURATION</code> section.</li>
+<li>Replace the 5 placeholder IDs with your actual Form ID, Sheet ID, and entry IDs you saved earlier.</li>
+</ul>
+</section>
+<section id="deploy-to-quarto" class="level4">
+<h4 class="anchored" data-anchor-id="deploy-to-quarto">8. Deploy to Quarto</h4>
+<ul>
+<li>Simply drop both <code>easyguestbook.qmd</code> and <code>easyguestbook.js</code> into your Quarto blog’s project directory.</li>
+<li>Render your site, and your guestbook is live!</li>
+<li>Later, you can manage and edit the messages you received via that Google Sheet directly.</li>
+</ul>
+<hr>
+</section>
+</section>
+</section>
+<section id="using-with-other-static-sites" class="level2">
+<h2 class="anchored" data-anchor-id="using-with-other-static-sites">Using with Other Static Sites</h2>
+<p>EasyGuestBook also works with other static site generators or plain HTML websites.</p>
+<p>The setup process for Google Forms and Sheets above is <strong>exactly the same</strong>. The only difference is how you <strong>deploy</strong> it:</p>
+<ul>
+<li>Open <code>easyguestbook.qmd</code> and copy the first HTML block (everything between <code>&lt;div style="max-width: 650px;..."&gt;</code> and its closing <code>&lt;/div&gt;</code>).</li>
+<li>Paste this HTML into your static site’s page or template, and drop <code>easyguestbook.js</code> to your project directory.</li>
+<li>Add links to <code>easyguestbook.js</code> and <code>marked.js</code> (for Markdown support) scripts at the bottom of your page, right before the closing <code>&lt;/body&gt;</code> tag:</li>
+</ul>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode html code-with-copy"><code class="sourceCode html"><span id="cb1-1"><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&lt;</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">script</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> src</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"https://cdn.jsdelivr.net/npm/marked/marked.min.js"</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;&lt;/</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">script</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;</span></span>
+<span id="cb1-2"><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&lt;</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">script</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> src</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"path/to/your/easyguestbook.js"</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;&lt;/</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">script</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;</span></span></code></pre></div>
+</section>
+<section id="css-styling" class="level2">
+<h2 class="anchored" data-anchor-id="css-styling">CSS Styling</h2>
+<p>You don’t need to write any custom CSS to make EasyGuestBook look good on your blog.</p>
+<p>The HTML structure uses smart, native inline styles (like <code>background: transparent</code>, <code>color: inherit</code>, <code>font-family: inherit</code>, and <code>border: currentColor</code>). This means the guestbook will automatically adapt to your website’s existing CSS styling.</p>
+<hr>
+</section>
+<section id="license-credit-contact" class="level2">
+<h2 class="anchored" data-anchor-id="license-credit-contact">License, Credit &amp; Contact</h2>
+<p>Released under <a href="https://opensource.org/license/mit">the MIT license</a>.</p>
+<p>Inspired by <a href="https://bohemiansultriness.nekoweb.org">Fritzi</a>’s project <a href="https://bohemiansultriness.nekoweb.org/goodies/mylikebutton.txt">mylikebutton</a>.</p>
+<p>If you have any questions or suggestions, please feel free to contact me on my <a href="../../guestbook.html">guestbook</a> or open an issue on the <a href="https://github.com/yyraven/easyguestbook">project repo</a>.</p>
+
+
+<div class="post-like-footer" style="display:flex; justify-content:flex-end;">
+  <div class="mylikebutton">Kudos ♥</div>
+</div>
+
+</section>
+
+<center>
+© 2024-2026 RavensNest.
+</center> ]]></description>
+  <category>blog</category>
+  <category>tool</category>
+  <category>development</category>
+  <category>javascript</category>
+  <category>EN</category>
+  <guid>https://yyraven.github.io/project/260729_tool_easyguestbook/</guid>
+  <pubDate>Wed, 29 Jul 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://yyraven.github.io/project/260729_tool_easyguestbook/logo.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
 <item>
   <title>音乐电台｜2026 音乐与我的四季</title>
   <link>https://yyraven.github.io/personal/260728_radio/</link>
@@ -6219,68 +6424,6 @@
   <guid>https://yyraven.github.io/personal/240401_review_allwatched/</guid>
   <pubDate>Mon, 01 Apr 2024 04:00:00 GMT</pubDate>
   <media:content url="https://yyraven.github.io/figs/preview.png" medium="image" type="image/png" height="69" width="144"/>
-</item>
-<item>
-  <title>滚妹人格｜属于我的蒙娜丽莎</title>
-  <link>https://yyraven.github.io/personal/240120_review_ride/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="post-meta-bar">
-  <span class="wordcount"> ✎2431 </span>
-  <span class="mylikebutton"> ♥</span>
-</div>
-
-<p>这是我在看完RIDE/The Charlatans的Between Nowhere Tour以后在狂热状态下写的日记。</p>
-<p>现在回想起来，那种快乐到眩晕的状态可能一辈子都不会再体验到了。因为疫情原因，在这场演出以前，我只看过校园乐队的小演出和没什么感觉的大团的arena演出。这是我第一次在这么近、这么小的场馆里看到水平很棒的、我很喜欢的乐队演出，身边还有亲密的朋友；RIDE的四个人带着他们的爆裂音响就这样杵在我面前，简直是根本不够看。第一次看到吉他手离我这么近地表演solo，那冲击力真是不一般。喝酒也没有经验，狂灌了一整瓶。费城Union Transfer的音量是我去过的场馆里最响的，当时我又不知道要戴耳塞，最后耳鸣了一晚上，然后拖着这个破听力和朋友躺在床上不停地反刍。那天还在下雪，当时我还是那种刚搬到北方的南方人，看到雪地还会兴奋，还没有开始讨厌冬天。</p>
-<p>以后去看多著名的乐队或许都不会有这种感觉了，因为只属于我的蒙娜丽莎我早已遇见……</p>
-<hr>
-<p>回巴尔的摩的火车真是太晃了。</p>
-<p>度过了一个非常不错的周末！周五中午开完组会后和Ⰶ去学校里玩雪，玩了一个小时，然后乘Amtrak去了费城，在♫家和𓃝以及♫的室友一起吃了晚饭，她们做了腊肠饭，牛仔骨和虾饺，每个都好吃得离谱，非常满足。</p>
-<p>18:45我们打车去了Union Transfer。整个下午我一直非常担心演出被取消，因为美国东北部在下暴风雪，我们大学的官方活动都被取消了。到达目的地以后，等的人已经在门口排成了一条长队，我就安心太多了，并且也很开心这么多人愿意提早一个小时过来。我们过了安检，买了酒，然后就跑到前排去等着了，心情简直就是飘飘欲仙的激动。</p>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="figs/pic_2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Union Transfer平面图"><img src="https://yyraven.github.io/personal/240120_review_ride/figs/pic_2.jpg" class="img-fluid figure-img" alt="Union Transfer平面图"></a></p>
-<figcaption>Union Transfer平面图</figcaption>
-</figure>
-</div>
-</div></div><p>The Charlatans的部分我迅速带过。他们的主唱Tim Burgess巨会营业：当你还在为“我不是单纯来朝圣的，有5%的我是想在演出结束后发Instagram”而感到愧疚时，Tim已经在演出中间掏出手机号召大家挥手蹦迪，然后把手机倒过来拍自己了，网感未免有点太好。</p>
-<p>中场休息时酒瓶已空。舞台的灯光是绿色的，我们站在第三排左侧的位置等着巡演工作人员把设备调好。我和朋友开玩笑说，待会儿可能就没有这么多营业了，因为Mark和Andy都有吉他在手上，腾不出手来指挥蹦迪。最先搬上来的是写着RIDE的底鼓，然后是三个效果器板，Steve的在左边，中间是Mark的，右边是Andy的。虽然完全不懂单块，一种强烈的瘙痒的冲动还是让我踮着脚努力去看板上到底有什么。伟大的建筑一般的电路系统啊。Mark有一个红色的块，上面的两行光点不停的来回闪动。吉他也搬出来了，两把Rickenbacker，一把樱桃红的，一把红色的；两把Gretsch，一把红的<span class="blur">(其实是Trini Lopez)</span>，一把原木色的。这时，音响里切到了Blur的The Narcissist。我忽然感觉这是我在The Ballad of Darren发行半年后第一次真正与这首歌共情。与朋友们微醺地站在台下等着喜爱的乐队上台的感觉如此之好，人生能有几次这样的经历呀？之前一直吐槽这首歌是Damon Albarn年近60终于把抑郁症治好了，现在只觉得幸福。可能是疫情的原因吧，身边的联系都显得愈发珍贵起来。</p>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="figs/pic_1.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="对耳膜宝具！"><img src="https://yyraven.github.io/personal/240120_review_ride/figs/pic_1.jpg" class="img-fluid figure-img" alt="对耳膜宝具！"></a></p>
-<figcaption>对耳膜宝具！</figcaption>
-</figure>
-</div>
-</div></div><p>接着，灯光渐暗，音乐变成低沉而逐渐加快的鼓点。后台的灯光亮了起来，观众席里的嘈杂声落了下来，最后变成一阵阵的欢呼和尖叫。乐队成员上台了，我一边狂跳一边举着一个Love from China的牌牌，Mark问：大家好吗？准备好了吗？那就开始吧。</p>
-<p>Seagull，狂风暴雨一般的嘶鸣声；Kaleidoscope，脑浆跟着吉他一起旋转；In a different place, 灯光似乎和音乐一起升腾；Polar bear, “如果云会唱歌，那就这就是它的声音”……</p>
-<p>Dreams burn down开始之前，Mark逗观众一定要报出歌名才演，还一再嫌大家喊得不够响，一直努力保持矜持的我便再也无法忍受，发出了尖锐的爆鸣声。Loz的鼓太帅了。每一首歌都很完美。做实验的时候听的音乐，冬季闲逛看海时听的音乐，现在就在离我如此之近的舞台上，以这样暴力、直白、美丽的方式爆炸，震碎我的鼓膜直达灵魂。Vapour trail的前奏响起的时候我没有录像，而是百分百地投入合唱。音量如此之响，我基本聋了，听到Andy的声音是完全变形了的，但还是很开心。清新的旋律和单纯美丽的歌词，就像第一次点开Nowhere的那一刻一般，就像初恋一般。Tim给Here and Now合了口琴，我从未意识到口琴可以拥有这样近乎暴力的美感。然后是Nowhere, Lannoy Point, Monaco和新歌Peace Sign。前排的姐姐们应该是铁粉，在Peace Sign的副歌特别给面子地举起双手，比出“耶”的手势应援。收尾曲是Leave Them All Behind。前奏那段采样出来的时候我真的要哭了。Mark喝了一口他那蜂蜜威士忌，Andy看着笑一笑，Steve铺垫着前奏，然后两把Gretsch一起加进来。天呐，我离得那么近，近得可以看到每一个和弦变换和每一个推弦；所有的声音以一种迷幻又充满力量的方式在我脑后一块酸涩的区域混合起来。<q>I don’t care about the colors, I don’t care about the light, I don’t care about the truth…</q> 然后是吉他独奏——主旋律的变奏加上哇音踏板，音符跟着鼓点迸发出来，如此明亮，仿佛鸟儿沐浴着晨光从混沌的黑暗中挣扎而出。最后的outro是一浪高过一浪的音墙，就像刹车失效的公路旅行和不会有终点的逃亡……</p>
-<p>接着魔法师停下了魔咒。Andy说，谢谢，希望我们能很快再见。 Loz给大家拍了照，我们在上面。</p>
-<p>再接着就是长长的、似乎永远都不会结束的后劲。乘着这份飘飘欲仙的心情，我花了35刀买了丑丑的巡演T恤，在Union Transfer “sold out”的告示牌前面拍了照，在回♫家的出租车上跟着广播哼starman，最后变成大合唱；第二天幸福而无所顾忌地倒在费城美术馆前洁白松软的积雪上。</p>
-<p>回到巴尔的摩后，真的感觉有变得更加热爱生活。我对♫说想把这一刻的幸福全部榨出来，风干储存，这样每次想回忆的时候就能掏出来看看，就又有力量可以继续生活了。我真的可以如此贪心吗？但至少到星期三的现在，坐在实验室的椅子上写这篇日记时，那种不可思议的快乐的心情依然存在。<q>Maybe it’s really, really, really can happen!</q></p>
-<p><span class="blur">再也吹不出那样的彩虹屁，看了也会红着脸躲避</span></p>
-
-
-<div class="post-like-footer" style="display:flex; justify-content:flex-end;">
-  <div class="mylikebutton">Kudos ♥</div>
-</div>
-
-<center>
-© 2024-2026 RavensNest.
-</center> ]]></description>
-  <category>music</category>
-  <category>review</category>
-  <category>shoegaze</category>
-  <category>中文</category>
-  <guid>https://yyraven.github.io/personal/240120_review_ride/</guid>
-  <pubDate>Sat, 20 Jan 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://yyraven.github.io/personal/240120_review_ride/figs/pic_2.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

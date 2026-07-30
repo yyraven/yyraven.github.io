@@ -32,33 +32,9 @@
     ]
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/personal/260728_radio/index.html",
-      "/personal/260617_nature_horticulture/index.html",
-      "/personal/260609_review_romance/index.html",
-      "/personal/260525_review_sgf/index.html",
-      "/personal/260521_birding_horticulture/index.html",
-      "/personal/260505_review_westgames/index.html",
-      "/personal/260328_travel_baltimore_citywalk/index.html",
-      "/personal/260326_birding_celerybog/index.html",
-      "/personal/260124_travel_baltimore_railroad/index.html",
-      "/personal/260117_travel_baltimore_music/index.html",
-      "/personal/260112_birding_eaglecreek/index.html",
-      "/personal/260108_diary/index.html",
-      "/personal/251231_radio/index.html",
-      "/personal/nd_personal_library/index.html",
-      "/personal/nd_birding/index.html",
-      "/personal/241214_radio/index.html",
-      "/personal/241029_review_oys/index.html",
-      "/personal/240618_radio/index.html",
-      "/personal/240401_review_allwatched/index.html",
-      "/personal/240120_review_ride/index.html"
-    ]
-  },
-  {
     "listing": "/archive.html",
     "items": [
+      "/project/260729_tool_easyguestbook/index.html",
       "/personal/260728_radio/index.html",
       "/personal/260617_nature_horticulture/index.html",
       "/personal/260609_review_romance/index.html",
@@ -86,6 +62,32 @@
       "/personal/220504_diary/index.html",
       "/personal/210824_diary/index.html",
       "/personal/210804_diary_to_sister/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/project/260729_tool_easyguestbook/index.html",
+      "/personal/260728_radio/index.html",
+      "/personal/260617_nature_horticulture/index.html",
+      "/personal/260609_review_romance/index.html",
+      "/personal/260525_review_sgf/index.html",
+      "/personal/260521_birding_horticulture/index.html",
+      "/personal/260505_review_westgames/index.html",
+      "/personal/260328_travel_baltimore_citywalk/index.html",
+      "/personal/260326_birding_celerybog/index.html",
+      "/personal/260124_travel_baltimore_railroad/index.html",
+      "/personal/260117_travel_baltimore_music/index.html",
+      "/personal/260112_birding_eaglecreek/index.html",
+      "/personal/260108_diary/index.html",
+      "/personal/251231_radio/index.html",
+      "/personal/nd_personal_library/index.html",
+      "/personal/nd_birding/index.html",
+      "/personal/241214_radio/index.html",
+      "/personal/241029_review_oys/index.html",
+      "/personal/240618_radio/index.html",
+      "/personal/240401_review_allwatched/index.html",
+      "/personal/240120_review_ride/index.html"
     ]
   }
 ]

@@ -30,6 +30,16 @@ website:
       href: index.xml
 
   sidebar:
+    - id: project
+      style: "floating"
+      border: false
+      background: none
+      foreground: "#635d5d"
+      collapse-level: -1
+      contents:
+        - section: "Tools"
+          contents:
+            - auto: "project/*tool*/*.qmd"
     - id: personal
       style: "floating"
       border: false

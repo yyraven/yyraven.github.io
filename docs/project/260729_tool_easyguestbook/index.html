@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="">
-<meta name="dcterms.date" content="2026-04-02">
-<meta name="description" content="搬离巴尔的摩0.83周年纪念，一些多余的情感">
+<meta name="dcterms.date" content="2026-07-29">
+<meta name="description" content="‘EasyGuestBook’ is a serverless, Google Forms-powered guestbook built for static blogs such as Quarto.">
 
-<title>日记｜Country Mouse, City Mouse – raven’s nest</title>
+<title>EasyGuestBook: A Lightweight GuestBook Tool for Static Blogs – raven’s nest</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,6 +23,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -33,8 +67,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<link href="../../personal/210804_diary_to_sister/index.html" rel="next">
-<link href="../../personal/260108_diary/index.html" rel="prev">
 <link href="../../figs/crow_s.png" rel="icon" type="image/png">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -86,10 +118,12 @@ gtag('config', 'G-XJSP4R93HW', { 'anonymize_ip': true});
 </script>
 
 
-<meta property="og:title" content="日记｜Country Mouse, City Mouse – raven’s nest">
-<meta property="og:description" content="搬离巴尔的摩0.83周年纪念，一些多余的情感">
-<meta property="og:image" content="https://yyraven.github.io/personal/260402_diary_citymouse/figs/baltimore2.jpeg">
+<meta property="og:title" content="EasyGuestBook: A Lightweight GuestBook Tool for Static Blogs – raven’s nest">
+<meta property="og:description" content="‘EasyGuestBook’ is a serverless, Google Forms-powered guestbook built for static blogs such as Quarto.">
+<meta property="og:image" content="https://yyraven.github.io/project/260729_tool_easyguestbook/logo.png">
 <meta property="og:site_name" content="raven's nest">
+<meta property="og:image:height" content="640">
+<meta property="og:image:width" content="1280">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -138,7 +172,7 @@ gtag('config', 'G-XJSP4R93HW', { 'anonymize_ip': true});
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <a class="flex-grow-1 no-decor" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-          <h1 class="quarto-secondary-nav-title">日记｜Country Mouse, City Mouse</h1>
+          <h1 class="quarto-secondary-nav-title">EasyGuestBook: A Lightweight GuestBook Tool for Static Blogs</h1>
         </a>     
     </div>
   </nav>
@@ -151,228 +185,17 @@ gtag('config', 'G-XJSP4R93HW', { 'anonymize_ip': true});
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
- <span class="menu-text">Cities</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Tools</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../personal/260124_travel_baltimore_railroad/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">巴尔的摩｜与铁路</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260117_travel_baltimore_music/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">巴尔的摩｜与音乐</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260328_travel_baltimore_citywalk/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">巴尔的摩｜遛弯指南</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
- <span class="menu-text">Birding</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/nd_birding/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">All About Birding</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260326_birding_celerybog/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Birding｜Spring Migration: Birds are flowing out like endless rain into a paper cup</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260112_birding_eaglecreek/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Birding｜A Visit to Eagle Creek Park</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260521_birding_horticulture/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Birding｜Summertime: Watching Songbirds in Your Favourite Park</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
- <span class="menu-text">Nature</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260617_nature_horticulture/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Nature｜Finding Wildness in a Forgotten Game Day Parking Lot</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
- <span class="menu-text">Review</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/nd_personal_library/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">置顶｜工业风豆瓣</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260609_review_romance/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">观后感｜心血来潮的爱情片马拉松</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/240401_review_allwatched/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">观后感｜一切皆被慈爱的机器注视</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/240120_review_ride/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">滚妹人格｜属于我的蒙娜丽莎</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260525_review_sgf/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">滚妹人格｜夏日&amp;盯鞋&amp;音乐节初体验</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260505_review_westgames/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">游戏评测｜公路旅行模拟器们</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/241029_review_oys/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">滚妹人格｜分割世界的桥</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
- <span class="menu-text">Radio</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 ">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/251231_radio/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">音乐电台｜2025 音乐与我的四季</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/241214_radio/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">音乐电台｜2024 音乐与我的四季</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/240618_radio/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">音乐电台｜2024 上半年的一周一曲</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260728_radio/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">音乐电台｜2026 音乐与我的四季</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
- <span class="menu-text">Diary</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/250320_diary/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">日记｜黑狗</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/250714_diary/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">日记｜我做小姨，真的假的</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260108_diary/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">年终总结｜2025 身体拖着精神前进</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260402_diary_citymouse/index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">日记｜Country Mouse, City Mouse</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/210804_diary_to_sister/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">书信｜妹亲启：高中生活完全不指南</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/220504_diary/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">日记｜又是一年青年节</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/260204_diary/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">日记｜你快乐所以我快乐</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../personal/210824_diary/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">日记｜荚蒾</span></a>
+  <a href="../../project/260729_tool_easyguestbook/index.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">EasyGuestBook: A Lightweight GuestBook Tool for Static Blogs</span></a>
   </div>
 </li>
       </ul>
@@ -382,25 +205,42 @@ gtag('config', 'G-XJSP4R93HW', { 'anonymize_ip': true});
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#about-easyguestbook" id="toc-about-easyguestbook" class="nav-link active" data-scroll-target="#about-easyguestbook">About EasyGuestBook</a></li>
+  <li><a href="#step-by-step-guide" id="toc-step-by-step-guide" class="nav-link" data-scroll-target="#step-by-step-guide">Step-by-Step Guide</a>
+  <ul class="collapse">
+  <li><a href="#download-the-tool" id="toc-download-the-tool" class="nav-link" data-scroll-target="#download-the-tool">Download the tool</a></li>
+  <li><a href="#set-up-google-forms-sheets" id="toc-set-up-google-forms-sheets" class="nav-link" data-scroll-target="#set-up-google-forms-sheets">Set Up Google Forms &amp; Sheets</a></li>
+  <li><a href="#configuration-deployment" id="toc-configuration-deployment" class="nav-link" data-scroll-target="#configuration-deployment">Configuration &amp; Deployment</a></li>
+  </ul></li>
+  <li><a href="#using-with-other-static-sites" id="toc-using-with-other-static-sites" class="nav-link" data-scroll-target="#using-with-other-static-sites">Using with Other Static Sites</a></li>
+  <li><a href="#css-styling" id="toc-css-styling" class="nav-link" data-scroll-target="#css-styling">CSS Styling</a></li>
+  <li><a href="#license-credit-contact" id="toc-license-credit-contact" class="nav-link" data-scroll-target="#license-credit-contact">License, Credit &amp; Contact</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">日记｜Country Mouse, City Mouse</h1>
+<h1 class="title d-none d-lg-block">EasyGuestBook: A Lightweight GuestBook Tool for Static Blogs</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">baltimore</div>
-    <div class="quarto-category">diary</div>
-    <div class="quarto-category">中文</div>
+    <div class="quarto-category">blog</div>
+    <div class="quarto-category">tool</div>
+    <div class="quarto-category">development</div>
+    <div class="quarto-category">javascript</div>
+    <div class="quarto-category">EN</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    搬离巴尔的摩0.83周年纪念，一些多余的情感
+    ‘EasyGuestBook’ is a serverless, Google Forms-powered guestbook built for static blogs such as Quarto.
   </div>
 </div>
 
@@ -411,7 +251,7 @@ gtag('config', 'G-XJSP4R93HW', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">April 2, 2026</p>
+      <p class="date">July 29, 2026</p>
     </div>
   </div>
   
@@ -424,69 +264,153 @@ gtag('config', 'G-XJSP4R93HW', { 'anonymize_ip': true});
 
 
 <div class="post-meta-bar">
-  <span class="wordcount"> ✎2280 </span>
+  <span class="wordcount"> ✎496 </span>
   <span class="mylikebutton"> ♥</span>
 </div>
 
+<p><a href="logo.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="logo.png" class="img-fluid"></a></p>
+<section id="about-easyguestbook" class="level2">
+<h2 class="anchored" data-anchor-id="about-easyguestbook">About EasyGuestBook</h2>
+<p><strong>EasyGuestBook</strong> is a lightweight guestbook designed for static blogs (natively built for Quarto, adaptable anywhere).</p>
+<ul>
+<li><p><strong>No user login</strong> required; hosts only need a <strong>Google account</strong> to manage everything.</p></li>
+<li><p><strong>Features</strong>: Markdown &amp; emoji support, inline replies, and css styling.</p></li>
+<li><p><strong>Architecture</strong> (only 2 files):</p>
+<ol type="1">
+<li><code>easyguestbook.js</code>: Handles logic and Google Forms/Sheets integration.</li>
+<li><code>easyguestbook.qmd</code> (or <code>.html</code>): Contains the submission form and message board.</li>
+</ol></li>
+</ul>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Try the live demo on <a href="../../guestbook.html">my guestbook</a>!</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="step-by-step-guide" class="level2">
+<h2 class="anchored" data-anchor-id="step-by-step-guide">Step-by-Step Guide</h2>
+<section id="download-the-tool" class="level3">
+<h3 class="anchored" data-anchor-id="download-the-tool">Download the tool</h3>
+<ul>
+<li>Go to the EasyGuestBook GitHub repository: <a href="https://github.com/yyraven/easyguestbook">yyraven/easyguestbook</a>.</li>
+<li>Download the <code>easyguestbook.js</code> and <code>easyguestbook.qmd</code> files to your computer.</li>
+</ul>
+</section>
+<section id="set-up-google-forms-sheets" class="level3">
+<h3 class="anchored" data-anchor-id="set-up-google-forms-sheets">Set Up Google Forms &amp; Sheets</h3>
+<section id="create-a-google-form" class="level4">
+<h4 class="anchored" data-anchor-id="create-a-google-form">1. Create a Google Form</h4>
+<ul>
+<li>Go to Google Forms, and create a new blank form with 3 “Short answer” fields in this order: <strong>nickname</strong>, <strong>homepage</strong>, and <strong>message</strong>.</li>
+</ul>
+</section>
+<section id="get-your-google-form-id-and-entry-ids" class="level4">
+<h4 class="anchored" data-anchor-id="get-your-google-form-id-and-entry-ids">2. Get your Google Form ID and Entry IDs</h4>
+<ul>
+<li>Click the three dots (⋮) in the top right corner, and select <strong>“Get pre-filled link”</strong>.</li>
+<li>Type dummy text into each field (e.g., <code>testname</code>, <code>testmessage</code>, <code>testwebsite</code>) and click <strong>“Get link”</strong> at the bottom.</li>
+<li>The link will look something like this:</li>
+</ul>
 <blockquote class="blockquote">
-<p>“<strong>Shivers</strong> Raise the hair on your neck. Tune in to the city.</p>
-<p>Cool for: City Lovers, The Wisest of the Street Wise, The Genuinely Supra-Natural”</p>
-<p>- Disco Elysium</p>
+<p><code>https://docs.google.com/forms/d/e/PLACEHOLDER_FORM_ID_abcdefg/viewform?usp=pp_url&amp;entry.placeholder123=testname&amp;entry.placeholder456=testwebsite&amp;entry.placeholder789=testmessage</code></p>
 </blockquote>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="figs/baltimore2.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="天人感应 - 雨后的海边很安静，空气中弥漫着一层蓝色的雾气，海风咸咸的。这是三月的傍晚。位置：Fell’s Point"><img src="figs/baltimore2.jpeg" class="img-fluid figure-img" alt="天人感应 - 雨后的海边很安静，空气中弥漫着一层蓝色的雾气，海风咸咸的。这是三月的傍晚。位置：Fell’s Point"></a></p>
-<figcaption><strong>天人感应</strong> - 雨后的海边很安静，空气中弥漫着一层蓝色的雾气，海风咸咸的。这是三月的傍晚。<em>位置：Fell’s Point</em></figcaption>
-</figure>
-</div>
-<p>去年十月一个人去看了电锯人剧场版。</p>
-<p>苏联训练的间谍炸弹人蕾塞要杀死电次，带走电次的电锯人心脏。蕾塞伪装成普通的咖啡店打工女高和电次约会。她问电次，你要当乡下的老鼠还是城里的老鼠？城里机会多，但是会被猫吃掉，被车撞死；乡下的生活很平静，却也没什么值得兴奋的事情会发生。电次说，我要当城里的老鼠，果然还是要生活在城里赚钱吧，并且在城里可以和上司玛奇玛小姐约会（大意）！蕾塞心里想当的是乡下的老鼠。大战后蕾塞卸下伪装，说自己执行任务失败了，以后只能逃亡了。电次说我可以和你私奔。蕾塞拒绝了，但站在月台还是没能狠心坐上离开城市的火车，还是忍不住去平常打工的咖啡店找电次。电影的最后蕾塞被在暗巷里埋伏的玛奇玛杀死。</p>
-<p>乡下的老鼠和城里的老鼠是经典的伊索寓言故事，小时候在新东方学英语，老师也让我们做过这个故事的presentation。虽然当时的注意力全放在用油画棒画老鼠的衣服上了，我给城市老鼠画了西装，乡下老鼠画了三层蛋糕裙。当时是2010年，2021年我用谷歌搜自己名字还能搜到当年老师的新浪博客，现在不知道在哪一次搜索引擎优化后消失在网络的洪流中了。天啊，为了自己的新东方学员写一整篇图文并茂的新浪博客，到底是多热爱自己的工作。</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="figs/baltimore1.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="食髓知味 - 这个草坪很陡、很绿。很好*滚*。尤其是*喝醉*的时候……位置：Federal Hill Park"><img src="figs/baltimore1.jpg" class="img-fluid figure-img" alt="食髓知味 - 这个草坪很陡、很绿。很好*滚*。尤其是*喝醉*的时候……位置：Federal Hill Park"></a></p>
-<figcaption><strong>食髓知味</strong> - 这个草坪很陡、很绿。很好*滚*。尤其是*喝醉*的时候……<em>位置：Federal Hill Park</em></figcaption>
-</figure>
-</div>
-<p>说到老鼠就又会想起巴尔的摩。巴尔的摩的房子里会有灰色的小老鼠，街上会跑黑色的大老鼠，Fell’s Point街上看到过老大一只，穿过整个街道钻进树下面的雨水收集管道里，奔跑的时候尾巴摆成一个波浪形。</p>
-<p>我是城里的老鼠还是乡下的老鼠？之前是不知道的，现在搬到乡下大半年，我觉得我是城里的老鼠。美国的郊区化运动是这个国家犯下最大的错误之一。开皮卡出门，去车程1个小时的地方逛Mall，娱乐是请一群人来房子里开party，开的party里small talk是主要活动，这种生活实在太无聊了。我成年前的大多数时光都是在双向一车道的闹市区度过的，喜欢房屋挤挤攘攘的感觉，喜欢路边小餐馆里放着的品味很烂俗的音乐，喜欢铁道交通，喜欢形形色色的居民在街道上擦肩而过。在这儿学校里还遇到一辈子没出过Indiana的人跟我说没去过纽约，因为“大城市太吵太可怕了”。哇，这就是乡下的老鼠。内心泛起的不可思议让我愈发意识到自己真的是城里的老鼠。这辈子一定要在超级大城市里住两年，再去执行末日来临前的任何隐居计划！——这种程度的城里的老鼠。</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="figs/reddit1.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="博学多闻 [中等:失败] - 我都忘了John Eager Howard雕像长得这么像Horseback Monument。 标新立异 [简单:成功] - 不过估计这个世界上大多男人与马的雕像都长这样。来源Reddit。"><img src="figs/reddit1.jpeg" class="img-fluid figure-img" style="width:60.0%" alt="博学多闻 [中等:失败] - 我都忘了John Eager Howard雕像长得这么像Horseback Monument。 标新立异 [简单:成功] - 不过估计这个世界上大多男人与马的雕像都长这样。来源Reddit。"></a></p>
-<figcaption><strong>博学多闻</strong> [中等:失败] - 我都忘了John Eager Howard雕像长得这么像Horseback Monument。<br><strong>标新立异</strong> [简单:成功] - 不过估计这个世界上大多男人与马的雕像都长这样。来源<a href="https://www.reddit.com/r/baltimore/comments/1gucups/someone_improved_the_statue_in_washington_place/">Reddit</a>。<br></figcaption>
-</figure>
-</div>
-<p>有人说美国的高速路建设让社区与社区之间无法通过穷人能负担得起的交通方式相连，这样就能巧妙地把穷人排除在富人区之外。住在巴尔的摩的时候不懂，去Indy玩的时候才有切实感受，去Ikea、pho店、Eagle Creek都要开车，高速公路边上也没有步行道，城市中心是干净而空荡的，就像还没放进人物角色的城市经营模拟器一样。怎么可能有人在这种地方住得下去？！从小就过着这种生活的人到底会长成什么样啊。</p>
-<p>这又让我想到了之前去Mount Sinai面试的时候。面我的老师听到我来自巴尔的摩，跟我说，Baltimore is great! It’s better than DC. 我说，How is that possible? 她说，DC’s Chinatown is fake as fuck, it has McDonald’s in it. 我说，What are you saying, Baltimore does not even have a Chinatown.（实际上曾经是有过的，就在downtown西边一点的地方。）她笑着说，No Chinatown is better than a fake Chinatown。当时没理解，现在感觉稍微懂一点她在说什么了。Indy就给我这种感觉：No downtown is better than a fake downtown。</p>
+<ul>
+<li>Your <strong>Google form ID</strong> would be the one between <code>...d/e/</code> and <code>/viewform?...</code>. For the example above, it should be <code>PLACEHOLDER_FORM_ID_abcdefg</code>.</li>
+<li>Your <strong>entry IDs</strong> would be the corresponding <code>entry.XXXXXXXX</code> IDs. For the example above, they should be <code>entry.placeholder123</code>, <code>entry.placeholder456</code>, and <code>entry.placeholder789</code>.</li>
+<li>Save those 4 IDs for later.</li>
+</ul>
+</section>
+<section id="make-the-form-public" class="level4">
+<h4 class="anchored" data-anchor-id="make-the-form-public">3. Make the Form Public</h4>
+<ul>
+<li>Click <strong>“Share”</strong> in the top right corner. Under “General access”, change it to <strong>“Anyone with the link”</strong>.</li>
+</ul>
+</section>
+<section id="create-the-linked-google-sheet" class="level4">
+<h4 class="anchored" data-anchor-id="create-the-linked-google-sheet">4. Create the Linked Google Sheet</h4>
+<ul>
+<li>Go to the <strong>“Responses”</strong> tab at the top of your Google Form.</li>
+<li>Click the green <strong>“Link to Sheets”</strong> icon to create a spreadsheet that is linked to your form. It will store the message we receive.</li>
+</ul>
+</section>
+<section id="make-the-sheet-public" class="level4">
+<h4 class="anchored" data-anchor-id="make-the-sheet-public">5. Make the Sheet Public</h4>
+<ul>
+<li>Open the new Google Sheet.</li>
+<li>Click <strong>“Share”</strong> in the top right corner. Under “General access”, change it to <strong>“Anyone with the link”</strong>. This allows your blog to read the messages.</li>
+</ul>
+</section>
+<section id="get-your-google-sheet-id" class="level4">
+<h4 class="anchored" data-anchor-id="get-your-google-sheet-id">6. Get your Google Sheet ID</h4>
+<ul>
+<li>Look at the URL of your Google Sheet. It will look like this:</li>
+</ul>
 <blockquote class="blockquote">
-<p>“If you walk with Jesus / He’s gonna save your soul</p>
-<p>You got to keep the devil / Way down in the hole”</p>
-<p>- The Wire</p>
+<p><code>https://docs.google.com/spreadsheets/d/PLACEHOLDER_SHEET_ID_hijklmn/edit?resourcekey=&amp;gid=111111111#gid=2222222222222</code></p>
 </blockquote>
-<p>最近在和朋友一起看火线，火线讲的是BPD重案组调查巴尔的摩西区毒品交易的故事，非常好看。看到好多Maryland生活的剪影，在桌上吃用小锤子敲开的蓝蟹，看Orioles比赛，去Little Italy吃Lasagna，吃烤牡蛎。不由得和朋友说我们真的是不知不觉中已经适应了马里兰的生活，离开了还真有点想念。但一想到每天都会被火警和街上的争吵声吵醒（好的时候是被旅鸫的歌声吵醒）就消停了。想想那次地下管道爆炸导致的downtown大停电吧，连续几天日出而作日落而息啊。这就是生活在城市里的代价！但又觉得不应该是这样的。欧洲和中国的城市生活不都还挺靠谱的吗？美国到底为什么会变成这样——还是只有巴尔的摩太夸张。然后又觉得自己也挺假的，离开了那里才分得出闲暇来审美这种生活；住在那的时候每天都想搬走，只有大脑里的神经衰弱是真的。</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="figs/meme2.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="见微知著 [极难:失败] - 处于某些未知的原因，它安静地躺在栏杆边。位置：Inner Harbor"><img src="figs/meme2.jpeg" class="img-fluid figure-img" style="width:60.0%" alt="见微知著 [极难:失败] - 处于某些未知的原因，它安静地躺在栏杆边。位置：Inner Harbor"></a></p>
-<figcaption><strong>见微知著</strong> [极难:失败] - 处于某些未知的原因，它安静地躺在栏杆边。<em>位置：Inner Harbor</em></figcaption>
-</figure>
-</div>
-<p>又想到瑞瓦肖。想到第一次去Inner Harbor的时候看到一个空酒瓶躺在码头的栏杆边。这难道不是*非常马丁内斯*吗？迅速拍下来传了IG story，但又觉得自己这个满地找瑞瓦肖的行为实在太cliche了。现在看了火线又忽然觉得，至少在美国，或许没法找到第二个和巴尔的摩一样这么像瑞瓦肖的城市了。</p>
-<p>和巴尔的摩的关系是一种虐恋。乘着校车经过downtown的时候总是在想，这么漂亮的建筑，这么宽敞的街道，这么恬静的码头，这里完完全全有成为一个伟大城市的潜质。但怎么就变成这样了呢？为了寻找一个实际上与我无关的答案就这样看了这么多书和电影。但真想找到这个答案。</p>
-<p>有的时候会忍不住觉得老家真好。妈妈是上大学的时候才搬到那座城市的，她总是笑着调侃说我们那儿人的毛病就是去哪里都觉得老家最好，吃的也是老家最好吃，住的也是老家最舒适，省会也不如老家好，上海也不如老家好，出去留学两年镀个金，回来还是在老家做中学老师和体制内公务员。因为这个原因，我时常需要提醒自己别一遇到问题就想飞回老家；一辈子不出市生活真的是我想要的吗？但在外漂泊，过着比在老家更差的日子，这真的是我想要的吗？到底该怎么活呢。到底该怎么活，真是个问题。</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="figs/meme1.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="故弄玄虚 [传奇:成功] - *这个世界不存在出路*。位置：Peabody Institute"><img src="figs/meme1.jpg" class="img-fluid figure-img" style="width:60.0%" alt="故弄玄虚 [传奇:成功] - *这个世界不存在出路*。位置：Peabody Institute"></a></p>
-<figcaption><strong>故弄玄虚</strong> [传奇:成功] - *这个世界不存在出路*。<em>位置：Peabody Institute</em></figcaption>
-</figure>
-</div>
-<div id="backlinks-listing">
-
-</div>
+<ul>
+<li>Your <strong>Google sheet ID</strong> would be the one between <code>.../d/</code> and <code>/edit?...</code>. For the example above, it should be <code>PLACEHOLDER_SHEET_ID_hijklmn</code>.</li>
+<li>Save it for later.</li>
+</ul>
+</section>
+</section>
+<section id="configuration-deployment" class="level3">
+<h3 class="anchored" data-anchor-id="configuration-deployment">Configuration &amp; Deployment</h3>
+<section id="configure-the-javascript-file" class="level4">
+<h4 class="anchored" data-anchor-id="configure-the-javascript-file">7. Configure the JavaScript File</h4>
+<ul>
+<li>Open <code>easyguestbook.js</code> in a text editor.</li>
+<li>At the very top, locate the <code>CONFIGURATION</code> section.</li>
+<li>Replace the 5 placeholder IDs with your actual Form ID, Sheet ID, and entry IDs you saved earlier.</li>
+</ul>
+</section>
+<section id="deploy-to-quarto" class="level4">
+<h4 class="anchored" data-anchor-id="deploy-to-quarto">8. Deploy to Quarto</h4>
+<ul>
+<li>Simply drop both <code>easyguestbook.qmd</code> and <code>easyguestbook.js</code> into your Quarto blog’s project directory.</li>
+<li>Render your site, and your guestbook is live!</li>
+<li>Later, you can manage and edit the messages you received via that Google Sheet directly.</li>
+</ul>
+<hr>
+</section>
+</section>
+</section>
+<section id="using-with-other-static-sites" class="level2">
+<h2 class="anchored" data-anchor-id="using-with-other-static-sites">Using with Other Static Sites</h2>
+<p>EasyGuestBook also works with other static site generators or plain HTML websites.</p>
+<p>The setup process for Google Forms and Sheets above is <strong>exactly the same</strong>. The only difference is how you <strong>deploy</strong> it:</p>
+<ul>
+<li>Open <code>easyguestbook.qmd</code> and copy the first HTML block (everything between <code>&lt;div style="max-width: 650px;..."&gt;</code> and its closing <code>&lt;/div&gt;</code>).</li>
+<li>Paste this HTML into your static site’s page or template, and drop <code>easyguestbook.js</code> to your project directory.</li>
+<li>Add links to <code>easyguestbook.js</code> and <code>marked.js</code> (for Markdown support) scripts at the bottom of your page, right before the closing <code>&lt;/body&gt;</code> tag:</li>
+</ul>
+<div class="sourceCode" id="cb1"><pre class="sourceCode html code-with-copy"><code class="sourceCode html"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">script</span><span class="ot"> src</span><span class="op">=</span><span class="st">"https://cdn.jsdelivr.net/npm/marked/marked.min.js"</span><span class="dt">&gt;&lt;/</span><span class="kw">script</span><span class="dt">&gt;</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">script</span><span class="ot"> src</span><span class="op">=</span><span class="st">"path/to/your/easyguestbook.js"</span><span class="dt">&gt;&lt;/</span><span class="kw">script</span><span class="dt">&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="css-styling" class="level2">
+<h2 class="anchored" data-anchor-id="css-styling">CSS Styling</h2>
+<p>You don’t need to write any custom CSS to make EasyGuestBook look good on your blog.</p>
+<p>The HTML structure uses smart, native inline styles (like <code>background: transparent</code>, <code>color: inherit</code>, <code>font-family: inherit</code>, and <code>border: currentColor</code>). This means the guestbook will automatically adapt to your website’s existing CSS styling.</p>
+<hr>
+</section>
+<section id="license-credit-contact" class="level2">
+<h2 class="anchored" data-anchor-id="license-credit-contact">License, Credit &amp; Contact</h2>
+<p>Released under <a href="https://opensource.org/license/mit">the MIT license</a>.</p>
+<p>Inspired by <a href="https://bohemiansultriness.nekoweb.org">Fritzi</a>’s project <a href="https://bohemiansultriness.nekoweb.org/goodies/mylikebutton.txt">mylikebutton</a>.</p>
+<p>If you have any questions or suggestions, please feel free to contact me on my <a href="../../guestbook.html">guestbook</a> or open an issue on the <a href="https://github.com/yyraven/easyguestbook">project repo</a>.</p>
 
 
 <div class="post-like-footer" style="display:flex; justify-content:flex-end;">
   <div class="mylikebutton">Kudos ♥</div>
 </div>
+
+</section>
 
 <center>
 © 2024-2026 RavensNest.
@@ -1055,21 +979,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="../../personal/260108_diary/index.html" class="pagination-link" aria-label="年终总结｜2025 身体拖着精神前进">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">年终总结｜2025 身体拖着精神前进</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../../personal/210804_diary_to_sister/index.html" class="pagination-link" aria-label="书信｜妹亲启：高中生活完全不指南">
-        <span class="nav-page-text">书信｜妹亲启：高中生活完全不指南</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <script src="../../scripts/mylikebutton.js"></script>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","selector":".lightbox","descPosition":"bottom","openEffect":"zoom","loop":false});
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","closeEffect":"zoom","descPosition":"bottom","loop":false,"selector":".lightbox"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {
