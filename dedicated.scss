@@ -7,14 +7,14 @@
    ========================================================================== */
 
 /* Color Palette */
-$body-bg:           #060a0f;
-$body-color:        #d1cdc7;
-$link-color:        #5f9ea6;
-$link-hover-color:  #c48153;
-$code-color:        #7fa3a8;
-$code-bg:           rgba(#5f9ea6, 0.15);
-$code-block-bg:     $code-bg;
-$text-muted:        #717c87;
+$body-bg:            #060a0f;
+$body-color:         #d1cdc7;
+$link-color:         #5f9ea6;
+$link-hover-color:   #c48153;
+$code-color:         #7fa3a8;
+$code-bg:            rgba(95, 158, 166, 0.15);
+$code-block-bg:      rgba(15, 25, 30, 0.6);
+$text-muted:         #717c87;
 
 /* Typography Stacks */
 $font-serif:      'Newsreader', 'Noto Serif SC', serif;
