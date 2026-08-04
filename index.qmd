@@ -98,7 +98,7 @@ last_gig <- gig %>%
 
 ![](figs/crow_s_flip.png)![](figs/crow_s.png)<img src="figs/crow_s.png" class="bird-swap" data-hover="figs/crow_s_flip.png"/>![](figs/crow_s_flip.png)![](figs/crow_s.png)
 
-![Hi, Chicago](figs/26chi.jpg)
+![Coming Home](figs/2608.jpg)
 
 ```{=html}
 <script>NekoType="kina"</script>

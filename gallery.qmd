@@ -4,6 +4,8 @@ lightbox: true
 toc: true
 ---
 
+![Aug '26 Coming Home](figs/2608.jpg){group="home"}
+
 ![June '26 Hi, Chicago](figs/26chi.jpg){group="home"}
 
 ![June '26 'ditto'](figs/2606.jpg){group="home"}
