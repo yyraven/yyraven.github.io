@@ -29,8 +29,6 @@ You can also check my [eBird profile](https://ebird.org/profile/NTk5NDQ1OQ).
 The next bird I want to see is: 
 
 - ***Eastern Screech-Owl***, Ruby, I heard that you reside in a dead tree near the Celery Bog Natural Center, let me find you! 
-
-- ***Wood Duck***, Oh the American Yuan-yang...
 :::
 
 ------------------------------------------------------------------------
@@ -187,8 +185,8 @@ fillOpacity = 1, radius = 5) %>%
 
 -   **Type**: Rural \| Wetlands (freshwater)
 -   **First Visited**: Sep 2025
--   **Last Visited**: Mar 2026
--   **Birds**: Mallard, American Goldfinch, Red-tailed Hawk, Killdeer, Northern Cardinal, Double-crested Cormorant, Song Sparrow, Red-bellied Woodpecker, Tennessee Warbler, Belted Kingfisher, Great Blue Heron, Yellow-rumped Warbler, Northern Flicker, Pileated Woodpecker, Hairy Woodpecker, American Robin, White-breasted Nuthatch, Eastern Phoebe, Cooper's Hawk, Dark-eyed Junco, Brown Creeper, Mourning Dove, Canada Goose, Red-winged Blackbird, Brown-headed Cowbird, American Tree Sparrow
+-   **Last Visited**: Aug 2026
+-   **Birds**: Mallard, American Goldfinch, Red-tailed Hawk, Killdeer, Northern Cardinal, Double-crested Cormorant, Song Sparrow, Red-bellied Woodpecker, Tennessee Warbler, Belted Kingfisher, Great Blue Heron, Yellow-rumped Warbler, Northern Flicker, Pileated Woodpecker, Hairy Woodpecker, American Robin, White-breasted Nuthatch, Eastern Phoebe, Cooper's Hawk, Dark-eyed Junco, Brown Creeper, Mourning Dove, Canada Goose, Red-winged Blackbird, Brown-headed Cowbird, American Tree Sparrow, Wood Duck, Green Heron
 -   **Comments**: Beautiful and peaceful place, one of the best birding destinations in West Lafayette. Staff at the natural center are very friendly. It's home to several raptors, and you can also watch blue herons catching fish. I often start walking at Cherry Ln, and ends the trail at Walmart supercenter to take CityBus #21 back home, which would typically take 2-3 hours. 
 -   **Link**: [ebird](https://ebird.org/hotspot/L445373)
 -   **Related Posts**: [Mar '26 Spring Migration](../260326_birding_celerybog/index.qmd)
@@ -201,8 +199,8 @@ fillOpacity = 1, radius = 5) %>%
 
 -   **Type**: Rural \| Wetlands (freshwater)
 -   **First Visited**: Apr 2025
--   **Last Visited**: Mar 2026
--   **Birds**: American White Pelican, Mallard, Greater Yellowlegs, Great Blue Heron, Canada Goose, Eastern Bluebird, Tree Swallow, Ruddy Duck, Northern Pintail, Bufflehead, Red-Shouldered Hawk
+-   **Last Visited**: Aug 2026
+-   **Birds**: American White Pelican, Mallard, Greater Yellowlegs, Great Blue Heron, Canada Goose, Eastern Bluebird, Tree Swallow, Ruddy Duck, Northern Pintail, Bufflehead, Red-Shouldered Hawk, Green Heron, Wood Duck
 -   **Comments**: Regional migration trap, a great place to see shorebirds and ducks. 
 -   **Link**: [ebird](https://ebird.org/region/L30081358)
 
