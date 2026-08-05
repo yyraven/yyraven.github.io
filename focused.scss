@@ -3,23 +3,23 @@
 
 /*-- scss:defaults --*/
 /* ==========================================================================
-   1. VARIABLES & SETUP
-   ========================================================================== */
+1. VARIABLES & SETUP
+========================================================================== */
 
 /* Color Palette */
-$body-bg:            #fbfcfb;
-$body-color:         #4a555a;
-$link-color:         #7ca097;
-$link-hover-color:   #d8aa72;
-$code-color:         #678880;
-$code-bg:            rgba(124, 160, 151, 0.10);
-$code-block-bg:      $code-bg;
-$text-muted:         #8ea09b;
+$body-bg:           #eaebe4;
+$body-color:        #212b23;
+$link-color:        #3b6e36;
+$link-hover-color:  #a66e00;
+$code-color:        #1f574d;
+$code-bg:           rgba(59, 110, 54, 0.12);
+$code-block-bg:     rgba(#dbded1, 0.45);
+$text-muted:        #5f6f63;
 
 /* Typography Stacks */
 $font-serif:      'Newsreader', 'Noto Serif SC', serif;
 $font-sans:       'Quicksand', 'Noto Sans SC', sans-serif;
-$font-cursive:    'Castoro', 'Noto Serif SC', serif;
+$font-cursive-serif:'Castoro', 'Noto Serif SC', serif;
 $font-cursive-sans: 'Comfortaa', 'Noto Sans SC', sans-serif;
 $font-code:       'Fira Code', monospace;
 
@@ -59,7 +59,7 @@ html {
 body {
   background-color: $body-bg;
   color: $body-color;
-  font-family: $font-sans;
+  font-family: $font-serif;
   font-size: 0.9rem;
   line-height: 1.5;
   margin: 0;
@@ -113,14 +113,14 @@ pre code {
 
 /* Headings */
 h1 {
-  font-family: $font-cursive-sans;
+  font-family: $font-cursive-serif;
   color: $link-color;
   margin: $margin 0;
   font-weight: 400;
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: $font-sans;
+  font-family: $font-serif;
   font-weight: 400;
   border-bottom: none !important;
   color: $link-color;
@@ -147,7 +147,7 @@ hr {
 
   &::before {
     content: "~~~";
-    font-family: $font-cursive-sans;
+    font-family: $font-cursive-serif;
     font-size: 1.2rem;
     letter-spacing: 0.2rem;
   }
@@ -174,7 +174,7 @@ blockquote, .callout {
   color: $body-bg;
   border: 1px solid $link-color;
   padding: 0.1rem;
-  font-family: $font-cursive-sans;
+  font-family: $font-cursive-serif;
   font-size: 1rem;
   cursor: pointer;
   letter-spacing: 1px;
@@ -190,7 +190,7 @@ blockquote, .callout {
 .navbar {
   background-color: $code-block-bg;
   border-bottom: 1px solid;
-  font-family: $font-cursive-sans;
+  font-family: $font-cursive-serif;
   text-transform: lowercase;
   padding: 0.2rem 1rem;
   backdrop-filter: blur(2px);
@@ -230,7 +230,7 @@ filter: invert(100%) !important;
 
 /* Sidebar & Navigation */
 .sidebar, .sidebar-navigation {
-  font-family: $font-sans;
+  font-family: $font-serif;
 
   .sidebar-item a.sidebar-link {
     color: $body-color !important;
@@ -257,7 +257,7 @@ filter: invert(100%) !important;
 
 /* Table of Contents */
 #TOC {
-  font-family: $font-sans;
+  font-family: $font-serif;
 
   a {
     color: $body-color !important;
@@ -325,7 +325,7 @@ table thead {
 .input-group,
 .form-select,
 .quarto-listing-table {
-  font-family: $font-sans;
+  font-family: $font-serif;
   background: none !important;
   font-size: 0.9rem;
 }
@@ -345,7 +345,7 @@ table thead {
 .figure figcaption,
 .column-margin,
 .quarto-listing-category {
-  font-family: $font-sans;
+  font-family: $font-serif;
   font-size: 0.8rem;
   color: rgba($body-color, 0.8);
 }
