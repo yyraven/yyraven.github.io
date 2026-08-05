@@ -1,0 +1,324 @@
+{
+ "_type": "album",
+ "api_path": "/albums/236163",
+ "cover_art_thumbnail_url": "https://images.genius.com/7a33c541d4b58460060e4453cfa835c0.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/7a33c541d4b58460060e4453cfa835c0.600x600x1.jpg",
+ "full_title": "Today Forever [EP] by Ride",
+ "id": 236163,
+ "name": "Today Forever [EP]",
+ "name_with_artist": "Today Forever [EP] (artist: Ride)",
+ "primary_artist_names": "Ride",
+ "release_date_components": {
+  "year": 1991,
+  "month": 3,
+  "day": 4
+ },
+ "release_date_for_display": "March 4, 1991",
+ "url": "https://genius.com/albums/Ride/Today-forever-ep",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/275501",
+  "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+  "id": 275501,
+  "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ride",
+  "slug": "Ride",
+  "url": "https://genius.com/artists/Ride"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/275501",
+   "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+   "id": 275501,
+   "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ride",
+   "slug": "Ride",
+   "url": "https://genius.com/artists/Ride"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1252921",
+    "artist_names": "Ride",
+    "full_title": "Unfamiliar by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.600x600x1.jpg",
+    "id": 1252921,
+    "instrumental": false,
+    "lyrics_owner_id": 2946617,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1496778328,
+    "path": "/Ride-unfamiliar-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ride-unfamiliar-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Unfamiliar",
+    "title_with_featured": "Unfamiliar",
+    "updated_by_human_at": 1605615596,
+    "url": "https://genius.com/Ride-unfamiliar-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "7 ContributorsUnfamiliar LyricsYou're rushing for a time that you don't know\nCurious of what your feelings are you go\n\nLosing sight of that familiar touch you know\nSinking into unknown beauty for a day\nLiving everything as it comes and goes\nThe only times you know have passed away\n\nNow you're looking back where everything seems here\nScared of letting all that comfort disappear\n\nLosing sight of that familiar touch you know\nSinking into unknown beauty for a day\nLiving everything as it comes and goes\nThe only times you know have passed awaySee Ride LiveGet tickets as low as $54You might also like1Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/1531883",
+    "artist_names": "Ride",
+    "full_title": "Sennen by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.600x600x1.jpg",
+    "id": 1531883,
+    "instrumental": false,
+    "lyrics_owner_id": 2946617,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1594480302,
+    "path": "/Ride-sennen-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-sennen-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false
+    },
+    "title": "Sennen",
+    "title_with_featured": "Sennen",
+    "updated_by_human_at": 1605615884,
+    "url": "https://genius.com/Ride-sennen-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "9 ContributorsSennen LyricsEyes aflame, she ran away\nI will be where I want to be\nNeed some space to be alone\nNeed a place to call my own\n\nCan't stay here another day\nThink awhile, walk away\nPeople wonder where she's gone\nAll they see's a strange shaped stone\n\nThey'll never invade her now\nThey'll never invade her now\nThey'll never invade her now\nThey'll never invade her nowSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1561251",
+    "artist_names": "Ride",
+    "full_title": "Beneath by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.600x600x1.jpg",
+    "id": 1561251,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1594480537,
+    "path": "/Ride-beneath-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-beneath-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "Beneath",
+    "title_with_featured": "Beneath",
+    "updated_by_human_at": 1605616157,
+    "url": "https://genius.com/Ride-beneath-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "7 ContributorsBeneath LyricsRise above the rain\nFor all our sins we're not to blame\nThis time will pass away not yours or mine\n\nAnd what we tried so hard to find\nIs already in our mind\n\nStand beneath the sun\nAnd know that soon our time will come\nAnd we can be the way we want to be\n\nThe sun will set\nAnd then the sun will rise\nWe watch it pass across the skies\nSo beautiful and warm\nAs we forget the stormSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1158872",
+    "artist_names": "Ride",
+    "full_title": "Today by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.600x600x1.jpg",
+    "id": 1158872,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429674121,
+    "path": "/Ride-today-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-today-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/6b50ec903ab619d9e76a8113b09d4b4e.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Today",
+    "title_with_featured": "Today",
+    "updated_by_human_at": 1605616428,
+    "url": "https://genius.com/Ride-today-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "6 ContributorsToday LyricsWake up see the sun\nWhat's done is done\n\nToday\n\nLast thing I remember\nI don't know\n\nI want her\nI don't want her\n\nI need her\nI don't need her\n\nTodaySee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  }
+ ]
+}

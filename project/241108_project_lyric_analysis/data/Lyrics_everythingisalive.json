@@ -1,0 +1,608 @@
+{
+ "_type": "album",
+ "api_path": "/albums/1048500",
+ "cover_art_thumbnail_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.999x999x1.png",
+ "full_title": "\u200b\u200b\u200beverything is alive by Slowdive",
+ "id": 1048500,
+ "name": "\u200b\u200b\u200beverything is alive",
+ "name_with_artist": "\u200b\u200b\u200beverything is alive (artist: Slowdive)",
+ "primary_artist_names": "Slowdive",
+ "release_date_components": {
+  "year": 2023,
+  "month": 9,
+  "day": 1
+ },
+ "release_date_for_display": "September 1, 2023",
+ "url": "https://genius.com/albums/Slowdive/Everything-is-alive",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/65120",
+  "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+  "id": 65120,
+  "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Slowdive",
+  "slug": "Slowdive",
+  "url": "https://genius.com/artists/Slowdive"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/65120",
+   "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+   "id": 65120,
+   "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Slowdive",
+   "slug": "Slowdive",
+   "url": "https://genius.com/artists/Slowdive"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/9237062",
+    "artist_names": "Slowdive",
+    "full_title": "\u200bshanty by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.300x300x1.png",
+    "header_image_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.999x999x1.png",
+    "id": 9237062,
+    "instrumental": false,
+    "lyrics_owner_id": 7478054,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1703499967,
+    "path": "/Slowdive-shanty-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Slowdive-shanty-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 9,
+     "day": 1
+    },
+    "release_date_for_display": "September 1, 2023",
+    "release_date_with_abbreviated_month_for_display": "Sep. 1, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.999x999x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 9535
+    },
+    "title": "\u200bshanty",
+    "title_with_featured": "\u200bshanty",
+    "updated_by_human_at": 1703499967,
+    "url": "https://genius.com/Slowdive-shanty-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "14 ContributorsTranslationsPolskiPortugu\u00eas\u200bshanty Lyrics[Verse 1]\nI was a junkman\nA candle burning\nSettled over\nWhen the night rolled in\nI waited for you\nIn my dreams of you\nAn idle moment\nWhen the night rolled in\n\n[Instrumental Break]\n\n[Verse 2]\nIn the morning\nCome on over\nYour eyes are mourning\nWhen the night rolled in\nTime runs on once more\nAnother ghost is born\nI feel like change will come\nWhen the night rolled inSee Slowdive LiveGet tickets as low as $55You might also likeEmbed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/9237064",
+    "artist_names": "Slowdive",
+    "full_title": "\u200b\u200b\u200bprayer remembered by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.300x300x1.png",
+    "header_image_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.999x999x1.png",
+    "id": 9237064,
+    "instrumental": true,
+    "lyrics_owner_id": 9810815,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1693483168,
+    "path": "/Slowdive-prayer-remembered-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Slowdive-prayer-remembered-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 9,
+     "day": 1
+    },
+    "release_date_for_display": "September 1, 2023",
+    "release_date_with_abbreviated_month_for_display": "Sep. 1, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.999x999x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 5122
+    },
+    "title": "\u200b\u200b\u200bprayer remembered",
+    "title_with_featured": "\u200b\u200b\u200bprayer remembered",
+    "updated_by_human_at": 1702678905,
+    "url": "https://genius.com/Slowdive-prayer-remembered-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": ""
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/9237066",
+    "artist_names": "Slowdive",
+    "full_title": "\u200b\u200b\u200balife by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.300x300x1.png",
+    "header_image_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.999x999x1.png",
+    "id": 9237066,
+    "instrumental": false,
+    "lyrics_owner_id": 20979659,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1727799558,
+    "path": "/Slowdive-alife-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Slowdive-alife-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 8,
+     "day": 30
+    },
+    "release_date_for_display": "August 30, 2023",
+    "release_date_with_abbreviated_month_for_display": "Aug. 30, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.999x999x1.png",
+    "stats": {
+     "unreviewed_annotations": 14,
+     "hot": false,
+     "pageviews": 11548
+    },
+    "title": "\u200b\u200b\u200balife",
+    "title_with_featured": "\u200b\u200b\u200balife",
+    "updated_by_human_at": 1727799558,
+    "url": "https://genius.com/Slowdive-alife-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "14 ContributorsTranslationsPolskiPortugu\u00eas\u200b\u200b\u200balife Lyrics[Refrain]\nTwo lives are hard lives with you\nTwo lives are hard lives with you\nTwo lives are hard lives with you\n\n[Verse]\nHey, just look at us now\nTime made fools of us all\nWe look, but we don't understand\nWe try, but we don't look around\nLooking down\nLooking around\n\n[Refrain]\nTwo lives are hard lives with you\nTwo lives are hard lives with you\n\n[Chorus]\nDown where the river runs through\nThe town, there's a memory of you\nDon't look, don't look at me now\nTime has got me somehow\nIt's you and only you\nYou and only you\n\n[Refrain]\nTwo lives are hard lives with you\nTwo lives are hard lives with you\nTwo lives ar\u0435 hard lives with you\nTwo lives are hard liv\u0435s with you\nSee Slowdive LiveGet tickets as low as $55You might also like[Chorus]\nDown where the river runs through\nThe town, there's a memory of you\nDon't look, don't look at me now\nTime has got me somehow\n\n[Refrain]\nTwo hard lives are hard lives with you\nTwo lives are hard lives with youEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/9237069",
+    "artist_names": "Slowdive",
+    "full_title": "andalucia plays by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.300x300x1.png",
+    "header_image_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.999x999x1.png",
+    "id": 9237069,
+    "instrumental": false,
+    "lyrics_owner_id": 4212581,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1727889498,
+    "path": "/Slowdive-andalucia-plays-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Slowdive-andalucia-plays-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 9,
+     "day": 1
+    },
+    "release_date_for_display": "September 1, 2023",
+    "release_date_with_abbreviated_month_for_display": "Sep. 1, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.999x999x1.png",
+    "stats": {
+     "unreviewed_annotations": 15,
+     "hot": false,
+     "pageviews": 7928
+    },
+    "title": "andalucia plays",
+    "title_with_featured": "andalucia plays",
+    "updated_by_human_at": 1728497767,
+    "url": "https://genius.com/Slowdive-andalucia-plays-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "15 ContributorsTranslationsPolskiPortugu\u00easandalucia plays Lyrics[Verse 1]\nThe sun's coming up\nAnd I see you're smiling\nI dream like a butterfly\nThe prayers of Saint Christopher\nTravellers and stones\nAnd ghosts on the river\nDays fold into the end\nKnow I ran the Roman head\nAnd you are the heart\nThe prayer I remember\n\n[Instrumental Break]\n\n[Chorus]\nThese reggae tunes\nBaby, it's over\nChained to the clouds\nYou are my angel\n\n[Verse 2]\nWearing your favorite shirt\nFrench cloth and polka-dot\nAndalucia\nPlays on the stereo\nRemember the first winter\nThe dark heart of everything\nAnd the dog just laid down\nYou'll cry for all of us\nSee Slowdive LiveGet tickets as low as $55You might also like[Chorus]\nYou are my angel\nWearing your favorite shirt\nFrench cloth and polka-dot\nAndalucia\nPlays on the stereo\nI dream like a butterfly\nPerfect and temporary\n\n[Instrumental Break]\n\n[Chorus]\nYou are my angel\nWearing your favorite shirt\nFrench cloth and polka-dot\nAndalucia\nPlays on the stereo\nRemember the first winter\nThe dark heart of everything\nAnd the dog just laid down\nAnd you'll cry for all of usEmbed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/9237059",
+    "artist_names": "Slowdive",
+    "full_title": "\u200b\u200b\u200bkisses by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/98a3123fb36e8ef2bf573b1616279af9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/98a3123fb36e8ef2bf573b1616279af9.1000x1000x1.jpg",
+    "id": 9237059,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1727889819,
+    "path": "/Slowdive-kisses-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Slowdive-kisses-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/98a3123fb36e8ef2bf573b1616279af9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/98a3123fb36e8ef2bf573b1616279af9.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 34368
+    },
+    "title": "\u200b\u200b\u200bkisses",
+    "title_with_featured": "\u200b\u200b\u200bkisses",
+    "updated_by_human_at": 1727889819,
+    "url": "https://genius.com/Slowdive-kisses-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "15 ContributorsTranslationsPolskiPortugu\u00eas\u200b\u200b\u200bkisses Lyrics[Verse 1]\nTell me, \"You're the best thing\"\nI tell you, \"That's what you need\"\nRolling on those good looks\nMaybe it's just enough\nI know you dream of snowfields\nFloating high above the trees\nLiving for the new thing\nSometimes the new won't do\n\n[Chorus]\nKisses\nBorn desert sun\nKisses\nBorn desert sun\nKisses\nBorn desert sun\n\n[Verse 2]\nMaybe there's a car there\nDriving away from here\nTaking all the ghosts, the hurt\nWell, everything starts anew\nTell m\u0435 what you need, what's right\nWhatever is just enough\nIs living with th\u0435 truth, a start\nMaybe it's just enough\nSee Slowdive LiveGet tickets as low as $55You might also like[Chorus]\nKisses\nBorn desert sun\nKisses\nBorn desert sun\nKisses\nBorn desert sun\n\n[Instrumental Break]\n\n[Chorus]\nKisses\nBorn desert sun\nKisses\nBorn desert sun\nKisses\nBorn desert sun\nKisses\nBorn desert sunEmbed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/9247895",
+    "artist_names": "Slowdive",
+    "full_title": "\u200b\u200bskin in the game by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/fd2afb570b21905440895941717b620b.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/fd2afb570b21905440895941717b620b.1000x1000x1.jpg",
+    "id": 9247895,
+    "instrumental": false,
+    "lyrics_owner_id": 14382351,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1693413283,
+    "path": "/Slowdive-skin-in-the-game-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Slowdive-skin-in-the-game-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 7,
+     "day": 18
+    },
+    "release_date_for_display": "July 18, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 18, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/fd2afb570b21905440895941717b620b.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/fd2afb570b21905440895941717b620b.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 8371
+    },
+    "title": "\u200b\u200bskin in the game",
+    "title_with_featured": "\u200b\u200bskin in the game",
+    "updated_by_human_at": 1702679913,
+    "url": "https://genius.com/Slowdive-skin-in-the-game-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "8 ContributorsTranslationsPolskiPortugu\u00eas\u200b\u200bskin in the game Lyrics[Verse 1]\nI won't know and you won't say it now\n'Cause you don't say and I will never ask\n\n[Chorus]\nSkin in the game\nSkin in the game\nPoison the heart won't go so far\nSkin in the game\nSkin in the game\nBlood in the highs and count the stars\n(Poison heart won't get so far)\n\n[Verse 2]\nI won't know if you won't say it now\n'Cause you don't say and I will never ask\n\n[Chorus]\nSkin in the game\nSkin in the game\nWell-come the highs and count the stars\nSkin in the game\nSkin in the game\nPoise in the heart will go so far\n\n[Post-Chorus]\nBlood in the highs and count the sun\nPoise in the heart will go so farSee Slowdive LiveGet tickets as low as $55You might also likeEmbed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/9247891",
+    "artist_names": "Slowdive",
+    "full_title": "\u200b\u200bchained to a cloud by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.300x300x1.png",
+    "header_image_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.999x999x1.png",
+    "id": 9247891,
+    "instrumental": false,
+    "lyrics_owner_id": 7478054,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1693993504,
+    "path": "/Slowdive-chained-to-a-cloud-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Slowdive-chained-to-a-cloud-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 9,
+     "day": 1
+    },
+    "release_date_for_display": "September 1, 2023",
+    "release_date_with_abbreviated_month_for_display": "Sep. 1, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/7a7ed5532f3ed9370715869b79cd6986.999x999x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 6407
+    },
+    "title": "\u200b\u200bchained to a cloud",
+    "title_with_featured": "\u200b\u200bchained to a cloud",
+    "updated_by_human_at": 1696169194,
+    "url": "https://genius.com/Slowdive-chained-to-a-cloud-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "9 ContributorsTranslationsPolskiPortugu\u00eas\u200b\u200bchained to a cloud Lyrics[Chorus]\nDid you really understand\nFalling down to the beginning?\nDid you see it's all real?\nFor the part\u2005of\u2005us to let\u2005\u2018em know\nDid you give way\nFor the\u2005time to [?]\nDid you see it's all real?\nDid you follow?\n\n[Instrumental Break]\n\n[Chorus]\nDid you really understand\nFalling down to the beginning?\nDid you see it's all real?\nFor the part of us to let \u2018em know\nDid you give way\nFor the time to [?]\nDid you see it's all real?\nDid you give?See Slowdive LiveGet tickets as low as $55You might also like1Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/9247892",
+    "artist_names": "Slowdive",
+    "full_title": "\u200b\u200bthe slab by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/2b1599efaf16037367ebf266a17ef7a8.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/2b1599efaf16037367ebf266a17ef7a8.1000x1000x1.jpg",
+    "id": 9247892,
+    "instrumental": false,
+    "lyrics_owner_id": 54639,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1692048586,
+    "path": "/Slowdive-the-slab-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Slowdive-the-slab-sample",
+    "release_date_components": {
+     "year": 2023,
+     "month": 8,
+     "day": 9
+    },
+    "release_date_for_display": "August 9, 2023",
+    "release_date_with_abbreviated_month_for_display": "Aug. 9, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2b1599efaf16037367ebf266a17ef7a8.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/2b1599efaf16037367ebf266a17ef7a8.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 9418
+    },
+    "title": "\u200b\u200bthe slab",
+    "title_with_featured": "\u200b\u200bthe slab",
+    "updated_by_human_at": 1696169628,
+    "url": "https://genius.com/Slowdive-the-slab-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "8 Contributors\u200b\u200bthe slab Lyrics[Non-Lyrical Vocals]See Slowdive LiveGet tickets as low as $55You might also likeEmbed"
+   }
+  }
+ ]
+}

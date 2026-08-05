@@ -1,0 +1,325 @@
+{
+ "_type": "album",
+ "api_path": "/albums/211670",
+ "cover_art_thumbnail_url": "https://images.genius.com/d5cb489ae56db80b7aeafad87a9f9740.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/d5cb489ae56db80b7aeafad87a9f9740.578x578x1.jpg",
+ "full_title": "Fall [EP] by Ride",
+ "id": 211670,
+ "name": "Fall [EP]",
+ "name_with_artist": "Fall [EP] (artist: Ride)",
+ "primary_artist_names": "Ride",
+ "release_date_components": {
+  "year": 1990,
+  "month": 9,
+  "day": 17
+ },
+ "release_date_for_display": "September 17, 1990",
+ "url": "https://genius.com/albums/Ride/Fall-ep",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/275501",
+  "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+  "id": 275501,
+  "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ride",
+  "slug": "Ride",
+  "url": "https://genius.com/artists/Ride"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/275501",
+   "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+   "id": 275501,
+   "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ride",
+   "slug": "Ride",
+   "url": "https://genius.com/artists/Ride"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/596912",
+    "artist_names": "Ride",
+    "full_title": "Dreams Burn Down by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "id": 596912,
+    "instrumental": false,
+    "lyrics_owner_id": 450545,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1627379800,
+    "path": "/Ride-dreams-burn-down-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ride-dreams-burn-down-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 9968
+    },
+    "title": "Dreams Burn Down",
+    "title_with_featured": "Dreams Burn Down",
+    "updated_by_human_at": 1627403861,
+    "url": "https://genius.com/Ride-dreams-burn-down-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "14 ContributorsDreams Burn Down Lyrics[Instrumental intro]\n\n[Verse 1]\nLying under sky laughing at everything I say\nAnd pulls me under, there's no time to resist\nLying on the floor the tears are falling down and more\nHer eyes speak loud but actions speak the best\n\n[Chorus]\nWaiting, hoping for a sign\nThat what's forbidden can be mine\nI just want what I can't have\n'Til my dreams burn down and choke me every time\n\n[Verse 2]\nShe's effortlessly cool but circumstances can be cruel\nAnd sometimes you must accept that you can't get what you want\nWe fill up our days and nights, we fill up the gaps in our empty little lives\nBut we know we are doomed the moment we walk out the room\n\n[Chorus]\nWaiting, hoping for a sign\nThat what's forbidden can be mine\nI just want what I can't have\n'Til my dreams burn down and choke me every timeSee Ride LiveGet tickets as low as $54You might also like1Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1413919",
+    "artist_names": "Ride",
+    "full_title": "Taste by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/e69b2deda4623e1bbcd6f2fe98ee13a4.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/e69b2deda4623e1bbcd6f2fe98ee13a4.578x578x1.jpg",
+    "id": 1413919,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1504210884,
+    "path": "/Ride-taste-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-taste-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 9,
+     "day": 17
+    },
+    "release_date_for_display": "September 17, 1990",
+    "release_date_with_abbreviated_month_for_display": "Sep. 17, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e69b2deda4623e1bbcd6f2fe98ee13a4.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/e69b2deda4623e1bbcd6f2fe98ee13a4.578x578x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Taste",
+    "title_with_featured": "Taste",
+    "updated_by_human_at": 1605180408,
+    "url": "https://genius.com/Ride-taste-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "6 ContributorsTaste LyricsFloating like a smoke ring, it cannot be regained\nNow it's touched, it's broken\nThe taste just slips away, the taste just slips away\nI just want to know\n\nThe taste just slips away, the taste just slips away\nI just want to know\nI don't want to tell you what you want to know\nI don't want to tell you\n\nAs hard as right can be, it can feel so wrong\nToo much to leave, now it's all gone wrong\nIt's all gone wrong but what's right or wrong?\n\nI don't know, I don't know the taste just slips awaySee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1009710",
+    "artist_names": "Ride",
+    "full_title": "Here And Now by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/5dac48b429c3b960d253558674e70c87.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5dac48b429c3b960d253558674e70c87.300x300x1.jpg",
+    "id": 1009710,
+    "instrumental": false,
+    "lyrics_owner_id": 4079752,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1618615360,
+    "path": "/Ride-here-and-now-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ride-here-and-now-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 9,
+     "day": 17
+    },
+    "release_date_for_display": "September 17, 1990",
+    "release_date_with_abbreviated_month_for_display": "Sep. 17, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5dac48b429c3b960d253558674e70c87.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5dac48b429c3b960d253558674e70c87.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Here And Now",
+    "title_with_featured": "Here And Now",
+    "updated_by_human_at": 1618615360,
+    "url": "https://genius.com/Ride-here-and-now-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "6 ContributorsHere And Now LyricsThe bridge holds back the sky, can't hold back what's inside\nAnd the train above me sounds like the music in my head\nMy thoughts are undecided, I think it so I hide it\nAnd the train rushes past like a day gone too fast\n\nI wish that I was stronger, could keep my head for longer\nI sit and watch my fear but it won't disappear\nI can dream myself away, lose myself for days\nAnd the train rushes past like a day gone too fast\nAll I know, all I know, all I know is here and now\n\n[Instrumental break]\n\nAll I know, all I know, all I know is here and now\n\nAnd the train rushes past like a day gone too fast\nAnd the train rushes past like a life gone too fastSee Ride LiveGet tickets as low as $52You might also like1Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1510765",
+    "artist_names": "Ride",
+    "full_title": "Nowhere by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/5dac48b429c3b960d253558674e70c87.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5dac48b429c3b960d253558674e70c87.300x300x1.jpg",
+    "id": 1510765,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1691027358,
+    "path": "/Ride-nowhere-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-nowhere-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 9,
+     "day": 17
+    },
+    "release_date_for_display": "September 17, 1990",
+    "release_date_with_abbreviated_month_for_display": "Sep. 17, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5dac48b429c3b960d253558674e70c87.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5dac48b429c3b960d253558674e70c87.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Nowhere",
+    "title_with_featured": "Nowhere",
+    "updated_by_human_at": 1691027358,
+    "url": "https://genius.com/Ride-nowhere-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "5 ContributorsNowhere LyricsI\nShould have known better, than to expect it all\nYou want everything and you end up grabbing at air\n\nI had so much to give\nSo much hope, we held each other high\nBut the heroes are gone and all that's left is you and me\n\nI learned the hard way\nThat life should be easy\nBut I want you to know it was hard to show\nThe things that I know now\n\nAll that's left is you and me\nAnd here we are\nNowhere\n\nAll that's left is you and me\nAnd here we are\nNowhereSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  }
+ ]
+}

@@ -1,0 +1,877 @@
+{
+ "_type": "album",
+ "api_path": "/albums/523677",
+ "cover_art_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+ "cover_art_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+ "full_title": "This Is Not a Safe Place by Ride",
+ "id": 523677,
+ "name": "This Is Not a Safe Place",
+ "name_with_artist": "This Is Not a Safe Place (artist: Ride)",
+ "primary_artist_names": "Ride",
+ "release_date_components": {
+  "year": 2019,
+  "month": 8,
+  "day": 16
+ },
+ "release_date_for_display": "August 16, 2019",
+ "url": "https://genius.com/albums/Ride/This-is-not-a-safe-place",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/275501",
+  "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+  "id": 275501,
+  "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ride",
+  "slug": "Ride",
+  "url": "https://genius.com/artists/Ride"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/275501",
+   "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+   "id": 275501,
+   "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ride",
+   "slug": "Ride",
+   "url": "https://genius.com/artists/Ride"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499211",
+    "artist_names": "Ride",
+    "full_title": "R.I.D.E. by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "header_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "id": 4499211,
+    "instrumental": false,
+    "lyrics_owner_id": 1583418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565892812,
+    "path": "/Ride-ride-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-ride-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 16
+    },
+    "release_date_for_display": "August 16, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "R.I.D.E.",
+    "title_with_featured": "R.I.D.E.",
+    "updated_by_human_at": 1607512505,
+    "url": "https://genius.com/Ride-ride-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "2 ContributorsR.I.D.E. Lyrics[Verse 1]\n(Ride)\n(Ride)See Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499178",
+    "artist_names": "Ride",
+    "full_title": "Future Love by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/1cff668c6e1c042109aeca47725d05a5.300x309x1.jpg",
+    "header_image_url": "https://images.genius.com/1cff668c6e1c042109aeca47725d05a5.577x595x1.jpg",
+    "id": 4499178,
+    "instrumental": false,
+    "lyrics_owner_id": 1583418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1556033642,
+    "path": "/Ride-future-love-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-future-love-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 4,
+     "day": 23
+    },
+    "release_date_for_display": "April 23, 2019",
+    "release_date_with_abbreviated_month_for_display": "Apr. 23, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/1cff668c6e1c042109aeca47725d05a5.300x309x1.jpg",
+    "song_art_image_url": "https://images.genius.com/1cff668c6e1c042109aeca47725d05a5.577x595x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 6110
+    },
+    "title": "Future Love",
+    "title_with_featured": "Future Love",
+    "updated_by_human_at": 1607512647,
+    "url": "https://genius.com/Ride-future-love-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "3 ContributorsFuture Love Lyrics[Verse 1]\nI see you\nAre we drunk on morning dew?\n'Cause I\nCan't say your name\nBut you've got me going\nYeah, you've got me going\n\n[Verse 2]\nSkies are blue\nAnd I can't do anything\nAnd the days seem so long\nNow you've got me going\nYeah, you've got me going\n\n[Chorus]\nYou had me from the start\nPulling all the stops out\nOn the down low, secretly\nBut I think you knew your psychology\nWas working on me\n\n[Verse 3]\nInfatuated\nAnd doing this all wrong\nYou've got\nMy number and my name\nAnd you've got me going\nYeah, you've got me going\nSee Ride LiveGet tickets as low as $54You might also like[Verse 4]\nCan I see you every day?\nDo you love me\nLike I love you?\nAh, you've got me going\nYeah, you've got me going\n\n[Bridge]\nAh, oh\nA future love\nCan never fail\nAh, oh\nA future love\nCan never fail\n\n[Refrain]\nYou've got me going\nYou've got me going\n\n[Outro]\nYou've got me going\nYou've got me going\nYou've got me going\nYou've got me goingEmbed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499216",
+    "artist_names": "Ride",
+    "full_title": "Repetition by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "header_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "id": 4499216,
+    "instrumental": false,
+    "lyrics_owner_id": 1583418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1562226423,
+    "path": "/Ride-repetition-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-repetition-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 7,
+     "day": 3
+    },
+    "release_date_for_display": "July 3, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jul. 3, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Repetition",
+    "title_with_featured": "Repetition",
+    "updated_by_human_at": 1607512798,
+    "url": "https://genius.com/Ride-repetition-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "2 ContributorsRepetition Lyrics[Chorus]\nChange, repetition\nChange, repetition\nChange, repetition\nChange, repetition\n\n[Verse 1]\nRepetition is a form of change\nSo don't be phased if the backdrops rearrange\nArt school taught us how to play\nWays of hearing and what they say\n\n[Verse 2]\nAt seventeen it's purely teenage art, you see\nHiding clarity in obscurity\nRealising there's no truth will set you free\nAs in the cryptic work of JMB\n\n[Chorus]\nChange, repetition\nChange, repetition\nChange, repetition\nChange\n\n[Verse 3]\nHappiness is found in simple things\nIf you can smile you don't really need to sing\nSee Ride LiveGet tickets as low as $54You might also like[Bridge]\nIt's funny, people hate you to change\nThey want you just to repeat and stay the same\nThey want you just to repeat and stay the same\nEven though repetition is a form of change\n\n[Outro]\nRepetition, change\nRepetition, change\nRepetition, change\nRepetition, changeEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499225",
+    "artist_names": "Ride",
+    "full_title": "Kill Switch by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "header_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "id": 4499225,
+    "instrumental": false,
+    "lyrics_owner_id": 1583418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565893209,
+    "path": "/Ride-kill-switch-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-kill-switch-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 16
+    },
+    "release_date_for_display": "August 16, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Kill Switch",
+    "title_with_featured": "Kill Switch",
+    "updated_by_human_at": 1607513067,
+    "url": "https://genius.com/Ride-kill-switch-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "2 ContributorsKill Switch Lyrics[Verse 1]\nWhen it hits the fan\nJeopardy crashes the wars you wage\nWhen the truth gets served\nThe game is up, you go down in the next stage\nThis party's nearly done\nI wanna kill your sound, make the right noise\nHit the kill switch\n\n[Verse 2]\nSo what do you do?\nWhen you're not talking over everyone?\nWhat do you do\nWhen you're not just playing up your own game\nThis party's nearly done\nAnd there's nothing on you, not a stitch\nI wanna kill your sound, make the right noise\nHit the kill switch\n\n[Verse 3]\nThis party's nearly done\nAnd there's nothing on you, not a stitch\nI wanna kill your sound, make the right noise\nHit the kill switch\n\n[Outro]\nHit the kill switch\nHit the kill switch\nHit the kill switch\nI wanna kill your sound, make the right noise\nHit the kill switchSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499230",
+    "artist_names": "Ride",
+    "full_title": "Clouds of Saint Marie by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "header_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "id": 4499230,
+    "instrumental": false,
+    "lyrics_owner_id": 8459032,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565855631,
+    "path": "/Ride-clouds-of-saint-marie-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-clouds-of-saint-marie-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 13
+    },
+    "release_date_for_display": "August 13, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 13, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Clouds of Saint Marie",
+    "title_with_featured": "Clouds of Saint Marie",
+    "updated_by_human_at": 1607513199,
+    "url": "https://genius.com/Ride-clouds-of-saint-marie-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "3 ContributorsClouds of Saint Marie Lyrics[Verse 1]\nClouds of Saint Marie\nI see\nClouds of Saint Marie\nShe's over me\nA memory\nA remedy\nA melody\n\n[Verse 2]\nClouds of Saint Marie\nMake me feel\nClouds of Saint Marie\nNothing's real (deleted)\nA memory (is needed)\nA remedy (repeated)\nA melody\n\n[Chorus]\n(Na-na-na-nananana)\nShe reigns over me\n(Na-na-na-nananana)\nAgain\n(Na-na-na-nananana)\nShe reigns over me\n(Na-na-na-nananana)\nAgain\nSee Ride LiveGet tickets as low as $54You might also like[Bridge]\nShe's over me\nA memory\nA remedy\nA melody\n\n[Verse 3]\nClouds of Saint Marie\nBefore the rain\nClouds of Saint Marie\nShe'll fall again (deleted)\nA memory (is needed)\nA remedy (repeated)\nA melody\n\n[Chorus]\n(Na-na-na-nananana)\nShe reigns over me\n(Na-na-na-nananana)\nAgain\n(Na-na-na-nananana)\nShe reigns over me\n(Na-na-na-nananana)\nAgain\n\n[Outro]\n(Na-na-na-nananana)\nShe reigns over me\n(Na-na-na-nananana)\nAgain\n(Na-na-na-nananana)\nShe reigns over me\n(Na-na-na-nananana)\nAgainEmbed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499234",
+    "artist_names": "Ride",
+    "full_title": "Eternal Recurrence by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "header_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "id": 4499234,
+    "instrumental": false,
+    "lyrics_owner_id": 1583418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565903032,
+    "path": "/Ride-eternal-recurrence-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-eternal-recurrence-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 16
+    },
+    "release_date_for_display": "August 16, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Eternal Recurrence",
+    "title_with_featured": "Eternal Recurrence",
+    "updated_by_human_at": 1607513526,
+    "url": "https://genius.com/Ride-eternal-recurrence-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "2 ContributorsEternal Recurrence Lyrics[Verse 1]\nThe boy in the picture has gone\nThat light only lasts for so long\nYou don't know a thing about me\nBut go on and judge what you see\n\n[Chorus]\nSinking is easy\nOnly clouds in the mirror\nFeeling uneasy\nDon't look again\n\n[Verse 2]\nNovember, recovery, change\nThe light always wins over pain\nBroken time may never mend\nBut love will win in the end\n\n[Instrumental]\n\n[Chorus]\nSinking is easy\nOnly clouds in the mirror\nFeeling uneasy\nDon't look again\nSee Ride LiveGet tickets as low as $54You might also like[Verse 3]\nA fugitive's lost afternoon\nHe lost himself in the room\nSome things can never repair\nNow all is ahead and not there\nNow all is ahead and not there\nNow all is ahead and not thereEmbed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499235",
+    "artist_names": "Ride",
+    "full_title": "Fifteen Minutes by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "header_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "id": 4499235,
+    "instrumental": false,
+    "lyrics_owner_id": 1583418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565903555,
+    "path": "/Ride-fifteen-minutes-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-fifteen-minutes-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 16
+    },
+    "release_date_for_display": "August 16, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Fifteen Minutes",
+    "title_with_featured": "Fifteen Minutes",
+    "updated_by_human_at": 1607513812,
+    "url": "https://genius.com/Ride-fifteen-minutes-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "2 ContributorsFifteen Minutes Lyrics[Verse 1]\nOnce in a lifetime\nYou do something\nSomething totally fucked\nThat it totally changes everything\nNow you've got to live with it\nBut you never live it down\nAnd it hounds you to the ground\nYeah, it hounds you to the ground\n\n[Chorus]\nThis was your fifteen minutes\nHope you had fun now\nHave a nice life, yeah\nYou're basically done now\n(Na na na na)\n(Na na na na)\n(Na na na na)\n(Na na na na)\n\n[Verse 2]\nKarma is a killer\nRegret can really nail you too\nAnd nothing you can do or say\nCan fix this for you\nSorry to say it\nBut you can't go back in time\nThis is your life now\nUntil the end of the line\nForever unforgiven\nThe cure will not be found\nAs it hounds you to the ground\nYeah it hounds you to the ground\nSee Ride LiveGet tickets as low as $54You might also like[Chorus]\nThis was your fifteen minutes\nHope you had fun now\nHave a nice life, yeah\nYou're basically done now\nThis was your fifteen minutes\nHope you had fun now\nHave a nice life, yeah\nYou're basically done now\n\n[Outro]\n(Na na na na) You're done now\n(Na na na na) You're done now\n(Na na na na) You're done now\n(Na na na na) You're done now\n(Na na na na) You're done now\n(Na na na na) You're done now\n(Na na na na) You're done now\n(Na na na na) You're done nowEmbed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499237",
+    "artist_names": "Ride",
+    "full_title": "Jump Jet by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "header_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "id": 4499237,
+    "instrumental": false,
+    "lyrics_owner_id": 1583418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565904076,
+    "path": "/Ride-jump-jet-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-jump-jet-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 16
+    },
+    "release_date_for_display": "August 16, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Jump Jet",
+    "title_with_featured": "Jump Jet",
+    "updated_by_human_at": 1630283655,
+    "url": "https://genius.com/Ride-jump-jet-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "3 ContributorsJump Jet Lyrics[Verse 1]\nAnd a jet could take me far\nBut I couldn't escape this feeling\nThat I don\u2019t know where I'm bound\nIf I did get away\nAm I trapped or just worn down?\nI work hard and miss my family\nAnd the wheels of industry\nKeep on grinding away\n\n[Chorus]\nThis is life on the outside, yeah\nThis is life on the outside, yeah\nThis is life on the outside, yeah\n\n[Verse 2]\nAs the engines start to roar\nWe keep working to keep this feeling\nWe're not human anymore\nWe\u2019re just ticking away\nThe machine is on our side\nAs it was, as it's in the beginning\nIt's becoming self-aware\nAnd we're fading away\n\n[Chorus]\nThis is life on the outside, yeah\nThis is life on the outside, yeah\nThis is life on the outside, yeah\nSee Ride LiveGet tickets as low as $54You might also like[Instrumental]\n\n[Outro]\nThis is life on the outside, yeah\nThis is life on the outside, yeah\nThis is life on the outside, yeahEmbed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499241",
+    "artist_names": "Ride",
+    "full_title": "Dial Up by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "header_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "id": 4499241,
+    "instrumental": false,
+    "lyrics_owner_id": 1583418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1570721714,
+    "path": "/Ride-dial-up-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-dial-up-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 16
+    },
+    "release_date_for_display": "August 16, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Dial Up",
+    "title_with_featured": "Dial Up",
+    "updated_by_human_at": 1607514289,
+    "url": "https://genius.com/Ride-dial-up-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsDial Up Lyrics[Verse 1]\nA day just like any other\nIt could go either way\nHappiness is too much to ask\nFeeling is all I crave\nGot a ticket for an exhibition\nIf I wanna distract my brain\nBut that's really no solution\nFor a love so far that it feels like pain\n\n[Verse 2]\nLife has me rattled\nI've lost sight of my soul\nI've got no concentration\nI'm swinging from pole to pole\nIts like my brain's on dial-up\nIt's trying but it can't get through\nOr a virus is in the system\nDividing two by two by two\n\n[Chorus]\nSometimes I wonder\nWhat in the world do I feel\nSometimes I wonder\nIs any of this even real?\nAre we living?\nAre we living?\nAre we living?\nAre we living?\nSee Ride LiveGet tickets as low as $54You might also like[Verse 3]\nI never know what makes it pass\nI only know it will\nA borderline psychedelic event\nThen a feeling that it's had its fill\nSuddenly I'm smiling\nAs I feel it start to end\nRoll down my windows\nAnd I'm myself again\n\n[Chorus]\nSometimes I wonder\nWhat in the world do I feel\nSometimes I wonder\nIs any of this even real?\nAre we living?\nAre we living?\nAre we living?\nAre we living?\n\n[Outro]\nAre we living?\nAre we living?\nAre we living?\nAre we living?Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499244",
+    "artist_names": "Ride",
+    "full_title": "End Game by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "header_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "id": 4499244,
+    "instrumental": false,
+    "lyrics_owner_id": 1583418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565905276,
+    "path": "/Ride-end-game-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-end-game-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 16
+    },
+    "release_date_for_display": "August 16, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "End Game",
+    "title_with_featured": "End Game",
+    "updated_by_human_at": 1607514836,
+    "url": "https://genius.com/Ride-end-game-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "2 ContributorsEnd Game Lyrics[Chorus]\nLooking back when I try to remember\nLooking back when I try to remember\nI thought that we had something\nI thought that we had something\nLooking back when I try to remember\nLooking back when I try to remember\nI thought that we had something\nI thought that we had something\n\n[Verse 1]\nBut you are looking at a different picture\nOf two parties but only one victor\nIf that's the game, of course we can play it\nForever changed, that's a shame to say it\nThe end game brings me no pleasure\nIt's served cold and it's served forever\nThat's the way it's got to be\nYou've killed yourself stone dead to me\n\n[Chorus]\nLooking back when I try to remember\nLooking back when I try to remember\nI thought that we had something\nI thought that we had something\nLooking back when I try to remember\nLooking back when I try to remember\nI thought that we had something\nI thought that we had something\nSee Ride LiveGet tickets as low as $54You might also like[Bridge]\nWhat went wrong?\nWhat is wrong with you?\nWhat went wrong?\nWhat is wrong with you?\nWhat went wrong?\nWhat is wrong with you?\nWhat went wrong?\nWhat is wrong with you?\nWhat went wrong?\nWhat is wrong with you?\nWhat went wrong?\nWhat is wrong with you?\nWhat went wrong?\nWhat is wrong with you?\nWhat went wrong?\nWhat is wrong, wrong with you?\n\n[Outro]\nLooking back when I try to remember\nLooking back when I try to remember\nI thought that we had something\nI thought that we had something\nI thought that we had something\nI thought that we had something\nI thought that we had something\nI thought that we had somethingEmbed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499246",
+    "artist_names": "Ride",
+    "full_title": "Shadows Behind the Sun by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "header_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "id": 4499246,
+    "instrumental": false,
+    "lyrics_owner_id": 1583418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565905789,
+    "path": "/Ride-shadows-behind-the-sun-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-shadows-behind-the-sun-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 16
+    },
+    "release_date_for_display": "August 16, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Shadows Behind the Sun",
+    "title_with_featured": "Shadows Behind the Sun",
+    "updated_by_human_at": 1607514811,
+    "url": "https://genius.com/Ride-shadows-behind-the-sun-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "2 ContributorsShadows Behind the Sun Lyrics[Verse 1]\nLiving in these shadows\nI can't live there anymore\nThe once high\nFalling so far\nThose words are always with me\nMy brothers in the dark\nFriends or foes\nI can't tell them apart\n\n[Chorus]\nMistaken identities\nAnd my old me is killing me\nThis world breaks everybody now\nAt the broken places be strong\nMany words without voices\nEchoes more that's lost than won\nIn the shadows behind the sun\n\n[Verse 2]\nWords go way beyond me\nI can't them anymore\nWords fail me\nAnd all I've lived for\nThose voices always with me\nMy sisters in the dark\nCommotions in oceans\nTears it all apart\nSee Ride LiveGet tickets as low as $54You might also like[Chorus]\nMistaken identities\nAnd my old me is killing me\nThis world breaks everybody now\nAt the broken places be strong\nMany words without voices\nEchoes more that's lost than won\nIn the shadows behind the sun\nOnly shadows behind the sun\nIn the shadows behind the sun\nOnly shadows behind the sunEmbed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4499248",
+    "artist_names": "Ride",
+    "full_title": "In This Room by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "header_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "id": 4499248,
+    "instrumental": false,
+    "lyrics_owner_id": 1583418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565906624,
+    "path": "/Ride-in-this-room-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-in-this-room-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 16
+    },
+    "release_date_for_display": "August 16, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ec7442052209b97357b47ecba441031e.268x268x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "In This Room",
+    "title_with_featured": "In This Room",
+    "updated_by_human_at": 1607515019,
+    "url": "https://genius.com/Ride-in-this-room-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "3 ContributorsIn This Room Lyrics[Verse 1]\nEverything has been leading here\nI always wanted to be\nIn this room\nHow they come and go and I want to know\nWhat they know\nIn this room\nYou and I are dominoes\nCollapse one at a time\nIn this room\nAnd I started to understand\nWhat it really means to be\nIn this room\n\n[Chorus]\nThis is not a safe place to be\nYou didn't think it was\nWhen you lined up to sign your name\nThis is not a safe place to be\nAnd no one cares\nIf raving and drowning do look the same\n\n[Verse 2]\nSo I see them all arrive\nAll of them promising the world\nIn this room\nTaking the game for all it's got\nBefore or snatches back the lot\nIn this room\nI'm not exactly a fly on the wall\nOr anything at all\nIn this room\nI turn up, turn it on\nTry to play in tune\nOn this song\nSee Ride LiveGet tickets as low as $54You might also like[Chorus]\nThis is not a safe place to be\nYou didn't think it was\nWhen you lined up to sign your name\nThis is not a safe place to be\nAnd no one cares\nIf raving and drowning do look the sameEmbed"
+   }
+  }
+ ]
+}

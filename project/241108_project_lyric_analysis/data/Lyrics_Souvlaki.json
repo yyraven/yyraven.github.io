@@ -1,0 +1,818 @@
+{
+ "_type": "album",
+ "api_path": "/albums/41969",
+ "cover_art_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+ "full_title": "Souvlaki by Slowdive",
+ "id": 41969,
+ "name": "Souvlaki",
+ "name_with_artist": "Souvlaki (artist: Slowdive)",
+ "primary_artist_names": "Slowdive",
+ "release_date_components": {
+  "year": 1993,
+  "month": 5,
+  "day": 17
+ },
+ "release_date_for_display": "May 17, 1993",
+ "url": "https://genius.com/albums/Slowdive/Souvlaki",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/65120",
+  "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+  "id": 65120,
+  "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Slowdive",
+  "slug": "Slowdive",
+  "url": "https://genius.com/artists/Slowdive"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/65120",
+   "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+   "id": 65120,
+   "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Slowdive",
+   "slug": "Slowdive",
+   "url": "https://genius.com/artists/Slowdive"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/202625",
+    "artist_names": "Slowdive",
+    "full_title": "Alison by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/14b27bb27bf19b8b9f955be55a8941e9.300x297x1.jpg",
+    "header_image_url": "https://images.genius.com/14b27bb27bf19b8b9f955be55a8941e9.599x593x1.jpg",
+    "id": 202625,
+    "instrumental": false,
+    "lyrics_owner_id": 208752,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1713915466,
+    "path": "/Slowdive-alison-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 31,
+    "relationships_index_url": "https://genius.com/Slowdive-alison-sample",
+    "release_date_components": {
+     "year": 1993,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 1993",
+    "release_date_with_abbreviated_month_for_display": "May 17, 1993",
+    "song_art_image_thumbnail_url": "https://images.genius.com/14b27bb27bf19b8b9f955be55a8941e9.300x297x1.jpg",
+    "song_art_image_url": "https://images.genius.com/14b27bb27bf19b8b9f955be55a8941e9.599x593x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 177837
+    },
+    "title": "Alison",
+    "title_with_featured": "Alison",
+    "updated_by_human_at": 1728038234,
+    "url": "https://genius.com/Slowdive-alison-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "56 ContributorsTranslationsPolskiEspa\u00f1olAlison Lyrics[Verse 1]\nListen close and don't be stoned\nI'll be here in the morning\n'Cause I'm just floating\nYour cigarette still burns\nYour messed-up world will thrill me\n\n[Refrain]\nAlison, I'm lost\n\n[Chorus]\n\"Alison,\" I said, \"We're sinking\"\nThere's nothing here but that's okay\nOutside your room, your sister's spinning\nBut she lies, tells me she's just fine\nI guess she's out there somewhere\n\n[Verse 2]\nAnd the sailors, they strike poses\nTV covered walls\nEnd so slowly\nWith your talking and your pills\nYour messed-up life still thrills me\n\n[Refrain]\nAlison, I'm lost\nSee Slowdive LiveGet tickets as low as $55You might also like[Chorus]\nAlison, I'll drink your wine\nI'll wear your clothes when we're both high\n\"Alison,\" I said, \"We're sinking\"\nBut she laughs and tells me it's just fine\nI guess she's out there somewhere31Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/202630",
+    "artist_names": "Slowdive",
+    "full_title": "Machine Gun by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "id": 202630,
+    "instrumental": false,
+    "lyrics_owner_id": 208752,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1727496920,
+    "path": "/Slowdive-machine-gun-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 16,
+    "relationships_index_url": "https://genius.com/Slowdive-machine-gun-sample",
+    "release_date_components": {
+     "year": 1993,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 1993",
+    "release_date_with_abbreviated_month_for_display": "May 17, 1993",
+    "song_art_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 70298
+    },
+    "title": "Machine Gun",
+    "title_with_featured": "Machine Gun",
+    "updated_by_human_at": 1728200910,
+    "url": "https://genius.com/Slowdive-machine-gun-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "33 ContributorsTranslationsPolskiEspa\u00f1olMachine Gun Lyrics[Verse: Rachel Goswell]\nSee you walking and I know she's my friend again\nJust the weight of the water drags me down again\nGuess I'll think of the water, it's my friend, oh yeah\nIt's just the way that the water makes me feel again\n\n[Chorus: Neil Halstead]\nSon of Sheba, I saw him drown\nSon of yellow, I saw him down\nIt's all I need, yeah\n\n[Verse: Rachel Goswell]\nSee you walking and I know she's my friend again\nJust the weight of the water drags me down again\nGuess I'll think of the water, it's my friend, oh yeah\nIt's just the way that the water makes me feel again\n\n[Chorus: Neil Halstead]\nSon of Sheba, I saw him drown\nSon of yellow, I saw him down\nIt's all I need, yeahSee Slowdive LiveGet tickets as low as $55You might also like16Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/202635",
+    "artist_names": "Slowdive",
+    "full_title": "40 Days by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "id": 202635,
+    "instrumental": false,
+    "lyrics_owner_id": 208752,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1727642815,
+    "path": "/Slowdive-40-days-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 11,
+    "relationships_index_url": "https://genius.com/Slowdive-40-days-sample",
+    "release_date_components": {
+     "year": 1993,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 1993",
+    "release_date_with_abbreviated_month_for_display": "May 17, 1993",
+    "song_art_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 72169
+    },
+    "title": "40 Days",
+    "title_with_featured": "40 Days",
+    "updated_by_human_at": 1727642815,
+    "url": "https://genius.com/Slowdive-40-days-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "39 ContributorsTranslationsPolskiEspa\u00f1ol40 Days Lyrics[Verse 1]\nForty days and I miss you\nI'm so high that I've lost my mind\nIt's the summer I'm thinking of\nForty days and I'm blown away\n\n[Chorus]\nIf I saw something good\nI guess I wouldn't worry\nIf I saw something good\nI guess I wouldn't care\n\n[Verse 2]\nYou said you're always sleeping\nBut it's all I believe in\nIt's just that I'm always falling\nAnd it makes me feel bad, yeah\n\n[Chorus]\nIf I saw something good\nI guess I wouldn't worry\nIf I saw something good\nI guess I wouldn't care\n\n[Outro]\nUsed to try and watch you\nI'd center on the way that you smile\nI don't know\nUsed to try and watch you\nI'd center on the way that you smile\nI don't know\nSummer air and I want you\nI center on the way that you smile\nI don't know\nSummer air and I want you\nI center on the way that you smile\nI don't knowSee Slowdive LiveGet tickets as low as $55You might also like11Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/202638",
+    "artist_names": "Slowdive",
+    "full_title": "Sing by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "id": 202638,
+    "instrumental": false,
+    "lyrics_owner_id": 208752,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1707168734,
+    "path": "/Slowdive-sing-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Slowdive-sing-sample",
+    "release_date_components": {
+     "year": 1993,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 1993",
+    "release_date_with_abbreviated_month_for_display": "May 17, 1993",
+    "song_art_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 24664
+    },
+    "title": "Sing",
+    "title_with_featured": "Sing",
+    "updated_by_human_at": 1723582905,
+    "url": "https://genius.com/Slowdive-sing-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "26 ContributorsTranslationsPolskiEspa\u00f1olSing Lyrics[Verse 1]\n(Sing where the other boys can watch you dance)\nHere come my man\n(Sing where the other boys can watch you dance)\nHere in my mind\nWatch you fall away\nI know\n(Sing where the other boys can watch you dance)\nSee you cover death\nI know\n\n[Verse 2]\nWhat's in your mind, calling from behind\nFeel you fall away, I know he's here to stay\n\n[Verse 3]\n(Sing where the other boys can watch you dance)\n(Sing where the other boys can watch you dance)\n(Sing where the other boys can watch you dance)\nWho are you, where are you, do you know?\n(Sing where the other boys can watch you dance)\nLove is here tonight\nYou call away I wait\n(Sing where the other boys can watch you dance)\nI know you're listening to everything I say\nBut I know that you want to stay\nOh, here another day\n(Sing where the other boys can watch you dance)\n(Sing where the other boys can watch you dance)\nLove is what I'm not\nWatching what you do\nAnd I know he's gone awaySee Slowdive LiveGet tickets as low as $55You might also like8Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/203255",
+    "artist_names": "Slowdive",
+    "full_title": "Here She Comes by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "id": 203255,
+    "instrumental": false,
+    "lyrics_owner_id": 208752,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728028034,
+    "path": "/Slowdive-here-she-comes-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Slowdive-here-she-comes-sample",
+    "release_date_components": {
+     "year": 1993,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 1993",
+    "release_date_with_abbreviated_month_for_display": "May 17, 1993",
+    "song_art_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 38733
+    },
+    "title": "Here She Comes",
+    "title_with_featured": "Here She Comes",
+    "updated_by_human_at": 1728028117,
+    "url": "https://genius.com/Slowdive-here-she-comes-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "27 ContributorsTranslationsPolskiT\u00fcrk\u00e7eEspa\u00f1olPortugu\u00easHere She Comes Lyrics[Verse 1]\nIt's so lonely in this place\nSo cold, I don't believe\n\n[Verse 2]\nAnd as no one knows my name\nIt's easy to pretend\nIt's easy to believe\n\n[Verse 3]\nThere's a shadow on my wall\nIt dances like my soul\nDances like my soul\n\n[Verse 4]\nIt's so cold now\nI swear it will be warm\nHere she come nowSee Slowdive LiveGet tickets as low as $55You might also like10Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/203257",
+    "artist_names": "Slowdive",
+    "full_title": "Souvlaki Space Station by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/14b27bb27bf19b8b9f955be55a8941e9.300x297x1.jpg",
+    "header_image_url": "https://images.genius.com/14b27bb27bf19b8b9f955be55a8941e9.599x593x1.jpg",
+    "id": 203257,
+    "instrumental": false,
+    "lyrics_owner_id": 208752,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1715227319,
+    "path": "/Slowdive-souvlaki-space-station-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Slowdive-souvlaki-space-station-sample",
+    "release_date_components": {
+     "year": 1993,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 1993",
+    "release_date_with_abbreviated_month_for_display": "May 17, 1993",
+    "song_art_image_thumbnail_url": "https://images.genius.com/14b27bb27bf19b8b9f955be55a8941e9.300x297x1.jpg",
+    "song_art_image_url": "https://images.genius.com/14b27bb27bf19b8b9f955be55a8941e9.599x593x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 54184
+    },
+    "title": "Souvlaki Space Station",
+    "title_with_featured": "Souvlaki Space Station",
+    "updated_by_human_at": 1723582908,
+    "url": "https://genius.com/Slowdive-souvlaki-space-station-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "30 ContributorsTranslationsEspa\u00f1olPolskiSouvlaki Space Station Lyrics[Verse 1]\nClosed doors\nBrings open minds\n(And I don't want to see you)\nSee you smile\nInside\n(And I don't want to know you)\nFaces\nAnd I've fallen\n(And I don't want to hear you)\nWonder why\nI'm here now\n\n[Chorus 1]\nIn asylum\nDon't you see?\nIn asylum\nDon't you see?\n\n[Verse 2]\nDoors close\nAnd feelings flow\n(And I don't want to know you)\nThrough my mind\nI feel his\n(And I don't want to hear you)\nPictures\nAnd I've fallen\n(and I don't want to know you)\nWonder why\nI'm here now\n(I promise to be near you)\nSee Slowdive LiveGet tickets as low as $55You might also like[Chorus 2]\nCurse your soul\nI don't wanna hear you\n(And I) Curse your soul\nI don't wanna know you\nCurse your soul\nI don't wanna hear you\n(And I) Curse your soul\nI don't wanna know you10Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/203259",
+    "artist_names": "Slowdive",
+    "full_title": "When the Sun Hits by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "id": 203259,
+    "instrumental": false,
+    "lyrics_owner_id": 208752,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1729955502,
+    "path": "/Slowdive-when-the-sun-hits-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 31,
+    "relationships_index_url": "https://genius.com/Slowdive-when-the-sun-hits-sample",
+    "release_date_components": {
+     "year": 1993,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 1993",
+    "release_date_with_abbreviated_month_for_display": "May 17, 1993",
+    "song_art_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 9,
+     "hot": false,
+     "pageviews": 212390
+    },
+    "title": "When the Sun Hits",
+    "title_with_featured": "When the Sun Hits",
+    "updated_by_human_at": 1729955502,
+    "url": "https://genius.com/Slowdive-when-the-sun-hits-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "58 ContributorsTranslationsEspa\u00f1olPortugu\u00easPolskiWhen the Sun Hits Lyrics[Verse]\nSweet thing, I watch you\nBurn so fast it scares me\nMind games, don't leave me\nI've come so far, don't lose me\nIt matters where you are\n\n[Chorus]\nAs the sun hits, she'll be waiting\nWith her cool things and her heaven\nHey hey, lover, you still burn me\nYou're a song, yeah (Hey hey!)\n\n[Verse]\nSweet thing, I watch you\nBurn so fast it scares me\nMind games, don't lose me\nCome so far, don't lose me\nIt matters where you are\n\n[Chorus]\nAs the sun hits, she'll be waiting\nWith her cool things and her heaven\nHey hey, lover, you still burn me\nYou're a song, yeah (Hey hey!)\nSee Slowdive LiveGet tickets as low as $55You might also like[Outro]\nSweet thing, I watch you (Hey hey hey!)\nSweet thing, I watch you (Hey hey hey!)\nSweet thing, I watch you (Hey hey hey!)31Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/203261",
+    "artist_names": "Slowdive",
+    "full_title": "Altogether by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "id": 203261,
+    "instrumental": false,
+    "lyrics_owner_id": 208752,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718544528,
+    "path": "/Slowdive-altogether-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Slowdive-altogether-sample",
+    "release_date_components": {
+     "year": 1993,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 1993",
+    "release_date_with_abbreviated_month_for_display": "May 17, 1993",
+    "song_art_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 26712
+    },
+    "title": "Altogether",
+    "title_with_featured": "Altogether",
+    "updated_by_human_at": 1723582910,
+    "url": "https://genius.com/Slowdive-altogether-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "25 ContributorsTranslationsPolskiT\u00fcrk\u00e7eEspa\u00f1olAltogether Lyrics[Intro]\nYeah, yeah, yeah\n\n[Verse 1]\nSleepyhead, where did you go?\nI saw you turning, but I couldn't catch your eye\nIt's alright, we're altogether\n\n[Refrain]\nYeah, yeah, yeah\n\n[Verse 2]\nAnd this is just a dream\nIt broke my heart, but then I guess you didn't know\nIt's alright, we're altogether\n\n[Refrain]\nYeah, yeah, yeah\n\n[Bridge]\nSo tired, you're so right\nI'm so tired, it's alright tonight\n\n[Refrain]\nYeah, yeah, yeah\nSee Slowdive LiveGet tickets as low as $55You might also like[Verse 3]\nSleepyhead, what did you know?\nI saw you talking, but I didn't hear a word\nIt's alright, we're altogether\n\n[Refrain]\nYeah, yeah, yeah10Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/203262",
+    "artist_names": "Slowdive",
+    "full_title": "Melon Yellow by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "id": 203262,
+    "instrumental": false,
+    "lyrics_owner_id": 208752,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1702057249,
+    "path": "/Slowdive-melon-yellow-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/Slowdive-melon-yellow-sample",
+    "release_date_components": {
+     "year": 1993,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 1993",
+    "release_date_with_abbreviated_month_for_display": "May 17, 1993",
+    "song_art_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 23903
+    },
+    "title": "Melon Yellow",
+    "title_with_featured": "Melon Yellow",
+    "updated_by_human_at": 1723582912,
+    "url": "https://genius.com/Slowdive-melon-yellow-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "21 ContributorsTranslationsPolskiEspa\u00f1olMelon Yellow Lyrics[Verse 1]\nSitting by, I watched you fall away\nSudden fall, I watched you for a day\nYou know I don't believe in death\nFollow the sun, I watched you follow the sun\n\n[Verse 2]\nSitting here I watched you dance\nLooking for the sun I watched you dance\n\n[Chorus]\nSo long, so long\nIt's just a way to love you\nSo long, so long\nIt's just a way to love you\n\n[Verse 3]\nI saw you looking at the sun\nI saw you looking at the sun\n\n[Chorus]\nSo long, so long\nIt's just a way to love you\nSo long, so long\nIt's just a way to love you\nSo long, so long\nIt's just a way to love you\nSo long, so long\nIt's just a way to love you\nSo long, so long\nIt's just a way to love youSee Slowdive LiveGet tickets as low as $55You might also like7Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/203266",
+    "artist_names": "Slowdive",
+    "full_title": "Dagger by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "id": 203266,
+    "instrumental": false,
+    "lyrics_owner_id": 208752,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1716188438,
+    "path": "/Slowdive-dagger-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 20,
+    "relationships_index_url": "https://genius.com/Slowdive-dagger-sample",
+    "release_date_components": {
+     "year": 1993,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 1993",
+    "release_date_with_abbreviated_month_for_display": "May 17, 1993",
+    "song_art_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 93963
+    },
+    "title": "Dagger",
+    "title_with_featured": "Dagger",
+    "updated_by_human_at": 1728201001,
+    "url": "https://genius.com/Slowdive-dagger-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "37 ContributorsTranslationsPolskiEspa\u00f1olT\u00fcrk\u00e7eDagger Lyrics[Verse 1]\nThe sunshine girl is sleeping\nShe falls and dreams alone\nAnd me, I am her dagger\nToo numb to feel her pain\n\n[Chorus]\nThe world is full of noise, yeah\nI hear it all the time\nAnd me, I am your dagger\nYou know I am your wound\nI thought I heard you whisper\nIt happens all the time\nI thought I heard you whisper\nIt happens all the time\n\n[Verse 2]\nShe whispers while I'm sleeping:\n\"I love you when you smile\"\nI didn't really lose you\nI just lost it for a while\n\n[Chorus]\nThe world is full of noise, yeah\nI hear it all the time\nYou know I am your dagger\nYou know I am your wound\nI thought I heard you whisper\nIt happens all the time\nI thought I heard you whisper\nIt happens all the timeSee Slowdive LiveGet tickets as low as $55You might also like20Embed"
+   }
+  },
+  {
+   "number": null,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/966393",
+    "artist_names": "Slowdive",
+    "full_title": "Some Velvet Morning by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "id": 966393,
+    "instrumental": false,
+    "lyrics_owner_id": 5598907,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1702057955,
+    "path": "/Slowdive-some-velvet-morning-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Slowdive-some-velvet-morning-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 5,
+     "day": 11
+    },
+    "release_date_for_display": "May 11, 1994",
+    "release_date_with_abbreviated_month_for_display": "May 11, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/613951a3d80e01e9c6217c750b4d0cb0.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 8256
+    },
+    "title": "Some Velvet Morning",
+    "title_with_featured": "Some Velvet Morning",
+    "updated_by_human_at": 1702057955,
+    "url": "https://genius.com/Slowdive-some-velvet-morning-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "6 ContributorsSome Velvet Morning Lyrics[Chorus: Neil Halstead]\nSome velvet morning when I'm straight\nI'm gonna open up your gate\nAnd maybe tell you 'bout Phaedra\nAnd how she gave me life\nAnd how she made it in\nSome velvet morning when I'm\nStraight\n\n[Verse 1: Rachel Goswell]\nFlowers growing on the hill\nDragonflies and daffodils\nLearn from us very much\nLook at us but do not touch\nPhaedra is my name\n\n[Chorus: Neil Halstead]\nSome velvet morning when I'm straight\nI'm gonna open up your gate\nAnd maybe tell you 'bout Phaedra\nAnd how she gave me life\nAnd how she made it in\nSome velvet morning when I'm straight\n\n[Verse 2: Rachel Goswell]\nFlowers are the things we knew\nSecrets are the things we grew\nLearn from us very much\nLook at us but do not touch\nPhaedra is my name\nSee Slowdive LiveGet tickets as low as $55You might also like[Outro: Neil Halstead]\nSome velvet morning when I'm straight\nSome velvet morning when I'm straightEmbed"
+   }
+  }
+ ]
+}

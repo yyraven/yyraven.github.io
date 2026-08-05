@@ -1,0 +1,677 @@
+{
+ "_type": "album",
+ "api_path": "/albums/337449",
+ "cover_art_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+ "full_title": "Slowdive by Slowdive",
+ "id": 337449,
+ "name": "Slowdive",
+ "name_with_artist": "Slowdive (artist: Slowdive)",
+ "primary_artist_names": "Slowdive",
+ "release_date_components": {
+  "year": 2017,
+  "month": 5,
+  "day": 5
+ },
+ "release_date_for_display": "May 5, 2017",
+ "url": "https://genius.com/albums/Slowdive/Slowdive",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/65120",
+  "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+  "id": 65120,
+  "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Slowdive",
+  "slug": "Slowdive",
+  "url": "https://genius.com/artists/Slowdive"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/65120",
+   "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+   "id": 65120,
+   "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Slowdive",
+   "slug": "Slowdive",
+   "url": "https://genius.com/artists/Slowdive"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/3037679",
+    "artist_names": "Slowdive",
+    "full_title": "Slomo by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "id": 3037679,
+    "instrumental": false,
+    "lyrics_owner_id": 5975883,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1704741627,
+    "path": "/Slowdive-slomo-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Slowdive-slomo-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 5,
+     "day": 5
+    },
+    "release_date_for_display": "May 5, 2017",
+    "release_date_with_abbreviated_month_for_display": "May 5, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 46438
+    },
+    "title": "Slomo",
+    "title_with_featured": "Slomo",
+    "updated_by_human_at": 1704741627,
+    "url": "https://genius.com/Slowdive-slomo-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "21 ContributorsTranslationsPolskiEspa\u00f1olSlomo Lyrics[Instrumental Intro]\n\n[Chorus]\nYou give me your love, it's a curious love\nYou give me your heart, it's a curious thing\nOur lady of the shipwreck is running through the storm\nWith her skirts blown back\nHands to the fore\n\n[Post-Chorus]\nMy love and I go, it's a curious woe\nLike dreamers at dawn, awake but not yet\nYou gimme your heart, it's a curious thing\nGimme your love, it's a curious love\n\n[Instrumental Bridge]\n\n[Refrain]\nIt burns and it slides\nIt's a curious ride (Gimme your heart)\nGimme your heart, yeah\nGimme your heart\n\n[Bridge]\nMy love and I go, yeah, it's a curious ride\nWe're younger than clouds\nYounger than clouds\n(Younger than clouds)\n(Younger than clouds)\n(Younger than clouds)\n(Younger than clouds)\n(Younger than clouds)\n(Younger than clouds)\nSee Slowdive LiveGet tickets as low as $55You might also like[Refrain]\nIt burns and it slides\nIt's a curious ride\nGimme your heart, yeah\nGimme your heart\n\n[Instrumental Bridge]\n\n[Chorus]\nYou give me your love, it's a curious love\nYou give me your heart, it's a curious thing\nOur lady of the shipwreck is running through the storm\nWith her skirts blown back\nHands to the fore\n\n[Post-Chorus]\nMy love and I go, it's a curious woe\nLike dreamers at dawn, awake but not yet\nYou gimme your heart, it's a curious thing\nGimme your love, it's a curious love\n\n[Instrumental Bridge]\n\n[Post-Chorus]\nMy love and I go, it's a curious woe\nLike dreamers at dawn, awake but not yet\nYou gimme your heart, it's a curious thing\nGimme your love, it's a curious love\nMy love and I go, it's a curious woe\nLike dreamers at dawn, awake but not yet\nYou gimme your heart, it's a curious thing\nGimme your love, it's a curious love\n[Outro]\n(My love and I go, it's a curious woe now)\n(Like dreamers at dawn, awake but not yet)\n(You gimme your heart, it's a curious thing now)\n(Gimme your love, it's a curious love)\n(My love and I go, it's a curious woe now)\n(Like dreamers at dawn, awake but not yet)\n(You gimme your heart, it's a curious thing now)\n(Gimme your love, it's a curious\u2014)3Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/2954669",
+    "artist_names": "Slowdive",
+    "full_title": "Star Roving by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://f4.bcbits.com/img/a2968716570_10.jpg",
+    "header_image_url": "https://f4.bcbits.com/img/a2968716570_10.jpg",
+    "id": 2954669,
+    "instrumental": false,
+    "lyrics_owner_id": 3264970,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1691012812,
+    "path": "/Slowdive-star-roving-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Slowdive-star-roving-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 1,
+     "day": 12
+    },
+    "release_date_for_display": "January 12, 2017",
+    "release_date_with_abbreviated_month_for_display": "Jan. 12, 2017",
+    "song_art_image_thumbnail_url": "https://f4.bcbits.com/img/a2968716570_10.jpg",
+    "song_art_image_url": "https://f4.bcbits.com/img/a2968716570_10.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 45304
+    },
+    "title": "Star Roving",
+    "title_with_featured": "Star Roving",
+    "updated_by_human_at": 1691012812,
+    "url": "https://genius.com/Slowdive-star-roving-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "23 ContributorsTranslationsPolskiEspa\u00f1olPortugu\u00easStar Roving Lyrics[Verse 1]\nGive it away now, girl\nCan't hold down tonight\nEvery black and white\nSecret's a blinking light\nEmma flies a kite\nSaid she's feeling love for everyone tonight\nAlthough possible\nSaid she's feeling good, said she's feeling good\n\n[Verse 2]\nSmiling beautiful\nShe says I make it best\nFor everyone to hide\nTwisting around my girl\nNothing left to lose\nNothing left to fight\n\n[Bridge]\nOoh, ooh\nOoh, ooh\nOoh, ooh\nOoh, ooh\nOoh, ooh\nOoh, ooh\nSee Slowdive LiveGet tickets as low as $55You might also like[Verse 3]\nGive it away now, girl\nCan't hold on to mine\nEvery black and white\nSecret's seeking light\nIn a flash of time\nSaid she's feeling love for everyone tonight\nSmiling beautiful\nShe says I make it best for everyone tonight\n\n[Outro]\nOoh, ooh\nOoh, ooh\nOoh, ooh\nOoh, ooh8Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/3037681",
+    "artist_names": "Slowdive",
+    "full_title": "Don't Know Why by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "id": 3037681,
+    "instrumental": false,
+    "lyrics_owner_id": 2726776,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1608957428,
+    "path": "/Slowdive-dont-know-why-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Slowdive-dont-know-why-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 5,
+     "day": 5
+    },
+    "release_date_for_display": "May 5, 2017",
+    "release_date_with_abbreviated_month_for_display": "May 5, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 26107
+    },
+    "title": "Don\u2019t Know Why",
+    "title_with_featured": "Don't Know Why",
+    "updated_by_human_at": 1620837908,
+    "url": "https://genius.com/Slowdive-dont-know-why-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "19 ContributorsTranslationsPolskiEnglishDon\u2019t Know Why Lyrics[Chorus: Rachel Goswell]\nPut it all behind you, put it in a song, yeah\nI don't want to know about it\nPut it in a corner somewhere I can't find it\nI don't want to think about\nPut it on a fire, put it in a pocket\nI don't want to see you now\nPut it in a picture, hide it in a story\nI don't wanna know about\nPut it all behind you, put it in a song, yeah\nI don\u2019t want to know about it (Bury all the magic)\nPut it in a corner somewhere I can\u2019t find it\nI don\u2019t want to think about (Bury all the treasure)\nPut it on a fire, put it in a pocket\nI don\u2019t want to see you now (Throw away all the poems)\nPut it in a picture, hide it in a story\nI don\u2019t wanna know about ([?])\n\n[Verse: Neil Halstead]\nI don't remember much about it all\nJust saw you loving someone else\nAnd swallowing that bitter pill\nMy shabby heart was acting out\nYou know I don't want no one else\n\n[Chorus: Rachel Goswell]\nPut it all behind you, put it in a song, yeah\nI don't want to know about it\nPut it in a corner, somewhere I can't find it\nI don't want to think about\nPut it on a fire, put it in a pocket\nI don't want to see you now\nPut it in a picture, hide it in a story\nI don't wanna know about\nPut it all behind you, put it in a song, yeah\nI don\u2019t want to know about it (Bury all the magic)\nPut it in a corner somewhere I can\u2019t find it\nI don\u2019t want to think about (Bury all the treasure)\nPut it on a fire, put it in a pocket\nI don\u2019t want to see you now (Throw away all the poems)\nPut it in a picture, hide it in a story\nI don\u2019t wanna know about ([?])\nPut it in a corner somewhere I can\u2019t find it\nI don\u2019t want to think about\nPut it in a corner somewhere I can\u2019t find it\nI don\u2019t want to think about\nPut it in a corner somewhere I can\u2019t find it\nI don\u2019t want to think about\nPut it in a corner somewhere I can\u2019t find it\nI don\u2019t want to think about\nSee Slowdive LiveGet tickets as low as $55You might also like[Outro: Rachel Goswell]\nThrew it all upon a fire\nTook the fight to someone else5Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/3037643",
+    "artist_names": "Slowdive",
+    "full_title": "Sugar for the Pill by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "id": 3037643,
+    "instrumental": false,
+    "lyrics_owner_id": 2790115,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1685999383,
+    "path": "/Slowdive-sugar-for-the-pill-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 27,
+    "relationships_index_url": "https://genius.com/Slowdive-sugar-for-the-pill-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 3,
+     "day": 28
+    },
+    "release_date_for_display": "March 28, 2017",
+    "release_date_with_abbreviated_month_for_display": "Mar. 28, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 120070
+    },
+    "title": "Sugar for the Pill",
+    "title_with_featured": "Sugar for the Pill",
+    "updated_by_human_at": 1685999383,
+    "url": "https://genius.com/Slowdive-sugar-for-the-pill-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "39 ContributorsTranslationsEspa\u00f1olPolskiSugar for the Pill Lyrics[Verse 1]\nThere's a blizzard of gulls\nThey're drumming in the wind\nOnly lovers alive\nRunning in the dark\n\n[Chorus]\nAnna rolled away\nSaid we never wanted much\nJust a rollercoast'\nOur love was never number one\nSugar for the pill\nYou know it's just the way things are\nCan't abide the sun\nThis jealousy will break the whole\n\n[Verse 2]\nCut across the sky\nAnd move a little closer now\nLying in a bed of greed\nYou know I had the strangest dream\n\n[Chorus]\nAnna rolled away\nSaid we never wanted much\nJust a rollercoast'\nOur love was never number one\nSugar for the pill\nYou know it's just the way things are\nCan't abide the sun\nThis jealousy will break the whole\nSee Slowdive LiveGet tickets as low as $55You might also like[Instrumental Bridge]\n\n[Chorus]\nAnna rolled away\nSaid we never wanted much\nJust a rollercoast'\nOur love was never number one\nSugar for the pill\nYou know it's just the way things are\nCan't abide the sun\nThis jealousy will break the whole27Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/3037683",
+    "artist_names": "Slowdive",
+    "full_title": "Everyone Knows by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "id": 3037683,
+    "instrumental": false,
+    "lyrics_owner_id": 4649621,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1620835959,
+    "path": "/Slowdive-everyone-knows-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Slowdive-everyone-knows-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 5,
+     "day": 5
+    },
+    "release_date_for_display": "May 5, 2017",
+    "release_date_with_abbreviated_month_for_display": "May 5, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 14477
+    },
+    "title": "Everyone Knows",
+    "title_with_featured": "Everyone Knows",
+    "updated_by_human_at": 1620837904,
+    "url": "https://genius.com/Slowdive-everyone-knows-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "16 ContributorsTranslationsPolskiEspa\u00f1olEveryone Knows Lyrics[Verse 1]\nYou\u2019re so beautiful\nBut you're all alone\nI see you there\nBut I don\u2019t know anything\nAnd you holding back\nJust holding on\nYou say you're fine\nGoing to America\n\n[Chorus]\nYou made a plan\nYou can sail away\nCan rent a car\nTake me to the place you know\n\n[Refrain]\nTake me to America, America\n\n[Bridge]\nTo the great north\nTo the great north\n\n[Verse 2]\nWell it sounds like fun\nBut I don\u2019t know anyone\nJust say the word\nTake me to America\nI can let you go\nWe can take it slow\nJust pack your bag\nTake me to the place you know\nSee Slowdive LiveGet tickets as low as $55You might also like[Refrain]\nTake me to America (America)\nTake me to America (America)\nTake me to America (America)3Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/3037684",
+    "artist_names": "Slowdive",
+    "full_title": "No Longer Making Time by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "id": 3037684,
+    "instrumental": false,
+    "lyrics_owner_id": 387897,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1701802361,
+    "path": "/Slowdive-no-longer-making-time-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Slowdive-no-longer-making-time-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 5,
+     "day": 5
+    },
+    "release_date_for_display": "May 5, 2017",
+    "release_date_with_abbreviated_month_for_display": "May 5, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 40456
+    },
+    "title": "No Longer Making Time",
+    "title_with_featured": "No Longer Making Time",
+    "updated_by_human_at": 1701802361,
+    "url": "https://genius.com/Slowdive-no-longer-making-time-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "24 ContributorsTranslationsPolskiEspa\u00f1olNo Longer Making Time Lyrics[Verse 1]\nYou come anyway\nYou say you're clean and you like it that way\nYou got a new boy\nHe keeps it light, yeah, you like a light love\nWho cares anyway\nOh Lord, I remember those days\nAnd all those nights\nWhen you wanted so much more\n\n[Chorus]\nCathy, don't wait too long\nWe're no longer making time\nForever we'll be\nTogether, we breathe\nNo longer far to run\n\n[Verse 2]\nCome anyway\nCome on down in your blue-eyed way\nComes and it goes\nYou come around and I don't know why\nJust lovers and life\nCommon ground, yeah, there's no surprise\nJust holding your arms\nHolding on till the fear, it goes\nSee Slowdive LiveGet tickets as low as $55You might also like[Chorus]\nCathy, don't wait too long\nWe're no longer making time\nForever we'll be\nTogether, we breathe\nNo longer far to run\n\n[Chorus]\nCathy, don't wait too long\nWe're no longer making time\nForever we'll be\nTogether, we breathe\nNo longer far to run\n\n[Outro]\nWho cares anyway\nOh Lord, I remember those days\nAnd all those nights\nHolding on till the fear, it goes5Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/3037685",
+    "artist_names": "Slowdive",
+    "full_title": "Go Get It by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "id": 3037685,
+    "instrumental": false,
+    "lyrics_owner_id": 2726776,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1492628075,
+    "path": "/Slowdive-go-get-it-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Slowdive-go-get-it-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 5,
+     "day": 5
+    },
+    "release_date_for_display": "May 5, 2017",
+    "release_date_with_abbreviated_month_for_display": "May 5, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 11790
+    },
+    "title": "Go Get It",
+    "title_with_featured": "Go Get It",
+    "updated_by_human_at": 1620837899,
+    "url": "https://genius.com/Slowdive-go-get-it-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "9 ContributorsGo Get It Lyrics[?]\n\nI wanna see it\nI wanna feel it\nI wanna see it\nI wanna feel it\nI wanna see it\nI wanna feel it\nI wanna see it\n\n[?]\n[?] shadow of a girl\n[?]\n\nI wanna see it\nI wanna feel it\nI wanna see it\nI wanna feel it\nI wanna see it\nI wanna feel it\nI wanna see it\n\n[?]\n[?] Watch me go away\n[?]See Slowdive LiveGet tickets as low as $55You might also like1Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/3037687",
+    "artist_names": "Slowdive",
+    "full_title": "Falling Ashes by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "id": 3037687,
+    "instrumental": false,
+    "lyrics_owner_id": 2726776,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1540110459,
+    "path": "/Slowdive-falling-ashes-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Slowdive-falling-ashes-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 5,
+     "day": 5
+    },
+    "release_date_for_display": "May 5, 2017",
+    "release_date_with_abbreviated_month_for_display": "May 5, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 21002
+    },
+    "title": "Falling Ashes",
+    "title_with_featured": "Falling Ashes",
+    "updated_by_human_at": 1620837901,
+    "url": "https://genius.com/Slowdive-falling-ashes-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "24 ContributorsTranslationsPolskiEspa\u00f1olFalling Ashes Lyrics[Verse 1]\nBoy and the man\nHear the ghost in this town\nCould this be it\nYour final words, your own\nWe rolled the bed\nPiece by piece, plank by plank\nThen gathered in light\nYou were the grace of my night\n\n[Chorus]\nThinking about love\nThinking about love\nThinking about love\nThinking about love\n\n[Verse 2]\nThe night boat floats past\nThe years tumble down\nHe's living alone\nThe only life that you know\nCalifornia, I thought I saw ya'\nLove of my life, grace of my night\n\n[Chorus]\nThinking about love\nThinking about love\nThinking about love, thinking about love\nThinking about love, thinking about love\nThinking about love, thinking about love\nThinking about love, thinking about love\nThinking about love, thinking about love\nThinking about love, thinking about love\nSee Slowdive LiveGet tickets as low as $55You might also like[Instrumental]\n\n[Chorus]\nThinking about love\nThinking about love\nThinking about love, thinking about love\nThinking about love, thinking about love\nThinking about love, thinking about love\nThinking about love, thinking about love\nThinking about love, thinking about love\nThinking about love, thinking about love\nLove1Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/3271232",
+    "artist_names": "Slowdive",
+    "full_title": "30th June by\u00a0Slowdive",
+    "header_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "id": 3271232,
+    "instrumental": false,
+    "lyrics_owner_id": 2513636,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1511022922,
+    "path": "/Slowdive-30th-june-lyrics",
+    "primary_artist_names": "Slowdive",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Slowdive-30th-june-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 5,
+     "day": 5
+    },
+    "release_date_for_display": "May 5, 2017",
+    "release_date_with_abbreviated_month_for_display": "May 5, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d156d498dffc196f9eb5cc6b7fe24940.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "30th June",
+    "title_with_featured": "30th June",
+    "updated_by_human_at": 1664765316,
+    "url": "https://genius.com/Slowdive-30th-june-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/65120",
+     "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+     "id": 65120,
+     "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slowdive",
+     "slug": "Slowdive",
+     "url": "https://genius.com/artists/Slowdive"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/65120",
+      "header_image_url": "https://images.genius.com/6132fdffab2b30a0b70eb46b6d875570.1000x667x1.jpg",
+      "id": 65120,
+      "image_url": "https://images.genius.com/af1be5ab88d7e05df2039005fd0ee97a.669x669x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slowdive",
+      "slug": "Slowdive",
+      "url": "https://genius.com/artists/Slowdive"
+     }
+    ],
+    "artist": "Slowdive",
+    "lyrics": "5 Contributors30th June LyricsThe most beautiful day I ever saw\nWith these eyes I saw the best in life\nThe most sensical day I had\nTurning stones, turning stones over til they shone\n\n(Dark as days, dark as days)\n\nAnd you were caught in the dark\nWith nothing makes sense\nBut you were caught in the dark\nWhere nothing makes no sense\n\n(Shadows down, shadows down / when I saw the light in you)\n\nThe most beautiful day I ever, ever had\nWith these eyes I saw the light in yours\nThe most sensical day I had\nTurning stones, turning stones over til they shone\n\n(Dark as days, turning stones, dark as days)See Slowdive LiveGet tickets as low as $55You might also likeEmbed"
+   }
+  }
+ ]
+}

@@ -1,0 +1,324 @@
+{
+ "_type": "album",
+ "api_path": "/albums/117792",
+ "cover_art_thumbnail_url": "https://images.genius.com/0ed07f9271bf94e05bf0f4995b76b4db.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/0ed07f9271bf94e05bf0f4995b76b4db.1000x1000x1.jpg",
+ "full_title": "Ride [EP] by Ride",
+ "id": 117792,
+ "name": "Ride [EP]",
+ "name_with_artist": "Ride [EP] (artist: Ride)",
+ "primary_artist_names": "Ride",
+ "release_date_components": {
+  "year": 1990,
+  "month": 1,
+  "day": 15
+ },
+ "release_date_for_display": "January 15, 1990",
+ "url": "https://genius.com/albums/Ride/Ride-ep",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/275501",
+  "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+  "id": 275501,
+  "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ride",
+  "slug": "Ride",
+  "url": "https://genius.com/artists/Ride"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/275501",
+   "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+   "id": 275501,
+   "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ride",
+   "slug": "Ride",
+   "url": "https://genius.com/artists/Ride"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/669153",
+    "artist_names": "Ride",
+    "full_title": "Chelsea Girl by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/01df18247510727a318940e972b145bd.300x295x1.jpg",
+    "header_image_url": "https://images.genius.com/01df18247510727a318940e972b145bd.348x342x1.jpg",
+    "id": 669153,
+    "instrumental": false,
+    "lyrics_owner_id": 381960,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719433898,
+    "path": "/Ride-chelsea-girl-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ride-chelsea-girl-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 1,
+     "day": 15
+    },
+    "release_date_for_display": "January 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Jan. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/01df18247510727a318940e972b145bd.300x295x1.jpg",
+    "song_art_image_url": "https://images.genius.com/01df18247510727a318940e972b145bd.348x342x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Chelsea Girl",
+    "title_with_featured": "Chelsea Girl",
+    "updated_by_human_at": 1719433898,
+    "url": "https://genius.com/Ride-chelsea-girl-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "6 ContributorsChelsea Girl LyricsTake me for a ride away from the places we have known\nIf I stay around, I'll just remember I'm alone\nThere's someone in my memory making me move on\nWhat was gray and hazy, it's black and white now I have gone\n\nDrive me up to London, now it's got too dark to see\nMy wait is over, there's no visitor for me\nNever let me talk to you, destroy the frozen past\nIt's a different time now, things are moving much too fast\n\nFloat by today, now it's turning to gray\nRaining my doubts, let my thoughts slip away\nYou must have something and what it is I don't know\nYou must have something 'cause I can't let you goSee Ride LiveGet tickets as low as $54You might also like1Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/672338",
+    "artist_names": "Ride",
+    "full_title": "Drive Blind by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "header_image_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "id": 672338,
+    "instrumental": false,
+    "lyrics_owner_id": 381960,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1673941118,
+    "path": "/Ride-drive-blind-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-drive-blind-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 1,
+     "day": 15
+    },
+    "release_date_for_display": "January 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Jan. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "song_art_image_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "Drive Blind",
+    "title_with_featured": "Drive Blind",
+    "updated_by_human_at": 1673941118,
+    "url": "https://genius.com/Ride-drive-blind-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "7 ContributorsDrive Blind Lyrics[Verse 1]\nCan't see the lights or the blue orange signs\nCan't see the roads or the long white lines\nFeeling the ground through the pedals on the floor\nFeeling death pounding at the door\n\n[Pre-Chorus]\nOh\nOh\nOh\n\n[Verse 2]\nWindows all open, chaos in my hair\nDriving me 'round and leaving me there\nCover my eyes and we'll die driving blind\nCover my trail and we'll leave this life behind\n\n[Chorus]\nOh, drive blind\nOh, drive blind\nOh, drive blind\nOh, drive blind\n\n[Bridge]\nAll at once, too much light\nCaptured and frozen, hear no sound\nBright flashes penetrate\nGlowing, flowing, lifting off the ground\nSee Ride LiveGet tickets as low as $54You might also like[Verse 3]\nCan't see the lights or the blue orange signs\nCan't see the roads or the long white lines\nCover my eyes and we'll die driving blind\nCover my trail and we'll leave this life behind\n\n[Chorus]\nOh, drive blind\nOh, drive blind\nOh, drive blind\nOh, drive blindEmbed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/682394",
+    "artist_names": "Ride",
+    "full_title": "All I Can See by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "header_image_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "id": 682394,
+    "instrumental": false,
+    "lyrics_owner_id": 381960,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1421691092,
+    "path": "/Ride-all-i-can-see-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ride-all-i-can-see-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 1,
+     "day": 15
+    },
+    "release_date_for_display": "January 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Jan. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "song_art_image_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "All I Can See",
+    "title_with_featured": "All I Can See",
+    "updated_by_human_at": 1604834312,
+    "url": "https://genius.com/Ride-all-i-can-see-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "5 ContributorsAll I Can See LyricsLying still, staring out of the window\nAll I can see is doubt\nWatching as tonight moves in\nWatching as the light fades out\n\nSmoky rooms, minds out of tune\nLights go down on the time spent with you\nThe time moves into place, where our memories fade\nIs all I can see so true?\n\nYou treated me like a foolSee Ride LiveGet tickets as low as $54You might also like1Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/688697",
+    "artist_names": "Ride",
+    "full_title": "Close My Eyes by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "header_image_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "id": 688697,
+    "instrumental": false,
+    "lyrics_owner_id": 381960,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719434214,
+    "path": "/Ride-close-my-eyes-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-close-my-eyes-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 1,
+     "day": 15
+    },
+    "release_date_for_display": "January 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Jan. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "song_art_image_url": "https://images.genius.com/cd7b225ba825c5273a0a2f963733eb98.300x295x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Close My Eyes",
+    "title_with_featured": "Close My Eyes",
+    "updated_by_human_at": 1719434214,
+    "url": "https://genius.com/Ride-close-my-eyes-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "7 ContributorsClose My Eyes Lyrics[Verse]\nLast night I had such a good time\nBut there's a price to pay\nA night full of kicks, now the sun's in my eyes\nAnd I feel so weary today\n\n[Chorus]\nI want to close my eyes\nI want to close my eyes\nI want to ride and ride and ride\nTill I'm blown away\n\n[Verse]\nMake your body a blanket\nLet me rest my head\nThe world can wait for just a few minutes more\nThey might as well be dead\n\n[Chorus]\nI want to close my eyes\nI want to close my eyes\nI want to ride and ride and ride\nTill I'm blown away\n\nTill I'm blown away\nTill I'm blown away\nTill I'm blown away\nTill I'm blown away\nTill I'm blown away\nTill I'm blown away\nTill I'm blown away\nTill I'm blown away\nSee Ride LiveGet tickets as low as $54You might also likeI want to close my eyes\nI want to close my eyes\nI want to close my eyesEmbed"
+   }
+  }
+ ]
+}

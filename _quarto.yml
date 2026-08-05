@@ -40,6 +40,9 @@ website:
         - section: "Tools"
           contents:
             - auto: "project/*tool*/*.qmd"
+        - section: "Projects"
+          contents:
+            - auto: "project/*project*/*.qmd"
     - id: personal
       style: "floating"
       border: false

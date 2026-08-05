@@ -1,0 +1,324 @@
+{
+ "_type": "album",
+ "api_path": "/albums/393177",
+ "cover_art_thumbnail_url": "https://images.genius.com/994299dd69743695677940ed75399e60.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/994299dd69743695677940ed75399e60.700x700x1.jpg",
+ "full_title": "Tomorrow\u2019s Shore [EP] by Ride",
+ "id": 393177,
+ "name": "Tomorrow\u2019s Shore [EP]",
+ "name_with_artist": "Tomorrow\u2019s Shore [EP] (artist: Ride)",
+ "primary_artist_names": "Ride",
+ "release_date_components": {
+  "year": 2018,
+  "month": 2,
+  "day": 16
+ },
+ "release_date_for_display": "February 16, 2018",
+ "url": "https://genius.com/albums/Ride/Tomorrows-shore-ep",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/275501",
+  "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+  "id": 275501,
+  "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ride",
+  "slug": "Ride",
+  "url": "https://genius.com/artists/Ride"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/275501",
+   "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+   "id": 275501,
+   "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ride",
+   "slug": "Ride",
+   "url": "https://genius.com/artists/Ride"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/3425565",
+    "artist_names": "Ride",
+    "full_title": "Pulsar by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/436866f2d0f96490e8f765faaf61d7b2.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/436866f2d0f96490e8f765faaf61d7b2.1000x1000x1.jpg",
+    "id": 3425565,
+    "instrumental": false,
+    "lyrics_owner_id": 2410509,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1533057154,
+    "path": "/Ride-pulsar-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-pulsar-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 11,
+     "day": 2
+    },
+    "release_date_for_display": "November 2, 2017",
+    "release_date_with_abbreviated_month_for_display": "Nov. 2, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/436866f2d0f96490e8f765faaf61d7b2.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/436866f2d0f96490e8f765faaf61d7b2.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false
+    },
+    "title": "Pulsar",
+    "title_with_featured": "Pulsar",
+    "updated_by_human_at": 1607340109,
+    "url": "https://genius.com/Ride-pulsar-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "5 ContributorsPulsar LyricsYou can never see me shine like I always wanted you to\nThere's something in the way, or you miss it again\u2014and again\nStill shimmer holding out, always beaming over to you\nSo very far away, I hope it gets there still\n\nLike the summer always fades and the wind gets cool on your skin\nYou know that something was, will never be again\nWe glimmer in the dark of the life we have on our own\nSometimes another one can let you know that you're there\n\nAlways keep your eyes on the pulsar\nGuiding you home from wherever you are\nWe're on our way home from another star\nIt's been so long and we've come so far\nWe've come so farSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/3425587",
+    "artist_names": "Ride",
+    "full_title": "Keep It Surreal by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/994299dd69743695677940ed75399e60.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/994299dd69743695677940ed75399e60.700x700x1.jpg",
+    "id": 3425587,
+    "instrumental": false,
+    "lyrics_owner_id": 2410509,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1533017224,
+    "path": "/Ride-keep-it-surreal-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-keep-it-surreal-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 2,
+     "day": 16
+    },
+    "release_date_for_display": "February 16, 2018",
+    "release_date_with_abbreviated_month_for_display": "Feb. 16, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/994299dd69743695677940ed75399e60.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/994299dd69743695677940ed75399e60.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Keep It Surreal",
+    "title_with_featured": "Keep It Surreal",
+    "updated_by_human_at": 1630284835,
+    "url": "https://genius.com/Ride-keep-it-surreal-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsKeep It Surreal LyricsWalking a tightrope\nDid you ever wanna jump?\nFall from the heavens\nBecause it's easier to give up?\nHolding attention for too long\nJust wears you down\nTime to let go of everything\nAnd leave this town\n\nIt's surreal, surreal\nBut don't get the needle\nIt's surreal, surreal\nBut don't get the needle\n\nIt's surreal, surreal\nKeep it surreal\nSurreal\nSurreal\nSurrealSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/3425588",
+    "artist_names": "Ride",
+    "full_title": "Cold Water People by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/994299dd69743695677940ed75399e60.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/994299dd69743695677940ed75399e60.700x700x1.jpg",
+    "id": 3425588,
+    "instrumental": false,
+    "lyrics_owner_id": 2410509,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1533016790,
+    "path": "/Ride-cold-water-people-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-cold-water-people-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 2,
+     "day": 16
+    },
+    "release_date_for_display": "February 16, 2018",
+    "release_date_with_abbreviated_month_for_display": "Feb. 16, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/994299dd69743695677940ed75399e60.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/994299dd69743695677940ed75399e60.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Cold Water People",
+    "title_with_featured": "Cold Water People",
+    "updated_by_human_at": 1630285494,
+    "url": "https://genius.com/Ride-cold-water-people-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsCold Water People LyricsMist has covered up the lake\nThere is no sky\nI've lost direction\nAnd I think I know the reason why\n\nTell me\nHow do we get back home now?\nCold water people\nThirsty for rain\nTell me again about evolution\nI'll follow you back into the sea again\n\nOn the spectrum\nOff the grin\nTrying to piece it together\nLife's as jagged as your favorite song\nBut love is forever\n\nTell me\nHow do we get back home now?\nCold water people\nThirsty for rain\nTell me again about evolution\nI'll follow you back into the sea again\n\nTell me\nHow do we get back home now?\nCold water people\nThirsty for rain\nTell me again about evolution\nI'll follow you back into the sea againSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/3425589",
+    "artist_names": "Ride",
+    "full_title": "Catch You Dreaming by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/0ee0f2229646f3112d3f0d8adf34f86d.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0ee0f2229646f3112d3f0d8adf34f86d.800x800x1.jpg",
+    "id": 3425589,
+    "instrumental": false,
+    "lyrics_owner_id": 2946617,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710828567,
+    "path": "/Ride-catch-you-dreaming-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-catch-you-dreaming-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 2,
+     "day": 16
+    },
+    "release_date_for_display": "February 16, 2018",
+    "release_date_with_abbreviated_month_for_display": "Feb. 16, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0ee0f2229646f3112d3f0d8adf34f86d.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0ee0f2229646f3112d3f0d8adf34f86d.800x800x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Catch You Dreaming",
+    "title_with_featured": "Catch You Dreaming",
+    "updated_by_human_at": 1710828567,
+    "url": "https://genius.com/Ride-catch-you-dreaming-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "6 ContributorsCatch You Dreaming Lyrics[Verse 1]\nIn another time\nThere were people here\nAnd it felt so real\nTill it disappeared\nThere's a wave that breaks\nOn tomorrow's shore\nYou can't see it now\nIt's coming\nTo catch you dreaming\n\n[Chorus]\n(Na-na-na-na-na) We've done nothing wrong\n(Na-na-na-na-na) It's just who we are\n(Na-na-na-na-na) No need to apologize\n(Na-na-na-na-na) Work it out this way\n\n[Verse 2]\nAll our past is gone\nTracks we left behind\nLeft forever in\nShifting sands of time\nIn the heat of the sun\nAs we come undone\nIf I look at you\nIt's only\nTo catch you dreaming\nSee Ride LiveGet tickets as low as $54You might also like[Chorus]\n(Na-na-na-na-na) We've done nothing wrong\n(Na-na-na-na-na) It's just who we are\n(Na-na-na-na-na) No need to apologize\n(Na-na-na-na-na) Work it out this way\n(Na-na-na-na-na) We've done nothing wrong\n(Na-na-na-na-na) It's just who we are\n(Na-na-na-na-na) No need to apologize\n(Na-na-na-na-na) Work it out this way\n\n[Instrumental break]\n\n[Chorus]\n(Na-na-na-na-na) We've done nothing wrong\n(Na-na-na-na-na) It's just who we are\n(Na-na-na-na-na) No need to apologize\n(Na-na-na-na-na) Work it out this way\n(Na-na-na-na-na) We've done nothing wrong\n(Na-na-na-na-na) It's just who we are\n(Na-na-na-na-na) No need to apologize\n(Na-na-na-na-na) Work it out this wayEmbed"
+   }
+  }
+ ]
+}

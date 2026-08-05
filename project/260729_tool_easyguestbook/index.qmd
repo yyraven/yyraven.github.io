@@ -34,10 +34,10 @@ Try the live demo on [my guestbook](../../guestbook.qmd)!
 
 ### Set Up Google Forms & Sheets
 
-#### 1. Create a Google Form
+#### Create a Google Form
    - Go to Google Forms, and create a new blank form with 3 "Short answer" fields in this order: **nickname**, **homepage**, and **message**.
 
-#### 2. Get your Google Form ID and Entry IDs
+#### Get your Google Form ID and Entry IDs
    - Click the three dots (⋮) in the top right corner, and select **"Get pre-filled link"**.
    - Type dummy text into each field (e.g., `testname`, `testmessage`, `testwebsite`) and click **"Get link"** at the bottom.
    - The link will look something like this:
@@ -48,18 +48,18 @@ Try the live demo on [my guestbook](../../guestbook.qmd)!
    - Your **entry IDs** would be the corresponding `entry.XXXXXXXX` IDs. For the example above, they should be `entry.placeholder123`, `entry.placeholder456`, and `entry.placeholder789`.
    - Save those 4 IDs for later.
 
-#### 3. Make the Form Public
+#### Make the Form Public
    - Click **"Share"** in the top right corner. Under "General access", change it to **"Anyone with the link"**.
 
-#### 4. Create the Linked Google Sheet
+#### Create the Linked Google Sheet
    - Go to the **"Responses"** tab at the top of your Google Form.
    - Click the green **"Link to Sheets"** icon to create a spreadsheet that is linked to your form. It will store the message we receive.
 
-#### 5. Make the Sheet Public
+#### Make the Sheet Public
    - Open the new Google Sheet.
    - Click **"Share"** in the top right corner. Under "General access", change it to **"Anyone with the link"**. This allows your blog to read the messages.
 
-#### 6. Get your Google Sheet ID
+#### Get your Google Sheet ID
    - Look at the URL of your Google Sheet. It will look like this: 
 
 > `https://docs.google.com/spreadsheets/d/PLACEHOLDER_SHEET_ID_hijklmn/edit?resourcekey=&gid=111111111#gid=2222222222222`
@@ -69,12 +69,12 @@ Try the live demo on [my guestbook](../../guestbook.qmd)!
 
 ### Configuration & Deployment
 
-#### 7. Configure the JavaScript File
+#### Configure the JavaScript File
    - Open `easyguestbook.js` in a text editor.
    - At the very top, locate the `CONFIGURATION` section.
    - Replace the 5 placeholder IDs with your actual Form ID, Sheet ID, and entry IDs you saved earlier.
 
-#### 8. Deploy to Quarto
+#### Deploy to Quarto
    - Simply drop both `easyguestbook.qmd` and `easyguestbook.js` into your Quarto blog's project directory. 
    - Render your site, and your guestbook is live!
    - Later, you can manage and edit the messages you received via that Google Sheet directly.

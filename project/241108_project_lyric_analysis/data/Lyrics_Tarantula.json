@@ -1,0 +1,872 @@
+{
+ "_type": "album",
+ "api_path": "/albums/170083",
+ "cover_art_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+ "full_title": "Tarantula by Ride",
+ "id": 170083,
+ "name": "Tarantula",
+ "name_with_artist": "Tarantula (artist: Ride)",
+ "primary_artist_names": "Ride",
+ "release_date_components": {
+  "year": 1996,
+  "month": 3,
+  "day": 11
+ },
+ "release_date_for_display": "March 11, 1996",
+ "url": "https://genius.com/albums/Ride/Tarantula",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/275501",
+  "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+  "id": 275501,
+  "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ride",
+  "slug": "Ride",
+  "url": "https://genius.com/artists/Ride"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/275501",
+   "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+   "id": 275501,
+   "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ride",
+   "slug": "Ride",
+   "url": "https://genius.com/artists/Ride"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1484648",
+    "artist_names": "Ride",
+    "full_title": "Black Nite Crash by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/f15a0f646198e67e8dc8ea6eb4ba505c.300x312x1.jpg",
+    "header_image_url": "https://images.genius.com/f15a0f646198e67e8dc8ea6eb4ba505c.481x500x1.jpg",
+    "id": 1484648,
+    "instrumental": false,
+    "lyrics_owner_id": 7473401,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1630278921,
+    "path": "/Ride-black-nite-crash-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-black-nite-crash-sample",
+    "release_date_components": {
+     "year": 1996,
+     "month": 2,
+     "day": 12
+    },
+    "release_date_for_display": "February 12, 1996",
+    "release_date_with_abbreviated_month_for_display": "Feb. 12, 1996",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f15a0f646198e67e8dc8ea6eb4ba505c.300x312x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f15a0f646198e67e8dc8ea6eb4ba505c.481x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Black Nite Crash",
+    "title_with_featured": "Black Nite Crash",
+    "updated_by_human_at": 1630278921,
+    "url": "https://genius.com/Ride-black-nite-crash-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "5 ContributorsBlack Nite Crash LyricsSee the girls coughing, looking underfed\nWhen they go to sleep, they dream of being dead\nI saw you in the corner, with a butcher's knife\nYour boyfriend running round, looking for a midwife\n\nEveryone's got the same disease, it's alright\nEverybody lives down on their knees, it's alright\n\nI bumped into a hunchback abuser\nSaid he made a million working on a cruiser\nDo what he want and he don't get caught\nHe's looking at the moon but I'm an astronaut\n\nEveryone looks when they see a crash, it's alright\nEverybody needs just a little cash, it's alright\n\nEvening daybreak, switchblade stomach ache\nGonna meet a man with a rattlesnake handshake\nWalk around like I'm looking for an upgrade\nSlipping through town like a penny in the arcadeSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1810769",
+    "artist_names": "Ride",
+    "full_title": "Sunshine/Nowhere To Run by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "id": 1810769,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1431614382,
+    "path": "/Ride-sunshine-nowhere-to-run-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-sunshine-nowhere-to-run-sample",
+    "release_date_components": {
+     "year": 1996,
+     "month": 3,
+     "day": 11
+    },
+    "release_date_for_display": "March 11, 1996",
+    "release_date_with_abbreviated_month_for_display": "Mar. 11, 1996",
+    "song_art_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Sunshine/Nowhere To Run",
+    "title_with_featured": "Sunshine/Nowhere To Run",
+    "updated_by_human_at": 1720645930,
+    "url": "https://genius.com/Ride-sunshine-nowhere-to-run-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsSunshine/Nowhere To Run LyricsHear the engine running as the tour bus pulls away\nThe sadness of the road will be the death of me one day\nI'm sick and tired of my guitar and the same old songs again\nAnd so I write a new one, that's the nature of the game\n\nAnd when the party's over, I've got nowhere to run\nThe road goes on forever, even when we're dead and gone\n\nDrinking in a hotel room, I hate what I've become\nI'm turning back to nothing, all my dreams have come undone\nThe spotlight drew me over, now it's burning me away\nSo I'm looking for the real me, in some shadow when I play\n\nAnd when the party's over, I've got nowhere to run\nThe road goes on forever, even when we're dead and gone\n\nBut my love, she's so fine\nShe gives me the sunshine after the rain\n\nMy love, you're so fine\nYou give me sunshine\nWhen the storm is over\nYou give me the sunshine\nMy love, you're so fine\nYou make my sun shine\nWhen the storm is over\nYou give me the sunshine after the rainSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1103669",
+    "artist_names": "Ride",
+    "full_title": "Dead Man by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "id": 1103669,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429635414,
+    "path": "/Ride-dead-man-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-dead-man-sample",
+    "release_date_components": {
+     "year": 1996,
+     "month": 3,
+     "day": 11
+    },
+    "release_date_for_display": "March 11, 1996",
+    "release_date_with_abbreviated_month_for_display": "Mar. 11, 1996",
+    "song_art_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Dead Man",
+    "title_with_featured": "Dead Man",
+    "updated_by_human_at": 1720646072,
+    "url": "https://genius.com/Ride-dead-man-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "6 ContributorsDead Man LyricsDead man, crawling out of his crater\nSucking on the air from his ventilator\nWatch out little girl you're just a beginner\nHe wears outside his face the smile of a winner\n\nDrags his woman around by the hair\nIt turns her on, she don't wanna be square\nStanding on top of the family mountain\nDrinking lemonade from the magical fountain\n\nHoliday trips in a Volkswagen camper\nChildren locked into an old picnic hamper\nLet them loose to play in a sandpit\nLeave them there 'cause they take us for granted\n\nMan is an ape, and woman a martyr\nIt's not what you do when you do it, it's what you do after\nI went down to the zoo and I looked in the cages\nThen I walked on home past the office, collected my wagesSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1032889",
+    "artist_names": "Ride",
+    "full_title": "Walk on Water by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "header_image_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "id": 1032889,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429597370,
+    "path": "/Ride-walk-on-water-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-walk-on-water-sample",
+    "release_date_components": null,
+    "release_date_for_display": null,
+    "release_date_with_abbreviated_month_for_display": null,
+    "song_art_image_thumbnail_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "song_art_image_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Walk on Water",
+    "title_with_featured": "Walk on Water",
+    "updated_by_human_at": 1720646237,
+    "url": "https://genius.com/Ride-walk-on-water-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "6 ContributorsWalk on Water LyricsBeautiful Lady, I love you so\nYou know I need you, please don't go\nJust like a child, I'm running wild\nI'd walk on water for your smile\n\nI'd walk across the sea\nTo get you close to me\n\nThis life we're living, it can break your heart\nBut all these contradictions won't pull us apart\nDon't be afraid, I'm gonna stay\nFelt like the end, but it was just the startSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1366228",
+    "artist_names": "Ride",
+    "full_title": "Deep Inside My Pocket by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "id": 1366228,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1630445647,
+    "path": "/Ride-deep-inside-my-pocket-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-deep-inside-my-pocket-sample",
+    "release_date_components": {
+     "year": 1996,
+     "month": 3,
+     "day": 11
+    },
+    "release_date_for_display": "March 11, 1996",
+    "release_date_with_abbreviated_month_for_display": "Mar. 11, 1996",
+    "song_art_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Deep Inside My Pocket",
+    "title_with_featured": "Deep Inside My Pocket",
+    "updated_by_human_at": 1720646471,
+    "url": "https://genius.com/Ride-deep-inside-my-pocket-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "5 ContributorsDeep Inside My Pocket LyricsYou think you know me inside out\nThink you know what I'm all about\nHere comes a slightly rude surprise\nWhile you were tryin' to control\n'N' trying to grab my soul\nI blinked and saw right through ya\n\nI'm spellin' out all of my rules\nKeepin' charge of all my tools\nI'm decidin' who gets inside\nWhen someone cares it's nice to know\n'Til that care turns to runnin' the show\nAnd then I'll turn on ya\n\nThere is a secret place, it's deep inside my pocket\nNever try tellin' me who fits inside my pocket\n\nI know what I have to find\nAnd I gotta whole lot of time\nBefore I really reach my prize\nGotta desire to mess around\nIt'd be cool just to fool around\nMaybe we'll mess togetha\n\nThere is a secret place, it's deep inside my pocket\nNever try tellin' me who fits inside my pocketSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1280847",
+    "artist_names": "Ride",
+    "full_title": "Mary Anne by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "id": 1280847,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429740879,
+    "path": "/Ride-mary-anne-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-mary-anne-sample",
+    "release_date_components": {
+     "year": 1996,
+     "month": 3,
+     "day": 11
+    },
+    "release_date_for_display": "March 11, 1996",
+    "release_date_with_abbreviated_month_for_display": "Mar. 11, 1996",
+    "song_art_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Mary Anne",
+    "title_with_featured": "Mary Anne",
+    "updated_by_human_at": 1630283191,
+    "url": "https://genius.com/Ride-mary-anne-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsMary Anne LyricsEvery time I walk you home\nYou say you just want to be alone\nMary Anne, why can't you see\nThat you were born to marry me\n\nTake my love, It's all I am\nSee, I'm determined to be your man\nMary Anne\n\nI wanna pour you into my empty shell\nGive you secrets you'll never tell\nAs the day breaks over our caravan\nAnd you lie beside me like a lamb\nMary Anne\n\nI can't survive without you here\nEvery second seems like a year\nI ain't got nothing, I can't pretend\nTake my love, It's all I am\nMary Anne\n\n501 103 33 17 65 66\n\nMary AnneSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1335041",
+    "artist_names": "Ride",
+    "full_title": "Castle On The Hill by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "id": 1335041,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429769790,
+    "path": "/Ride-castle-on-the-hill-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-castle-on-the-hill-sample",
+    "release_date_components": {
+     "year": 1996,
+     "month": 3,
+     "day": 11
+    },
+    "release_date_for_display": "March 11, 1996",
+    "release_date_with_abbreviated_month_for_display": "Mar. 11, 1996",
+    "song_art_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Castle On The Hill",
+    "title_with_featured": "Castle On The Hill",
+    "updated_by_human_at": 1630283467,
+    "url": "https://genius.com/Ride-castle-on-the-hill-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsCastle On The Hill LyricsThe King's been in his bedroom for weeks\nIn exile from the world, he never speaks\nThe Queen is in the counting house, her fingers in the till\nThere's something happening to the Castle on the Hill\n\nThe jester's telling jokes to everyone\nSays \"Now he's gone, well ain't it fun\"\nThere's whispers in the courtroom, \"Is he crazy, is he ill?\"\nNobody has an answer, but they keep on asking still\n\nAnd a friend of mine, one of the few\nHas locked himself away like Howard Hughes\nThey're trying to replace him but they know they never will\nIt ain't the same without him, on the Castle on the Hill\n\nThere's a wind of madness in the air\nSince he's gone nobody seems to care\nThe court is disillusioned, everything is up for sale\nAnd the Castle on the Hill is like a boat without a sailSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1313348",
+    "artist_names": "Ride",
+    "full_title": "Gonna Be Alright by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "id": 1313348,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429759859,
+    "path": "/Ride-gonna-be-alright-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-gonna-be-alright-sample",
+    "release_date_components": {
+     "year": 1996,
+     "month": 3,
+     "day": 11
+    },
+    "release_date_for_display": "March 11, 1996",
+    "release_date_with_abbreviated_month_for_display": "Mar. 11, 1996",
+    "song_art_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Gonna Be Alright",
+    "title_with_featured": "Gonna Be Alright",
+    "updated_by_human_at": 1630283140,
+    "url": "https://genius.com/Ride-gonna-be-alright-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsGonna Be Alright LyricsCan't believe the things I said and did\nCan't hold back but now I'm glad I did\nFeel so perfect and I feel so clean\nDays like these are few and far between\n\n'Cause I got it all, I got it in my head\nAnd everything is gonna be alright\nI see angels now where there was fear and fright\nAnd everything is gonna be alright\n\nCould this be something trustworthy\nOpen mind filled with feel good things\nCould this be the meaning of it all\nI was hunched but now I'm ten feet tall\n\n'Cause I got it all, I got it in my head\nAnd everything is gonna be alright\nI see angels now where there was fear and fright\nAnd everything is gonna be alright\n\nEverything will be alright, everything will be alright\nEverything will be alright and everything is gonna be alrightSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1593764",
+    "artist_names": "Ride",
+    "full_title": "The Dawn Patrol by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "id": 1593764,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429898968,
+    "path": "/Ride-the-dawn-patrol-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-the-dawn-patrol-sample",
+    "release_date_components": {
+     "year": 1996,
+     "month": 3,
+     "day": 11
+    },
+    "release_date_for_display": "March 11, 1996",
+    "release_date_with_abbreviated_month_for_display": "Mar. 11, 1996",
+    "song_art_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "The Dawn Patrol",
+    "title_with_featured": "The Dawn Patrol",
+    "updated_by_human_at": 1630283093,
+    "url": "https://genius.com/Ride-the-dawn-patrol-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsThe Dawn Patrol LyricsWell the night, it ends so slowly\nAs the last small fires go out\nOne by one on the hillsides\nWith the people hanging out\nWe were wrapped in just a blanket\nMust've been a pretty sight\nAs we followed up the mountain\nTo sleep under the light\n\nI was shivering and shaking\nIn my shoes\nWhen The Dawn Patrol it took me\nAnd shook away my blues\n\nWell you know that funny feeling\nYou get sometimes, now and then\nWhen you feel like you can't make it\nAnd you want to start again\nWhen I get that funny feeling\nIt's with you I wanna be\nIn the hours before daylight\nWould you be my companySee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1431147",
+    "artist_names": "Ride",
+    "full_title": "Ride The Wind by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "id": 1431147,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429840554,
+    "path": "/Ride-ride-the-wind-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-ride-the-wind-sample",
+    "release_date_components": {
+     "year": 1996,
+     "month": 3,
+     "day": 11
+    },
+    "release_date_for_display": "March 11, 1996",
+    "release_date_with_abbreviated_month_for_display": "Mar. 11, 1996",
+    "song_art_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Ride The Wind",
+    "title_with_featured": "Ride The Wind",
+    "updated_by_human_at": 1630283416,
+    "url": "https://genius.com/Ride-ride-the-wind-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsRide The Wind LyricsI've been waiting round some time\nJust to live a life that's mine\nI've been walking round this town\nWhen there's no one else around\nYou can hear it everywhere\nThis is our eternal prayer\nLet it go, Ride the wind\nLet it go, Ride the wind\n\nYou'll see me, I'll come and see you\nAlways finding something to do\nLove is needing, I'm needing love\nGot to know that there is enough\nWe've been working far too late\nCarrying this heavy load\nLet it go, Ride the wind\nLet it go, Ride the windSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1140356",
+    "artist_names": "Ride",
+    "full_title": "Burnin' by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "id": 1140356,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429663320,
+    "path": "/Ride-burnin-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-burnin-sample",
+    "release_date_components": {
+     "year": 1996,
+     "month": 3,
+     "day": 11
+    },
+    "release_date_for_display": "March 11, 1996",
+    "release_date_with_abbreviated_month_for_display": "Mar. 11, 1996",
+    "song_art_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Burnin\u2019",
+    "title_with_featured": "Burnin'",
+    "updated_by_human_at": 1630283039,
+    "url": "https://genius.com/Ride-burnin-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsBurnin\u2019 LyricsBehind this wall\nThe sun never shines its rays down on me\nDon't blame the man who's hunted and trapped\nAnd longs to be free\nEvery day the Good Lord sends\nI plan my sweet revenge\nThis place won't get me down\nBecause I'm gonna burn it down\n\nYour own idea of freedom might be to walk in the sun\nAnd someone else, well they might tell you, loving someone\nThere's a million kind of doors\nTo go with all the different laws\nTo lock you out and keep you in\nBut never stop you burnin'See Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1475574",
+    "artist_names": "Ride",
+    "full_title": "Starlight Motel by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "id": 1475574,
+    "instrumental": false,
+    "lyrics_owner_id": 7473401,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1630447517,
+    "path": "/Ride-starlight-motel-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ride-starlight-motel-sample",
+    "release_date_components": {
+     "year": 1996,
+     "month": 3,
+     "day": 11
+    },
+    "release_date_for_display": "March 11, 1996",
+    "release_date_with_abbreviated_month_for_display": "Mar. 11, 1996",
+    "song_art_image_thumbnail_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/052d9b3ed3b211d5bc91b4649268f0f3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Starlight Motel",
+    "title_with_featured": "Starlight Motel",
+    "updated_by_human_at": 1630447517,
+    "url": "https://genius.com/Ride-starlight-motel-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsStarlight Motel LyricsFollow me down to the Starlight Motel\nWhile everyone's sleeping tonight\nDon't be afraid, I know what's on your mind\nI'm gonna make it alright\n\nWell I know it's cold and I know it's late\nBut our life is short, darling I can't wait\n\nFollow my footsteps and silently step\nOut to the road in the moonlight\nThe stars in the sky are all laid out for us\nThey'll watch over our love tonight\n\nWell I know it's cold and I know it's late\nBut our life is short, darling I can't wait\n\nWon't you join me for this dance\nIt may be our only chance\nBaby don't say no tonight\n\nThere's times I believe that we'll never return\nBut the moon always has to start falling\nBlankets may protect you from the cold before dawn\nBut they can't protect you from the morningSee Ride LiveGet tickets as low as $54You might also like1Embed"
+   }
+  }
+ ]
+}

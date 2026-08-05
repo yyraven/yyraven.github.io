@@ -1,0 +1,818 @@
+{
+ "_type": "album",
+ "api_path": "/albums/20961",
+ "cover_art_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+ "full_title": "loveless by my bloody valentine",
+ "id": 20961,
+ "name": "loveless",
+ "name_with_artist": "loveless (artist: my bloody valentine)",
+ "primary_artist_names": "my bloody valentine",
+ "release_date_components": {
+  "year": 1991,
+  "month": 11,
+  "day": 4
+ },
+ "release_date_for_display": "November 4, 1991",
+ "url": "https://genius.com/albums/My-bloody-valentine/Loveless",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/24533",
+  "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+  "id": 24533,
+  "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "my bloody valentine",
+  "slug": "My-bloody-valentine",
+  "url": "https://genius.com/artists/My-bloody-valentine"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/24533",
+   "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+   "id": 24533,
+   "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "my bloody valentine",
+   "slug": "My-bloody-valentine",
+   "url": "https://genius.com/artists/My-bloody-valentine"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/86922",
+    "artist_names": "my bloody valentine",
+    "full_title": "only shallow by\u00a0my\u00a0bloody valentine",
+    "header_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "id": 86922,
+    "instrumental": false,
+    "lyrics_owner_id": 1850,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1709006229,
+    "path": "/My-bloody-valentine-only-shallow-lyrics",
+    "primary_artist_names": "my bloody valentine",
+    "pyongs_count": 23,
+    "relationships_index_url": "https://genius.com/My-bloody-valentine-only-shallow-sample",
+    "release_date_components": {
+     "year": 1991,
+     "month": 11,
+     "day": 4
+    },
+    "release_date_for_display": "November 4, 1991",
+    "release_date_with_abbreviated_month_for_display": "Nov. 4, 1991",
+    "song_art_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 241148
+    },
+    "title": "only shallow",
+    "title_with_featured": "only shallow",
+    "updated_by_human_at": 1728495659,
+    "url": "https://genius.com/My-bloody-valentine-only-shallow-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/24533",
+     "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+     "id": 24533,
+     "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "my bloody valentine",
+     "slug": "My-bloody-valentine",
+     "url": "https://genius.com/artists/My-bloody-valentine"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/24533",
+      "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+      "id": 24533,
+      "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "my bloody valentine",
+      "slug": "My-bloody-valentine",
+      "url": "https://genius.com/artists/My-bloody-valentine"
+     }
+    ],
+    "artist": "my bloody valentine",
+    "lyrics": "66 ContributorsTranslationsEspa\u00f1olPortugu\u00easonly shallow Lyrics[Verse 1: Bilinda Butcher]\nSleep like a pillow, no one there\nWhere she won't care, anywhere\nSoft as a pillow, touch her there\nWhere she won't dare, somewhere\n\n[Verse 2: Bilinda Butcher]\nSweet like a mallow, softer, fair\nFeel like you could swallow her\nSleep, going to tremble, she's not square\nSoft like there's silk everywhere\n[Verse 3: Bilinda Butcher]\nSleep as a pillow, comfort there\nWhere she won't dare, anywhere\nLook in the mirror, she's not there\nWhere she won't care, somewhereYou might also like23Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/122404",
+    "artist_names": "my bloody valentine",
+    "full_title": "loomer by\u00a0my\u00a0bloody valentine",
+    "header_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "id": 122404,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719007333,
+    "path": "/My-bloody-valentine-loomer-lyrics",
+    "primary_artist_names": "my bloody valentine",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/My-bloody-valentine-loomer-sample",
+    "release_date_components": {
+     "year": 1991,
+     "month": 11,
+     "day": 4
+    },
+    "release_date_for_display": "November 4, 1991",
+    "release_date_with_abbreviated_month_for_display": "Nov. 4, 1991",
+    "song_art_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 93934
+    },
+    "title": "loomer",
+    "title_with_featured": "loomer",
+    "updated_by_human_at": 1728495662,
+    "url": "https://genius.com/My-bloody-valentine-loomer-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/24533",
+     "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+     "id": 24533,
+     "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "my bloody valentine",
+     "slug": "My-bloody-valentine",
+     "url": "https://genius.com/artists/My-bloody-valentine"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/24533",
+      "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+      "id": 24533,
+      "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "my bloody valentine",
+      "slug": "My-bloody-valentine",
+      "url": "https://genius.com/artists/My-bloody-valentine"
+     }
+    ],
+    "artist": "my bloody valentine",
+    "lyrics": "31 ContributorsTranslationsEspa\u00f1olPortugu\u00easloomer Lyrics[Verse 1]\nTiptoe down to the lonely places\nWhere you going now, don't turn around\nLittle girls in their party dresses\nDidn't love anything there\n\n[Verse 2]\nPretty boys with their sunshine faces\nCarrying their heads down\nTiptoe down to the lonely places\nWhere you going now, don't turn aroundYou might also like10Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/2890970",
+    "artist_names": "my bloody valentine",
+    "full_title": "touched by\u00a0my\u00a0bloody valentine",
+    "header_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "id": 2890970,
+    "instrumental": true,
+    "lyrics_owner_id": 2726776,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1632607467,
+    "path": "/My-bloody-valentine-touched-lyrics",
+    "primary_artist_names": "my bloody valentine",
+    "pyongs_count": 14,
+    "relationships_index_url": "https://genius.com/My-bloody-valentine-touched-sample",
+    "release_date_components": {
+     "year": 1991,
+     "month": 11,
+     "day": 4
+    },
+    "release_date_for_display": "November 4, 1991",
+    "release_date_with_abbreviated_month_for_display": "Nov. 4, 1991",
+    "song_art_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 40741
+    },
+    "title": "touched",
+    "title_with_featured": "touched",
+    "updated_by_human_at": 1728495665,
+    "url": "https://genius.com/My-bloody-valentine-touched-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/24533",
+     "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+     "id": 24533,
+     "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "my bloody valentine",
+     "slug": "My-bloody-valentine",
+     "url": "https://genius.com/artists/My-bloody-valentine"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/24533",
+      "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+      "id": 24533,
+      "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "my bloody valentine",
+      "slug": "My-bloody-valentine",
+      "url": "https://genius.com/artists/My-bloody-valentine"
+     }
+    ],
+    "artist": "my bloody valentine",
+    "lyrics": ""
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/122405",
+    "artist_names": "my bloody valentine",
+    "full_title": "to here knows when by\u00a0my\u00a0bloody valentine",
+    "header_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "id": 122405,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1730142970,
+    "path": "/My-bloody-valentine-to-here-knows-when-lyrics",
+    "primary_artist_names": "my bloody valentine",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/My-bloody-valentine-to-here-knows-when-sample",
+    "release_date_components": {
+     "year": 1991,
+     "month": 2,
+     "day": 20
+    },
+    "release_date_for_display": "February 20, 1991",
+    "release_date_with_abbreviated_month_for_display": "Feb. 20, 1991",
+    "song_art_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 112343
+    },
+    "title": "to here knows when",
+    "title_with_featured": "to here knows when",
+    "updated_by_human_at": 1730132406,
+    "url": "https://genius.com/My-bloody-valentine-to-here-knows-when-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/24533",
+     "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+     "id": 24533,
+     "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "my bloody valentine",
+     "slug": "My-bloody-valentine",
+     "url": "https://genius.com/artists/My-bloody-valentine"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/24533",
+      "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+      "id": 24533,
+      "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "my bloody valentine",
+      "slug": "My-bloody-valentine",
+      "url": "https://genius.com/artists/My-bloody-valentine"
+     }
+    ],
+    "artist": "my bloody valentine",
+    "lyrics": "37 ContributorsTranslationsPortugu\u00easto here knows when Lyrics[Verse 1]\nKiss\nYour fear\nYour red button\nFalls from my mouth\nSlip\nYour dress\nOver your head\nIt's been so long\n\n[Refrain]\nMove, move\nMove, move\nMove, move\nMove, move\n\n[Verse 2]\nMove\nOn top\nBecause that way\nYou touch her, too\nTurn\nYour head\nCome back again\nTo here knows when\nYou might also like[Refrain]\nMove, move\nMove, move\nMove, move\nMove, move\nMove, move\nMove, move\nMove, move\nMove, move\n[Instrumental Outro]7Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/122406",
+    "artist_names": "my bloody valentine",
+    "full_title": "when you sleep by\u00a0my\u00a0bloody valentine",
+    "header_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "id": 122406,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728239344,
+    "path": "/My-bloody-valentine-when-you-sleep-lyrics",
+    "primary_artist_names": "my bloody valentine",
+    "pyongs_count": 38,
+    "relationships_index_url": "https://genius.com/My-bloody-valentine-when-you-sleep-sample",
+    "release_date_components": {
+     "year": 1991,
+     "month": 11,
+     "day": 4
+    },
+    "release_date_for_display": "November 4, 1991",
+    "release_date_with_abbreviated_month_for_display": "Nov. 4, 1991",
+    "song_art_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 626627
+    },
+    "title": "when you sleep",
+    "title_with_featured": "when you sleep",
+    "updated_by_human_at": 1728495644,
+    "url": "https://genius.com/My-bloody-valentine-when-you-sleep-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/24533",
+     "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+     "id": 24533,
+     "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "my bloody valentine",
+     "slug": "My-bloody-valentine",
+     "url": "https://genius.com/artists/My-bloody-valentine"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/24533",
+      "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+      "id": 24533,
+      "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "my bloody valentine",
+      "slug": "My-bloody-valentine",
+      "url": "https://genius.com/artists/My-bloody-valentine"
+     }
+    ],
+    "artist": "my bloody valentine",
+    "lyrics": "86 ContributorsTranslationsEspa\u00f1olPortugu\u00easwhen you sleep Lyrics[Verse 1: Kevin Shields]\nWhen I look at you\nOh, but I don't know what's real\nOnce in a while\nAnd you make me laugh\nAnd I'll sleep tomorrow\nAnd it won't be long\nOnce in a while\nThen you take me down\nWhen you walk away\n\n[Verse 2: Kevin Shields]\nWhen you say \"I do\"\nOh, but I don't believe in you\nI can't forget it, ooh\nWhen you sleep tomorrow\nAnd it won't be long\nOnce in a while\nWhen you make me smile\nAnd you turn your long blonde hair\n\n[Verse 3: Kevin Shields]\nWhen I look at you\nOh, but I don't know what's real\nOnce in a while\nAnd you make me laugh\nAnd I'll sleep tomorrow\nAnd it won't be long\nOnce in a while\nThen you take me down\nWhen you walk awayYou might also like38Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/122407",
+    "artist_names": "my bloody valentine",
+    "full_title": "\u200bi only said by\u00a0my\u00a0bloody valentine",
+    "header_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "id": 122407,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1706984606,
+    "path": "/My-bloody-valentine-i-only-said-lyrics",
+    "primary_artist_names": "my bloody valentine",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/My-bloody-valentine-i-only-said-sample",
+    "release_date_components": {
+     "year": 1991,
+     "month": 11,
+     "day": 4
+    },
+    "release_date_for_display": "November 4, 1991",
+    "release_date_with_abbreviated_month_for_display": "Nov. 4, 1991",
+    "song_art_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 70829
+    },
+    "title": "\u200bi only said",
+    "title_with_featured": "\u200bi only said",
+    "updated_by_human_at": 1727342114,
+    "url": "https://genius.com/My-bloody-valentine-i-only-said-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/24533",
+     "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+     "id": 24533,
+     "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "my bloody valentine",
+     "slug": "My-bloody-valentine",
+     "url": "https://genius.com/artists/My-bloody-valentine"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/24533",
+      "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+      "id": 24533,
+      "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "my bloody valentine",
+      "slug": "My-bloody-valentine",
+      "url": "https://genius.com/artists/My-bloody-valentine"
+     }
+    ],
+    "artist": "my bloody valentine",
+    "lyrics": "27 ContributorsTranslationsEspa\u00f1olPortugu\u00eas\u200bi only said Lyrics[Verse 1: Kevin Shields]\nSee you there, run away, you said\nTo go you were there, you were there\nTo lay underneath the red sky there\nTo lay under her, I want her there\n\n[Verse 2: Kevin Shields]\nSee you there, under her, and under\nTo go, you were there, I only said\nTo lay under her and I'm slow, oh\nTo lay under her, I've grown away, ohYou might also like7Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/122408",
+    "artist_names": "my bloody valentine",
+    "full_title": "come in alone by\u00a0my\u00a0bloody valentine",
+    "header_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "id": 122408,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1713046758,
+    "path": "/My-bloody-valentine-come-in-alone-lyrics",
+    "primary_artist_names": "my bloody valentine",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/My-bloody-valentine-come-in-alone-sample",
+    "release_date_components": {
+     "year": 1991,
+     "month": 11,
+     "day": 4
+    },
+    "release_date_for_display": "November 4, 1991",
+    "release_date_with_abbreviated_month_for_display": "Nov. 4, 1991",
+    "song_art_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 70548
+    },
+    "title": "come in alone",
+    "title_with_featured": "come in alone",
+    "updated_by_human_at": 1728495678,
+    "url": "https://genius.com/My-bloody-valentine-come-in-alone-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/24533",
+     "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+     "id": 24533,
+     "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "my bloody valentine",
+     "slug": "My-bloody-valentine",
+     "url": "https://genius.com/artists/My-bloody-valentine"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/24533",
+      "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+      "id": 24533,
+      "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "my bloody valentine",
+      "slug": "My-bloody-valentine",
+      "url": "https://genius.com/artists/My-bloody-valentine"
+     }
+    ],
+    "artist": "my bloody valentine",
+    "lyrics": "29 ContributorsTranslationsEspa\u00f1olcome in alone Lyrics[Verse 1]\nCome in alone\nYou'll love to let go\nAnd I'll turn you around\nWhen your hopes gave me doubts\n(Oh)\nRun and hide\n\n[Verse 2]\nWhy I don't need to believe\nWhat you see\nTo look up and around\nYou were gone\nWords came out to a sound\n\n[Verse 3]\nFeel I'm alive\nYou will see\nWhy and why\nFelt like crying\nOver her\nI will go\nTo the wall\n(Oh)\nRun from some\nYou might also like[Verse 1]\nCome in alone\nYou'll love to let go\nAnd I'll turn you around\nWhen your hopes gave me doubts\n(Oh)\nRun and hide10Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/90942",
+    "artist_names": "my bloody valentine",
+    "full_title": "sometimes by\u00a0my\u00a0bloody valentine",
+    "header_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "id": 90942,
+    "instrumental": false,
+    "lyrics_owner_id": 142422,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722218041,
+    "path": "/My-bloody-valentine-sometimes-lyrics",
+    "primary_artist_names": "my bloody valentine",
+    "pyongs_count": 38,
+    "relationships_index_url": "https://genius.com/My-bloody-valentine-sometimes-sample",
+    "release_date_components": {
+     "year": 1991,
+     "month": 11,
+     "day": 4
+    },
+    "release_date_for_display": "November 4, 1991",
+    "release_date_with_abbreviated_month_for_display": "Nov. 4, 1991",
+    "song_art_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 303977
+    },
+    "title": "sometimes",
+    "title_with_featured": "sometimes",
+    "updated_by_human_at": 1728495681,
+    "url": "https://genius.com/My-bloody-valentine-sometimes-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/24533",
+     "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+     "id": 24533,
+     "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "my bloody valentine",
+     "slug": "My-bloody-valentine",
+     "url": "https://genius.com/artists/My-bloody-valentine"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/24533",
+      "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+      "id": 24533,
+      "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "my bloody valentine",
+      "slug": "My-bloody-valentine",
+      "url": "https://genius.com/artists/My-bloody-valentine"
+     }
+    ],
+    "artist": "my bloody valentine",
+    "lyrics": "58 ContributorsTranslationsPortugu\u00eassometimes Lyrics[Verse 1]\nClose my eyes, feel me now\nI don't know how you could not love me now\nYou will know, and her feet down to the ground\nOver there, and I want true love to know\nYou can't hide, oh no, from the way I feel\n\n[Verse 2]\nTurn my head into sound\nI don't know when I lay down on the ground\nYou will find the way it hurts to love\nNever cared, and the world turned hearts to love\nYou will see, oh, now, oh, the way I do\n\n[Verse 3]\nYou will wait, see me go\nI don't care, when your head turned all alone\nYou will wait, when I turn my eyes around\nOverhead, when I hold you next to me\nOverhead, to know, oh, the way I see\n\n[Verse 4]\nClose my eyes, feel me how\nI don't know, maybe you could not hurt me now\nHere alone, when I feel down too\nOver there, when I await true love for you\nYou can hide, oh, now, the way I do\nYou can see, oh, now, oh, the way I doYou might also like38Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/122409",
+    "artist_names": "my bloody valentine",
+    "full_title": "\u200bblown a wish by\u00a0my\u00a0bloody valentine",
+    "header_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "id": 122409,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723163766,
+    "path": "/My-bloody-valentine-blown-a-wish-lyrics",
+    "primary_artist_names": "my bloody valentine",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/My-bloody-valentine-blown-a-wish-sample",
+    "release_date_components": {
+     "year": 1991,
+     "month": 11,
+     "day": 4
+    },
+    "release_date_for_display": "November 4, 1991",
+    "release_date_with_abbreviated_month_for_display": "Nov. 4, 1991",
+    "song_art_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 60020
+    },
+    "title": "\u200bblown a wish",
+    "title_with_featured": "\u200bblown a wish",
+    "updated_by_human_at": 1723163766,
+    "url": "https://genius.com/My-bloody-valentine-blown-a-wish-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/24533",
+     "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+     "id": 24533,
+     "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "my bloody valentine",
+     "slug": "My-bloody-valentine",
+     "url": "https://genius.com/artists/My-bloody-valentine"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/24533",
+      "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+      "id": 24533,
+      "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "my bloody valentine",
+      "slug": "My-bloody-valentine",
+      "url": "https://genius.com/artists/My-bloody-valentine"
+     }
+    ],
+    "artist": "my bloody valentine",
+    "lyrics": "32 ContributorsTranslationsEspa\u00f1ol\u200bblown a wish Lyrics[Verse 1: Bilinda Butcher]\nMidnight wish\nBlow me a kiss\nHolding onto you\nMake like this\nTrying to pretend it's true\nOoh\n\n[Verse 2: Bilinda Butcher]\nShow me all your favorite things\nShow you all mine too\nWake and wish\nI'll give them all to you\nOoh\n\n[Verse 3: Bilinda Butcher]\nHold on to your promises\nHold on to mine too\nCaught like this\nI'll turn it in with you\nOoh\n\n[Verse 4: Bilinda Butcher]\nFall apart my beating heart\nNothing left to do\nOnce in love\nI'll be the death of you\nOohYou might also like10Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/122411",
+    "artist_names": "my bloody valentine",
+    "full_title": "what you want by\u00a0my\u00a0bloody valentine",
+    "header_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "id": 122411,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723950934,
+    "path": "/My-bloody-valentine-what-you-want-lyrics",
+    "primary_artist_names": "my bloody valentine",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/My-bloody-valentine-what-you-want-sample",
+    "release_date_components": {
+     "year": 1991,
+     "month": 11,
+     "day": 4
+    },
+    "release_date_for_display": "November 4, 1991",
+    "release_date_with_abbreviated_month_for_display": "Nov. 4, 1991",
+    "song_art_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 65170
+    },
+    "title": "what you want",
+    "title_with_featured": "what you want",
+    "updated_by_human_at": 1728495689,
+    "url": "https://genius.com/My-bloody-valentine-what-you-want-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/24533",
+     "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+     "id": 24533,
+     "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "my bloody valentine",
+     "slug": "My-bloody-valentine",
+     "url": "https://genius.com/artists/My-bloody-valentine"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/24533",
+      "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+      "id": 24533,
+      "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "my bloody valentine",
+      "slug": "My-bloody-valentine",
+      "url": "https://genius.com/artists/My-bloody-valentine"
+     }
+    ],
+    "artist": "my bloody valentine",
+    "lyrics": "34 ContributorsTranslationsEspa\u00f1olwhat you want Lyrics[Verse 1]\nWhat I do I say but I can't get far away\nOh, I go back to a memory again\nWhat you want but you know that I'm alive\nThen I'll go back to you, don't you know how I feel inside?\n\n[Chorus]\nWhen you come down blue\nBut I do, I do, I do\nOh, I come back to the one who calls my name out\nWhat you want, don't you know that I can smile?\nThen I go back to you and then you make him go inside\n\n[Inaudible]\n\n[Verse 2]\nTurn around and smile\nNo, they can't see through your eye\nCould I fall into the one who calms my mind?\nCome back down, no, I can't believe my mind\nThen it surrounds you, don't you know that I asked why\n\n[Chorus]\nWhen you come down blue\nBut I do, I do, I do\nOh, I come back to the one who calls my name out\nWhat you want, let me know that I'm alive\nThen I go back to you and then you make him go inside\nYou might also like[Incomprehensible]8Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/122412",
+    "artist_names": "my bloody valentine",
+    "full_title": "soon by\u00a0my\u00a0bloody valentine",
+    "header_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "id": 122412,
+    "instrumental": false,
+    "lyrics_owner_id": 11637,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1722115242,
+    "path": "/My-bloody-valentine-soon-lyrics",
+    "primary_artist_names": "my bloody valentine",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/My-bloody-valentine-soon-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 4,
+     "day": 23
+    },
+    "release_date_for_display": "April 23, 1990",
+    "release_date_with_abbreviated_month_for_display": "Apr. 23, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/45809e20d7d764d9135380baec7926bc.640x640x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 86539
+    },
+    "title": "soon",
+    "title_with_featured": "soon",
+    "updated_by_human_at": 1728495691,
+    "url": "https://genius.com/My-bloody-valentine-soon-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/24533",
+     "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+     "id": 24533,
+     "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "my bloody valentine",
+     "slug": "My-bloody-valentine",
+     "url": "https://genius.com/artists/My-bloody-valentine"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/24533",
+      "header_image_url": "https://images.genius.com/825f4e11dc95a9b5db99879250d9e227.1000x333x1.jpg",
+      "id": 24533,
+      "image_url": "https://images.genius.com/252b15f7befea12c282edc6751a682cb.640x640x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "my bloody valentine",
+      "slug": "My-bloody-valentine",
+      "url": "https://genius.com/artists/My-bloody-valentine"
+     }
+    ],
+    "artist": "my bloody valentine",
+    "lyrics": "35 ContributorsTranslationsEspa\u00f1olsoon Lyrics[Verse 1]\nWake up, don't fear\nI want to love you\nYeah, doll of pain\nI let you get to me\nYeah, yeah\n\n[Verse 2]\nCome back, don't be\nAfraid of me soon\nThat I'll harm you\nYour eyes are blue\nBlue jewels\nYeah, yeah\n\n[Verse 3]\nCome back, have faith\nSomeone like you\nCan find the reason\nOf what I did to you\nYeah, yeah\n\n[Verse 1]\nWake up, don't fear\nI want to love you\nYeah, doll of pain\nI let you get to me\nYeah, yeahYou might also like7Embed"
+   }
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "_type": "album",
+ "api_path": "/albums/153676",
+ "cover_art_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+ "full_title": "Carnival of Light by Ride",
+ "id": 153676,
+ "name": "Carnival of Light",
+ "name_with_artist": "Carnival of Light (artist: Ride)",
+ "primary_artist_names": "Ride",
+ "release_date_components": {
+  "year": 1994,
+  "month": 6,
+  "day": 20
+ },
+ "release_date_for_display": "June 20, 1994",
+ "url": "https://genius.com/albums/Ride/Carnival-of-light",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/275501",
+  "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+  "id": 275501,
+  "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ride",
+  "slug": "Ride",
+  "url": "https://genius.com/artists/Ride"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/275501",
+   "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+   "id": 275501,
+   "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ride",
+   "slug": "Ride",
+   "url": "https://genius.com/artists/Ride"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1684270",
+    "artist_names": "Ride",
+    "full_title": "Moonlight Medicine by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/56511e626253d93f54a1cca06bdf0440.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/56511e626253d93f54a1cca06bdf0440.300x300x1.jpg",
+    "id": 1684270,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1491689053,
+    "path": "/Ride-moonlight-medicine-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-moonlight-medicine-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 1994",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/56511e626253d93f54a1cca06bdf0440.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/56511e626253d93f54a1cca06bdf0440.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Moonlight Medicine",
+    "title_with_featured": "Moonlight Medicine",
+    "updated_by_human_at": 1606215176,
+    "url": "https://genius.com/Ride-moonlight-medicine-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "5 ContributorsMoonlight Medicine Lyrics[Verse 1]\nIt's just a state of mind\nFreedom and time\nHas got me frozen up inside\nI wanna recognise\nUnder this moonlight\nThat god is on my side\n\n[Verse 2]\nWith senses running wild\nWe touched the sky\nIt looks like heaven in my eyes\nMoonlight medicine\nKeeps me alive\nDon't let your senses be denied\n\n[Chorus]\nWon't you shine\nSome light in my mind\nThe more I find\nThe more I need your medicine in my life\n\nWon't you shine\nSome light in my mind\nThe more I find\nThe more I need your medicine in my lifeSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1186217",
+    "artist_names": "Ride",
+    "full_title": "1000 Miles by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/330246b3d4fdb7a3eb52be61fa9bbcde.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/330246b3d4fdb7a3eb52be61fa9bbcde.300x300x1.jpg",
+    "id": 1186217,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429686248,
+    "path": "/Ride-1000-miles-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-1000-miles-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 1994",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/330246b3d4fdb7a3eb52be61fa9bbcde.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/330246b3d4fdb7a3eb52be61fa9bbcde.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "1000 Miles",
+    "title_with_featured": "1000 Miles",
+    "updated_by_human_at": 1606215705,
+    "url": "https://genius.com/Ride-1000-miles-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "5 Contributors1000 Miles LyricsThis night these memories lost and found\nAre taking over me\nI could see your picture and hear the sound\nOf the song you sung to me\n\nYou gotta feel and take every chance\nYou did the right thing\nDrove a thousand miles away\nOut of trace and in another time\nYou did the wrong thing\nAnd bought it back in your mind\nWhy's life so unkind?\n\nFor always and ever it's getting better\nI feel your steps with mine\nI'm moving on like it said in the letter\nAnother place, another time\n\nBlown away\nGot blown away, a thousand miles awaySee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1486762",
+    "artist_names": "Ride",
+    "full_title": "From Time To Time by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "id": 1486762,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429890309,
+    "path": "/Ride-from-time-to-time-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-from-time-to-time-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 1994",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "From Time To Time",
+    "title_with_featured": "From Time To Time",
+    "updated_by_human_at": 1720323572,
+    "url": "https://genius.com/Ride-from-time-to-time-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "7 ContributorsFrom Time To Time LyricsWhen the morning comes you won't be mine\nI know that angels come from time to time\nThere's nothing much to see just sensuality\nI know that angels come from time to time\nOn a perfect day come my way\nAnd see what matters and what you'll never find\nThere's a storm in your eyes when your body's next to mine\nI know that angels come from time to time\n\nCan you see better things, coming your way?\nCan you feel all heavy air, lifting off your days?\nCan you see it's easy when you open up your mind?\nI know that angels come from time to time\n\nLaid up above the road, I'll never know\nWhere the finest hours seem to go\nI just look out to space, me and my faith\nI know that angels come from time to time, from time to time\nFrom time to time, from time to time\nFrom time to time, from time to time\nFrom time to time, from time to timeSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1634960",
+    "artist_names": "Ride",
+    "full_title": "Natural Grace by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "id": 1634960,
+    "instrumental": false,
+    "lyrics_owner_id": 7473401,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1628543771,
+    "path": "/Ride-natural-grace-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-natural-grace-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 1994",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Natural Grace",
+    "title_with_featured": "Natural Grace",
+    "updated_by_human_at": 1720323655,
+    "url": "https://genius.com/Ride-natural-grace-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "6 ContributorsNatural Grace LyricsI've been higher than all of you 'til the sun's in my eyes\nAnd the sky is blue\nAnd all that's left for me to do\nIs to come back down\nTo the ground\nThese moments away make your heart ring true\nThey open your eyes\nFind out what you can do\nAnd all that's left for me to do\nIs to come back down, inside\n\nWell I live\nIn this place\nWith a natural grace\nAs I walk\nThrough confusion\nWith a smile on my face\nWell I live\nIn this place\nWith a natural grace\nAnd I walk\nThrough confusion\nWith a smile on my face\n\nSo a stumble here and a tumble there\nWe all need someone to love and care\nAnd though these moments may change\nYou'll still be the best thing\nThat I ever hadSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1159540",
+    "artist_names": "Ride",
+    "full_title": "Only Now by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "id": 1159540,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1627850471,
+    "path": "/Ride-only-now-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-only-now-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 1994",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Only Now",
+    "title_with_featured": "Only Now",
+    "updated_by_human_at": 1728114444,
+    "url": "https://genius.com/Ride-only-now-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "6 ContributorsOnly Now LyricsOnly now the jewel shining, only now I've lost the fear\nIn an hour I'll stop crying along the road ahead\nEarly on our life burned, early on the gem not clear\nComes the time to take a turn to find another way\n\nAnd I swear, no hurricane could lead me all astray\nAnd I swear, no hurricane would dare to try to keep me away\n\nOnly now have you touched me but by now you're who knows where\nOnly now has it hit me, wasn't sure before\nEarly on the signals cross, where's the potion, where's the drug\nJust for now the jewel is lost, keep on the road ahead\n\nAnd I swear, no hurricane could lead me all astray\nAnd I swear, no hurricane would dare to try to keep me away\n\nEarly on the signals cross where's the potion where's the drug\nJust for now the jewel is lost, keep on the road ahead\n\nAnd I swear, no hurricane could lead me all astray\nAnd I swear, no hurricane would dare to try to keep me awaySee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1488542",
+    "artist_names": "Ride",
+    "full_title": "Birdman by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "header_image_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "id": 1488542,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1628286167,
+    "path": "/Ride-birdman-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-birdman-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 4,
+     "day": 18
+    },
+    "release_date_for_display": "April 18, 1994",
+    "release_date_with_abbreviated_month_for_display": "Apr. 18, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "song_art_image_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Birdman",
+    "title_with_featured": "Birdman",
+    "updated_by_human_at": 1720324098,
+    "url": "https://genius.com/Ride-birdman-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "10 ContributorsBirdman LyricsBlackbird flying in the sky\nPlease don't look me in the eye\nYou are very very lucky\nIt's never easy to find me\n\nThe winter's coming now you've grown\nThe cold will numb you to the bone\nIt cuts you through so that you know\nIn pain the minutes go so slow\n\nYour soul and mine will carry on\nWhen this transparent world is gone\nThere's nothing strange in what I say\nIt's always meant to be this way\n\nPower streams where love is strong\nEnergy converting, never gone\nThere's never going to be an end\nA million atoms can't pretend\n\nUntil the cold ground swallows me\nMe and Ide go running free\nThen we'll change, not disappear\nAll channels receiving loud and clear\n\nBirdman think he owns the sky\nBut he can't look me in the eye\nI walk on gilded mirror blades\nI walk on razors feel no pain\nSee Ride LiveGet tickets as low as $54You might also likeIn the heat of summertime\nRolling thunder is my sign\nI understand what's going on\nI'm gonna fly right to the sunEmbed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1606348",
+    "artist_names": "Ride",
+    "full_title": "Crown of Creation by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "header_image_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "id": 1606348,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429899605,
+    "path": "/Ride-crown-of-creation-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-crown-of-creation-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 1994",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "song_art_image_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Crown of Creation",
+    "title_with_featured": "Crown of Creation",
+    "updated_by_human_at": 1720324248,
+    "url": "https://genius.com/Ride-crown-of-creation-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "8 ContributorsCrown of Creation LyricsDon't wake me up if it's another day\n'cos I don't wanna see it on my own\nYour love is all that I am asking for\nBut they won't let us be alone\nI've been running for a thousand miles\nI didn't find a better place\nI need to hold your body in my arms\nAnd feel your kisses on my face\n\nDon't you hide your love away\nYou are the Crown of Creation\nI wanna be your relation\nI'm getting off at your station\n\nWell I was looking for a waterfall\nAnd whatever nature showed to me\nTo be alone these things just bring you down\nWhen you can share them, then you're free\nWhen I wake up next to you\nAnd I breathe the morning air\nI know that you're the only one for me\nBaby, nothing can compareSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/961737",
+    "artist_names": "Ride",
+    "full_title": "How Does It Feel to Feel? by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "id": 961737,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429551496,
+    "path": "/Ride-how-does-it-feel-to-feel-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-how-does-it-feel-to-feel-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 6,
+     "day": 13
+    },
+    "release_date_for_display": "June 13, 1994",
+    "release_date_with_abbreviated_month_for_display": "Jun. 13, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "How Does It Feel to Feel?",
+    "title_with_featured": "How Does It Feel to Feel?",
+    "updated_by_human_at": 1720324355,
+    "url": "https://genius.com/Ride-how-does-it-feel-to-feel-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "8 ContributorsHow Does It Feel to Feel? LyricsHow does it feel when the day is over?\nHow does it feel when the dark comes down?\nHow does it feel when your room is black as sin?\nHow does it feel when you're scared by the dark?\nHow does it feel to feel?\nHow does it feel to feel?\n\nHow does it feel when a shadow moves you?\nHow does it feel rustled by your bed?\nHow does it feel when it finally holds you?\nHow does it feel when you're thinking you're dead?\nHow does it feel to feel?\nHow does it feel to feel?\n\nHow does it feel when you wake in the morning?\nHow does it feel feeling sun in the shade?\nHow does it feel when you slide down a sunbeam?\nHow does it feel bursting clouds on your way?\nHow does it feel now that the night is over?\nHow does it feel never to sleep again?\n\nHow does it feel to feel?See Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1035996",
+    "artist_names": "Ride",
+    "full_title": "Endless Road by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "id": 1035996,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1628286989,
+    "path": "/Ride-endless-road-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-endless-road-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 1994",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Endless Road",
+    "title_with_featured": "Endless Road",
+    "updated_by_human_at": 1720324467,
+    "url": "https://genius.com/Ride-endless-road-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "7 ContributorsEndless Road LyricsThe fiery sun burns, from morning to evening\nAcross this stony plain where nothing grows\nHuge clouds of dust are thrown up by the scorching wind\nWhy do we travel on this endless road?\n\nDeaf and blinded he comes to a river\nSenses blocked by the dust and the night\nSomething is calling, he sleepwalks without falling\nSixth sense stops him, in the shadowless light\n\nI don't remember, I don't remember\nHelp me to remember\n\nOne night by the fire somebody is talking\nHis voice is so happy, it almost sings\nLike a vision, somehow he remembers\nTakes the road back to forests and springsSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1290515",
+    "artist_names": "Ride",
+    "full_title": "Magical Spring by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "id": 1290515,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429746813,
+    "path": "/Ride-magical-spring-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-magical-spring-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 1994",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Magical Spring",
+    "title_with_featured": "Magical Spring",
+    "updated_by_human_at": 1720324560,
+    "url": "https://genius.com/Ride-magical-spring-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "7 ContributorsMagical Spring LyricsBaby's got a magic power, she can change the seasons\nShe's saving up her magic power, for very special reasons\nIf you drink her potion, you're going to lose your mind\nThe water from this magic spring, is the best that you can find...\n\nTake a drink of the water, from the magical spring\nYou'd better believe it, it's a wonderful thing\n\nYou'll love her 'til the end of time\nYou'll need her 'til you die\nMaybe you are wondering\nSo here's the reason why\nShe holds the key to everything, inside her pretty hands\nShe doesn't go to sleep at night, she's making evil plans\n\nYou can try, but you just can't tell her no\nShe'll bring you to your knees, and she'll never let you go\nDrink from the fountain, where the air is thin\nYou'd better believe in the magical springSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/7059533",
+    "artist_names": "Ride",
+    "full_title": "Rolling Thunder by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "id": 7059533,
+    "instrumental": true,
+    "lyrics_owner_id": 7473401,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1627680700,
+    "path": "/Ride-rolling-thunder-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-rolling-thunder-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 1994",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/add0f3807b8eaa4d4d925a8c2f160b56.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Rolling Thunder",
+    "title_with_featured": "Rolling Thunder",
+    "updated_by_human_at": 1720324669,
+    "url": "https://genius.com/Ride-rolling-thunder-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": ""
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1502232",
+    "artist_names": "Ride",
+    "full_title": "I Don't Know Where It Comes From by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "header_image_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "id": 1502232,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429892436,
+    "path": "/Ride-i-dont-know-where-it-comes-from-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ride-i-dont-know-where-it-comes-from-sample",
+    "release_date_components": {
+     "year": 1994,
+     "month": 6,
+     "day": 20
+    },
+    "release_date_for_display": "June 20, 1994",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 1994",
+    "song_art_image_thumbnail_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "song_art_image_url": "https://images.genius.com/9a5e8c5cfc2c27c98dea766b2dcc6f13.220x220x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "I Don\u2019t Know Where It Comes From",
+    "title_with_featured": "I Don't Know Where It Comes From",
+    "updated_by_human_at": 1720324757,
+    "url": "https://genius.com/Ride-i-dont-know-where-it-comes-from-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "8 ContributorsI Don\u2019t Know Where It Comes From LyricsI don't know where it comes from\nI don't know where it comes from\nI don't know where it comes from\nDon't ask me where it comes from\n\nThere's something moving through the air\nYears ago, it wasn't there\nIf people feel it, they don't care\nSeems like everybody's sterilised\nA piece is missing from their lives\nThey're never going to be surprised\n\nI don't know where it comes from (don't ask me)\nI don't know where it comes from (don't ask me)\nI don't know where it comes from (don't ask me)\nDon't ask me where it comes from\n\nTurned on the radio tonight\nAnd I was overwhelmed with shite\nI got so numb I couldn't fight\nWhat's going on, I can't define\nHow is it everyone's resigned\nWe're so uptight, we can't unwind\n\nI don't know where it comes from (don't ask me)\nI don't know where it comes from (don't ask me)\nI don't know where it comes from (don't ask me)\nDon't ask me where it comes from\nSee Ride LiveGet tickets as low as $54You might also likeI don't know where it comes from (don't ask me)\nI don't know where it comes from (don't ask me)\nI don't know where it comes from (don't ask me)\nDon't ask me where it comes from\n\nThere's something moving through the air\nYears ago, it wasn't there\nIf people feel it, they don't care\nSeems like everybody's sterilised\nA piece is missing from their lives\nThey're never going to be surprised\n\n2x:\nI don't know where it comes from (don't ask me)\nI don't know where it comes from (don't ask me)\nI don't know where it comes from (don't ask me)\nDon't ask me where it comes from\n\n5x:\nI don't know where it comes from\nI don't know where it comes from\nI don't know where it comes from\nDon't ask me where it comes from1Embed"
+   }
+  }
+ ]
+}

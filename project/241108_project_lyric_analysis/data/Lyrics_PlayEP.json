@@ -1,0 +1,324 @@
+{
+ "_type": "album",
+ "api_path": "/albums/257598",
+ "cover_art_thumbnail_url": "https://images.genius.com/a7778a495e9e1a20c03e4bda3efe76f6.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/a7778a495e9e1a20c03e4bda3efe76f6.425x425x1.jpg",
+ "full_title": "Play [EP] by Ride",
+ "id": 257598,
+ "name": "Play [EP]",
+ "name_with_artist": "Play [EP] (artist: Ride)",
+ "primary_artist_names": "Ride",
+ "release_date_components": {
+  "year": 1990,
+  "month": 4,
+  "day": 12
+ },
+ "release_date_for_display": "April 12, 1990",
+ "url": "https://genius.com/albums/Ride/Play-ep",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/275501",
+  "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+  "id": 275501,
+  "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ride",
+  "slug": "Ride",
+  "url": "https://genius.com/artists/Ride"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/275501",
+   "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+   "id": 275501,
+   "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ride",
+   "slug": "Ride",
+   "url": "https://genius.com/artists/Ride"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1235425",
+    "artist_names": "Ride",
+    "full_title": "Like A Daydream by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/dbc77e84b5ce972d9a207d9eb7ba1a5b.300x298x1.jpg",
+    "header_image_url": "https://images.genius.com/dbc77e84b5ce972d9a207d9eb7ba1a5b.300x298x1.jpg",
+    "id": 1235425,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719434267,
+    "path": "/Ride-like-a-daydream-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-like-a-daydream-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 4,
+     "day": 2
+    },
+    "release_date_for_display": "April 2, 1990",
+    "release_date_with_abbreviated_month_for_display": "Apr. 2, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/dbc77e84b5ce972d9a207d9eb7ba1a5b.300x298x1.jpg",
+    "song_art_image_url": "https://images.genius.com/dbc77e84b5ce972d9a207d9eb7ba1a5b.300x298x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "Like A Daydream",
+    "title_with_featured": "Like A Daydream",
+    "updated_by_human_at": 1719434267,
+    "url": "https://genius.com/Ride-like-a-daydream-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "7 ContributorsLike A Daydream LyricsThe way your hair hangs down, it hides away your face\nFor you, it's perfect when it seems like such a waste\nAnd when I see you gliding past, I make my plans\nAnd then my plans slip through my fingers just like sand\n\nI wish that life could be just like a photograph\nOne moment captured as you laugh your perfect laugh\nBut that's a daydream, things could never be so right\nThere's so much more to think about than black and whiteSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1202890",
+    "artist_names": "Ride",
+    "full_title": "Silver by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.300x298x1.jpg",
+    "header_image_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.600x596x1.jpg",
+    "id": 1202890,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719434318,
+    "path": "/Ride-silver-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-silver-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 4,
+     "day": 2
+    },
+    "release_date_for_display": "April 2, 1990",
+    "release_date_with_abbreviated_month_for_display": "Apr. 2, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.300x298x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.600x596x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Silver",
+    "title_with_featured": "Silver",
+    "updated_by_human_at": 1719434318,
+    "url": "https://genius.com/Ride-silver-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "6 ContributorsSilver LyricsWho said 'time heals all wounds'?\nI think it was me before I met you\nYour silver chains have slit my wrists\nWhen I fell in love, I never asked for this\n\nAll this time and I still can't see\nHow your poisoned mind still poisons me\nThe silver chains around your neck\nCut my throat when you turned your back\n\nI've tried so hard to keep control\nBut the thought of you keeps tearing at my soul\nI've tried so hard to keep control\nBut the thought of you keeps tearing at my soulSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1635871",
+    "artist_names": "Ride",
+    "full_title": "Furthest Sense by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.300x298x1.jpg",
+    "header_image_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.600x596x1.jpg",
+    "id": 1635871,
+    "instrumental": false,
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429901161,
+    "path": "/Ride-furthest-sense-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-furthest-sense-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 4,
+     "day": 2
+    },
+    "release_date_for_display": "April 2, 1990",
+    "release_date_with_abbreviated_month_for_display": "Apr. 2, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.300x298x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.600x596x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Furthest Sense",
+    "title_with_featured": "Furthest Sense",
+    "updated_by_human_at": 1719434334,
+    "url": "https://genius.com/Ride-furthest-sense-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "4 ContributorsFurthest Sense LyricsUnsure of emotions\nAnd unsure of my stand\nThat time was so perfect\nWho could ever understand?\n\nSo don't try to criticise\nYou don't know the change that's in my eyes\nPlastic feelings and emotions\nYour lifestyle is your only tie\n\nIt's time for a change\nI'm not asking I'm telling you\nI'm watching, I'm listening\nBut to touch seems the furthest sense away\n\nTomorrow's another day\nRegret belongs to yesterday\nBut I'm screaming, I'm shouting\nI'm sick of everything that's said\n\nThe stars are out tonight\nAnd in my eyes there is a guiding light\nThat's keeping me awake\nAnd making my dreams my only sight\n\nIt's time for a change\nI'm not asking I'm telling you\nI'm watching, I'm listening\nBut to touch seems the furthest sense awaySee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1263010",
+    "artist_names": "Ride",
+    "full_title": "Perfect Time by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.300x298x1.jpg",
+    "header_image_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.600x596x1.jpg",
+    "id": 1263010,
+    "instrumental": false,
+    "lyrics_owner_id": 1168310,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719434363,
+    "path": "/Ride-perfect-time-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-perfect-time-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 4,
+     "day": 2
+    },
+    "release_date_for_display": "April 2, 1990",
+    "release_date_with_abbreviated_month_for_display": "Apr. 2, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.300x298x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b372c845ca24990f5b798c4fc2be142a.600x596x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Perfect Time",
+    "title_with_featured": "Perfect Time",
+    "updated_by_human_at": 1719434363,
+    "url": "https://genius.com/Ride-perfect-time-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "6 ContributorsPerfect Time LyricsAnother stupid day\nI'm confused and I can't explain\nWhy I'm having to run away\nAnd find a new place to stay\n\nAnd now I'm not so sure\nIf I've felt so low before\nWhy do I still want more?\n'Cause you're killing me to the core\n\nI thought I was in line\nAnd happiness was mine\nI was sure that I had found\nFound my perfect timeSee Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  }
+ ]
+}

@@ -1,0 +1,605 @@
+{
+ "_type": "album",
+ "api_path": "/albums/171398",
+ "cover_art_thumbnail_url": "https://images.genius.com/c7fbfccc0e8983e6cf9df66d1e005a09.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/c7fbfccc0e8983e6cf9df66d1e005a09.600x600x1.jpg",
+ "full_title": "Nowhere by Ride",
+ "id": 171398,
+ "name": "Nowhere",
+ "name_with_artist": "Nowhere (artist: Ride)",
+ "primary_artist_names": "Ride",
+ "release_date_components": {
+  "year": 1990,
+  "month": 10,
+  "day": 15
+ },
+ "release_date_for_display": "October 15, 1990",
+ "url": "https://genius.com/albums/Ride/Nowhere",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/275501",
+  "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+  "id": 275501,
+  "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ride",
+  "slug": "Ride",
+  "url": "https://genius.com/artists/Ride"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/275501",
+   "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+   "id": 275501,
+   "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ride",
+   "slug": "Ride",
+   "url": "https://genius.com/artists/Ride"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/596907",
+    "artist_names": "Ride",
+    "full_title": "Seagull by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/f87e07c10595b2d0b548a3f67edfbb7a.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f87e07c10595b2d0b548a3f67edfbb7a.300x300x1.jpg",
+    "id": 596907,
+    "instrumental": false,
+    "lyrics_owner_id": 450545,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1686774783,
+    "path": "/Ride-seagull-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Ride-seagull-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f87e07c10595b2d0b548a3f67edfbb7a.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f87e07c10595b2d0b548a3f67edfbb7a.300x300x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 9151
+    },
+    "title": "Seagull",
+    "title_with_featured": "Seagull",
+    "updated_by_human_at": 1686774783,
+    "url": "https://genius.com/Ride-seagull-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "17 ContributorsSeagull Lyrics[Verse 1]\nMy eyes are sore, my body weak\nMy throat is dry, I cannot speak\nMy words are dead\n\n[Refrain 1]\nFalling like feathers to the floor\nFalling like feathers to the floor, ah\n\n[Verse 2]\nYou gave me things I'd never seen\nYou made my life a waking dream\nBut we are dead\n\n[Refrain 2]\nFalling like ashes to the floor\nFalling like ashes to the floor, ah\n\n[Bridge]\nDefinitions confine thoughts, they are a myth\nWords are clumsy, language doesn't fit\nBut we know there's no limit to a thought\nWe know there's no limits\n\n[Instrumental Break]\nSee Ride LiveGet tickets as low as $54You might also like[Verse 3]\nNow it's your turn to see me rise\nYou burned my wings, but watch me fly\nAbove your head\n\n[Refrain 3]\nLooking down I see you far below\nLooking up you see my spirit glow, ah\n\n[Instrumental Outro]6Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/596906",
+    "artist_names": "Ride",
+    "full_title": "Kaleidoscope by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/484c9d6ec404b24b3da5fdda88518484.250x261x1.jpg",
+    "header_image_url": "https://images.genius.com/484c9d6ec404b24b3da5fdda88518484.250x261x1.jpg",
+    "id": 596906,
+    "instrumental": false,
+    "lyrics_owner_id": 450545,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1627393151,
+    "path": "/Ride-kaleidoscope-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ride-kaleidoscope-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/484c9d6ec404b24b3da5fdda88518484.250x261x1.jpg",
+    "song_art_image_url": "https://images.genius.com/484c9d6ec404b24b3da5fdda88518484.250x261x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "Kaleidoscope",
+    "title_with_featured": "Kaleidoscope",
+    "updated_by_human_at": 1627393151,
+    "url": "https://genius.com/Ride-kaleidoscope-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "10 ContributorsKaleidoscope Lyrics[Verse 1]\nI know that you are thinking 'bout me now\nI can feel it but I don't know how\nWhen I'm gone you will see so clear\nThat I left some words unspoken here\n\n[Chorus 1]\nAll these words that I have said float around you, fill your head\nAll the times we laughed and cried, I never thought I'd leave you behind\n\n[Verse 2]\nI don't want you to understand\nYou will never hold me in your hand\nI don't want you to see my face\nWhen I fade away and leave this place\n\n[Chorus 2]\nAll these songs that fill my head dance around you when I'm dead\nAll the love I ever knew, kaleidoscopes around to you\n\n[Instrumental bridge]\n\n[Chorus 3]\nAll these words that I have said float around you, fill your head\nAll the times we laughed and cried, I never thought I'd change your mind\nAll these songs that fill my head dance around you when I'm dead\nAll the love I ever knew, kaleidoscopes around to youSee Ride LiveGet tickets as low as $52You might also like1Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/596908",
+    "artist_names": "Ride",
+    "full_title": "In a Different Place by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "id": 596908,
+    "instrumental": false,
+    "lyrics_owner_id": 450545,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1627403484,
+    "path": "/Ride-in-a-different-place-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-in-a-different-place-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 6694
+    },
+    "title": "In a Different Place",
+    "title_with_featured": "In a Different Place",
+    "updated_by_human_at": 1627403484,
+    "url": "https://genius.com/Ride-in-a-different-place-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "10 ContributorsIn a Different Place Lyrics[Instrumental intro]\n\n[Verse 1]\nBlowing bubbles lying down waiting for the rain to fall\nLaughing at the people, wonder why they always rush, never slow down\n\n[Chorus]\nAnd we're smiling when we're sleeping\nAnd we're smiling when we're waking\n\n[Verse 2]\nEven if the rain falls down and all the sky turns cold I will feel fine\nThunder roared and lightning flashed, but you and I were in a different time\n\n[Chorus]\nAnd we're smiling when we're sleeping\nAnd we're smiling when we're waking\n\n[Verse 3]\nFloating in and out of time, in and out of space\nNo one else can touch us now, we're in a different place\n\n[Instrumental outro]See Ride LiveGet tickets as low as $54You might also likeEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/596910",
+    "artist_names": "Ride",
+    "full_title": "Polar Bear by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "id": 596910,
+    "instrumental": false,
+    "lyrics_owner_id": 450545,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1627393908,
+    "path": "/Ride-polar-bear-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ride-polar-bear-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 6270
+    },
+    "title": "Polar Bear",
+    "title_with_featured": "Polar Bear",
+    "updated_by_human_at": 1627393908,
+    "url": "https://genius.com/Ride-polar-bear-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "12 ContributorsPolar Bear Lyrics[Verse 1]\nShe knew she was able to fly because when she came down\nShe had dust on her hands from the sky, she said I touched a cloud\nShe felt so high, the dust made her cry\n\n[Pre-Chorus 1]\nShe knew she could fly like a bird but when she said\n\"Please raise the roof higher\" nobody heard, they never noticed a word\nThe light bulbs burn, her fingers will learn\n\n[Chorus]\nAh, a-ha, a-ha\nAh, a-ha, a-ha\n\n[Verse 2]\nWhy should it feel like a crime? If I want to be\nWith you all the time, why is it measured in hours?\nYou should make your own time, you're welcome in mine\n\n[Instrumental bridge]\n\n[Pre-Chorus 2]\nShe knew she was able to fly because when she came down\nShe had dust from her hands on the sky, she said I touched a cloud\nHer fingers will learn, the lightbulbs burn\nSee Ride LiveGet tickets as low as $52You might also like[Chorus]\nAh, a-ha, a-haEmbed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/596912",
+    "artist_names": "Ride",
+    "full_title": "Dreams Burn Down by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "id": 596912,
+    "instrumental": false,
+    "lyrics_owner_id": 450545,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1627379800,
+    "path": "/Ride-dreams-burn-down-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ride-dreams-burn-down-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 9965
+    },
+    "title": "Dreams Burn Down",
+    "title_with_featured": "Dreams Burn Down",
+    "updated_by_human_at": 1627403861,
+    "url": "https://genius.com/Ride-dreams-burn-down-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "14 ContributorsDreams Burn Down Lyrics[Instrumental intro]\n\n[Verse 1]\nLying under sky laughing at everything I say\nAnd pulls me under, there's no time to resist\nLying on the floor the tears are falling down and more\nHer eyes speak loud but actions speak the best\n\n[Chorus]\nWaiting, hoping for a sign\nThat what's forbidden can be mine\nI just want what I can't have\n'Til my dreams burn down and choke me every time\n\n[Verse 2]\nShe's effortlessly cool but circumstances can be cruel\nAnd sometimes you must accept that you can't get what you want\nWe fill up our days and nights, we fill up the gaps in our empty little lives\nBut we know we are doomed the moment we walk out the room\n\n[Chorus]\nWaiting, hoping for a sign\nThat what's forbidden can be mine\nI just want what I can't have\n'Til my dreams burn down and choke me every timeSee Ride LiveGet tickets as low as $54You might also like1Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/596914",
+    "artist_names": "Ride",
+    "full_title": "Decay by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "id": 596914,
+    "instrumental": false,
+    "lyrics_owner_id": 450545,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1627394479,
+    "path": "/Ride-decay-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Ride-decay-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "Decay",
+    "title_with_featured": "Decay",
+    "updated_by_human_at": 1627394479,
+    "url": "https://genius.com/Ride-decay-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "12 ContributorsDecay Lyrics[Instrumental intro]\n\n[Verse 1]\nWe have short time to stay\nOur night is slipping far away\nCaught up within bad memories\nOur growth seems certain to decay\n\n[Chorus]\nNow this feeling's so alive\nBut, as you or anything, we die\n\n[Post-Chorus 1]\nWe die, we die\n\n[Verse 2]\nLet's stay here for a while\nEyes so round and bright we gently smile\nLive for this moment, not the past\nWhy do we always fall so fast?\n\n[Chorus]\nNow this feeling's so alive\nBut, as you or anything, we die\n\n[Post-Chorus 2]\nWe die, we die, we die, we die\nSee Ride LiveGet tickets as low as $54You might also like[Outro]\nWe die, we die, we die, we die\nWe die, we die, we die2Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/596915",
+    "artist_names": "Ride",
+    "full_title": "Paralysed by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "id": 596915,
+    "instrumental": false,
+    "lyrics_owner_id": 450545,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1627380683,
+    "path": "/Ride-paralysed-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ride-paralysed-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/71cc73c72ab34bec90770f7cd4be8a9c.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false
+    },
+    "title": "Paralysed",
+    "title_with_featured": "Paralysed",
+    "updated_by_human_at": 1627380683,
+    "url": "https://genius.com/Ride-paralysed-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "14 ContributorsParalysed Lyrics[Instrumental intro]\n\n[Verse 1]\nCatch me in another dream, I'm pulled away\nHold me, gently take me through another day\n\n[Chorus 1]\nHowever hard I try, I crawl when I should fly\nI wander through my days, pulled a million ways\n\n[Verse 2]\nHelp me feel the forces I can't touch, I'm reaching out\nHelp me to learn until I know too much, I'm still without\n\n[Chorus 2]\nThese circles pulling near, hold me in my fear\nAnd sleeping I can't hide, I'm paralysed inside\n\n[Bridge]\nParalysed, paralysed, paralysed, paralysed\nParalysed, paralysed, paralysed, paralysed\n\n[Instrumental breakdown]\n\n[Instrumental bridge]\nSee Ride LiveGet tickets as low as $54You might also like[Instrumental outro]1Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/596916",
+    "artist_names": "Ride",
+    "full_title": "Vapour Trail by\u00a0Ride",
+    "header_image_thumbnail_url": "https://images.genius.com/c746cfd928b22db0c84baceec5253d8d.300x266x1.jpg",
+    "header_image_url": "https://images.genius.com/c746cfd928b22db0c84baceec5253d8d.499x443x1.jpg",
+    "id": 596916,
+    "instrumental": false,
+    "lyrics_owner_id": 450545,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728609351,
+    "path": "/Ride-vapour-trail-lyrics",
+    "primary_artist_names": "Ride",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Ride-vapour-trail-sample",
+    "release_date_components": {
+     "year": 1990,
+     "month": 10,
+     "day": 15
+    },
+    "release_date_for_display": "October 15, 1990",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1990",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c746cfd928b22db0c84baceec5253d8d.300x266x1.jpg",
+    "song_art_image_url": "https://images.genius.com/c746cfd928b22db0c84baceec5253d8d.499x443x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 40232
+    },
+    "title": "Vapour Trail",
+    "title_with_featured": "Vapour Trail",
+    "updated_by_human_at": 1728601573,
+    "url": "https://genius.com/Ride-vapour-trail-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/275501",
+     "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+     "id": 275501,
+     "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ride",
+     "slug": "Ride",
+     "url": "https://genius.com/artists/Ride"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/275501",
+      "header_image_url": "https://images.genius.com/4a8a8139f9d4ecb27a05de9e8cb97666.1000x992x1.jpg",
+      "id": 275501,
+      "image_url": "https://images.genius.com/d7838f49c3e8fabcbe962f781c7454b0.515x515x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ride",
+      "slug": "Ride",
+      "url": "https://genius.com/artists/Ride"
+     }
+    ],
+    "artist": "Ride",
+    "lyrics": "20 ContributorsVapour Trail Lyrics[Verse 1]\nFirst you look so strong, then you fade away\nThe sun will blind my eyes, I'll love you anyway\nThirsty for your smile, I watch you for a while\nYou are a vapour trail in a deep blue sky\n\n[Refrain]\nLa la la la, la\nLa la la la, la\nLa la la la, la\nLa la la la\n\n[Verse 2]\nTremble with a sigh, glitter in your eye\nYou seem to come and go, I never seem to know\nAnd all my time is yours as much as mine\nWe never have enough time to show our love\n\n[Refrain]\nLa la la la, la\nLa la la la, la\nLa la la la, la\nLa la la love\n\n[Instrumental Outro]See Ride LiveGet tickets as low as $54You might also like8Embed"
+   }
+  }
+ ]
+}
