@@ -3,7 +3,6 @@ title: "日记｜如果要有100个纪念日"
 date: "2026-08-08"
 categories: [diary, 中文]
 description: "为了防止把这辈子最处心积虑泡别人的过程忘个精光而写的流水账"
-image: figs/landscape2.jpg
 ---
 
 一个甚至两个绝望的社恐
