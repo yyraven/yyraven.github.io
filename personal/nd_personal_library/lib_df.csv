@@ -1,4 +1,9 @@
 ﻿date,type,name,author,publish,rating,comment,count
+1/21/23,book,三体：地球往事,刘慈欣,2008,NA,NA,300000
+1/23/23,book,三体：黑暗森林,刘慈欣,2008,NA,NA,300000
+2/2/23,book,三体：死神永生,刘慈欣,2010,NA,NA,300000
+2/3/23,book,坏小孩,紫金陈,2014,NA,NA,182000
+7/31/23,book,乐队女孩,K. Gordon,2015,NA,NA,
 8/19/23,book,那不勒斯四部曲,E. Ferrante,2018,10,新颖的视角，细腻的文笔,1000000
 8/26/23,book,存在主义咖啡馆,S. Bakewell,2016,7,不错的入门书,400000
 9/14/23,book,德米安：彷徨少年时,H. Hesse,1919,7,虽然有很多名言警句，但依然不是很能理解这种精神状态,84000
@@ -20,11 +25,37 @@
 2/13/26,book,德古拉,B. Stoker,1897,7,前期不错，后期节奏拖沓，有些无聊了,300000
 2/26/26,book,黄金时代,王小波,1991,10,“春藤绕树，小鸟依人”。解放吧，爱压抑的人们,30000
 5/31/26,book,What It's Like to Be a Bird,D. A. Sibley,2020,8,不错的科普书，介绍了北美常见鸟类的豆知识,37500
+8/11/26,book,Project Hail Mary,A. Weir,2021,9,合家欢的可爱科幻，谁不喜欢一个萌萌的外星人呢；以及是分子生物学家腰挺得最直的一集,150350
+8/11/26,book,Story of Your Life,T. Chiang,1998,9,特别美丽。,34000
+1/1/23,movie,三体,杨磊,2023,NA,NA,1350
+1/25/23,movie,流浪地球2,郭帆,2023,NA,NA,173
+1/27/23,movie,流浪地球1,郭帆,2019,NA,NA,125
+2/4/23,movie,春光乍泄,王家卫,1997,NA,NA,96
+2/16/23,movie,パプリカ,今敏,2006,NA,NA,90
+2/18/23,movie,The Matrix,L. Wachowski,1999,NA,NA,136
+2/25/23,movie,ぼっち・ざ・ろっく！,CloverWorks,2022,NA,NA,240
+3/4/23,movie,Transpotting,D. Boyle,1996,NA,NA,93
+4/3/23,movie,けいおん!,京都动画,2009,NA,NA,820
+4/14/23,movie,Hamilton: An American Musical,L-M. Miranda,2015,NA,NA,165
+4/19/23,movie,宇宙探索编辑部,孔大山,2023,NA,NA,118
+5/4/23,movie,Thelma & Louise,R. Scott,1991,NA,NA,130
+5/5/23,movie,T2 Trainspotting,D. Boyle,2017,NA,NA,117
+6/8/23,movie,Supersonic,M. Whitecross,2016,NA,NA,122
+6/27/23,movie,The Flash,A. Muschietti,2023,NA,NA,144
+7/3/23,movie,Batman v Superman: Dawn of Justice,Z. Snyder,2016,NA,NA,151
+7/4/23,movie,Batman Begins,C. Nolan,2005,NA,NA,140
+7/5/23,movie,The Dark Knight,C. Nolan,2008,NA,NA,152
+7/23/23,movie,长安三万里,追光动画,2023,NA,NA,168
+7/22/23,movie,阳光灿烂的日子,姜文,1994,NA,NA,140
+7/22/23,movie,射雕英雄传之东成西就,刘镇伟,1993,NA,NA,163
+7/23/23,movie,Barbie,G. Gerwig,2023,NA,NA,174
+8/21/23,movie,Oppenheimer,C. Nolan,2023,NA,NA,180
 12/23/23,movie,燃冬,陈哲艺,2023,4,拍摄手法出了大问题,97
 1/19/24,movie,咒,柯孟融,2022,7,以邪教为主题的恐怖片，拍得不错,111
 1/19/24,movie,1991: The Year Punk Broke,D. Markey,1992,6,音乐录影带。现场很棒，叙事几乎没有。说好听点就是很忠实的客观记录吧,95
 2/17/24,movie,Withnail & I,B. Robinson,1987,8,疯子天才Withnail和没那么天才却也没那么疯的Marwood，需要有一定英国文化和时代背景知识储备才能有感触的电影…心情和电影里的阴雨一般闷闷的,107
 3/15/24,movie,DIG!,O. Timoner,2004,8,在乐队纪录片中算质量很高了，我觉得可以与Supersonic媲美。讲的是90S Mozart vs. Salieri (Brian Jonestown Massacre vs. The Dandy Warhols) 的故事，虽然这样的叙事是以消耗客观性为代价的，但作为电影很棒,89
+4/20/24,movie,BanG Dream! It's MyGO!!!!!,柿本广大,2023,NA,NA,260
 4/1/24,movie,[All Watched Over by Machines of Loving Grace](../240401_review_allwatched/index.qmd),A. Curtis,2011,8,相当不错的纪录片，观后感得单独摘出来写,180
 5/26/24,movie,This Is Spinal Tap,R. Reiner,1984,7,狠狠地拿摇滚文化开涮了，感想是很爽,82
 5/26/24,movie,Beautiful Noise,E. Green,2014,7,著名的盯鞋纪录片，信息量蛮足的，和这个genre一样是性冷淡风（笑,90
