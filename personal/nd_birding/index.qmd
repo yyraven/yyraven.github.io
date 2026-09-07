@@ -28,7 +28,7 @@ You can also check my [eBird profile](https://ebird.org/profile/NTk5NDQ1OQ).
 ::: callout-note
 The next bird I want to see is: 
 
-- ***Eastern Screech-Owl***, Ruby, I heard that you reside in a dead tree near the Celery Bog Natural Center, let me find you! 
+- ***Red-billed leiothrix***, its Chinese common name's literal meaning is 'red-billed missing-you-bird', how cute it is?
 :::
 
 ------------------------------------------------------------------------
@@ -79,7 +79,7 @@ colnames(result) <- c("location", "count")
 result
 ```
 
-Now I've observed <code>`r nrow(bird_list)`</code> bird species, in which <code>`r result$count[result$location == "US"]`</code> of them were spotted in the United States.
+Now I've observed <code>`r nrow(bird_list)`</code> bird species, in which <code>`r result$count[result$location == "US"]`</code> of them were spotted in the United States, and <code>`r result$count[result$location == "CN"]`</code> of them were spotted in China.
 
 ```{r time, echo = FALSE, message = FALSE, warning = FALSE}
 library(lubridate)
@@ -101,6 +101,8 @@ ggplot(lifer, aes(x = date, y = lifer)) +
 - **150 bird species spotted**: Jan 2026
 
 - **175 bird species spotted**: May 2026
+
+- **200 bird species spotted**: Aug 2026
 
 The bird family of most lifers for me is currently <code>Waterfowl</code>.
 
@@ -174,6 +176,102 @@ fillOpacity = 1, radius = 5) %>%
 ## Places I Went For Birding {#places}
 
 *For 'Birds', I only record the bird species I've seen. For a full list of potential birds, please see ebird and other reference.*
+
+### Yangtze River Delta, China
+
+#### ![](pixelart/blackcrownednightheron_s.png) Suzhou, CN: Huqiu Wetland Park 虎丘湿地生态公园
+
+::: column-margin
+![Huqiu Wetland Park during the 'Plum Rain' Season, June 2025](landspics/huqiu.jpeg){group="landspics"}
+:::
+
+-   **Type**: Rural \| Wetlands (fresh water)
+-   **First Visited**: June 2025
+-   **Last Visited**: Sep 2026
+-   **Birds**: Black-crowned Night Heron, Little Grebe, Great Crested Grebe, Azure-winged Magpie, Light-vented Bulbul, Little Egret, Red-rumped Swallow, Pheasant-tailed Jacana, Red-billed Starling, Eurasian Moorhen, Chinese Blackbird, Oriental Magpie-Robin, Masked Laughingthrush, Spotted Dove, Long-tailed Shrike
+-   **Comments**: Beautiful place, regionally well-known birding hotspot and tourist attraction with reeds, waterlilies, lotus, water caltrops (attract moorhens and jacanas), and other water plants all over the ponds and wetlands. Better avoid the crowds if going birding since water sports are popular in this park. 
+-   **Link**: [ebird](https://ebird.org/region/L17313628)
+
+#### ![](pixelart/blackheadedgull_s.png) Suzhou, CN: Chongshan Island 冲山岛
+
+::: column-margin
+![Black headed gulls gathering, Dec 2025](landspics/chong.jpeg){group="landspics"}
+:::
+
+-   **Type**: Urban \| Open water (fresh water)
+-   **First Visited**: Dec 2025
+-   **Last Visited**: Dec 2025
+-   **Birds**: Black-headed gull, white wagtail, little grebe, great crested grebe, eurasian coot, spotted dove
+-   **Comments**: Part of Taihu Lake. The urban myth is that the Suzhou government use Salmon sashimi to attract black-headed gulls from Wuxi (the city on the other side of Taihu).
+-   **Links**: NA
+
+#### ![](pixelart/crestedmyna_s.png) Suzhou, CN: Dushu Lake, East Shore 独墅湖东
+
+::: column-margin
+![View of Dushu Lake from Banyue Bay Lawn, Dec 2025](landspics/dushulake.jpeg){group="landspics"}
+:::
+
+-   **Type**: Urban \| Open water (fresh water)
+-   **First Visited**: Dec 2025
+-   **Last Visited**: Dec 2025
+-   **Birds**: Black-crowned Night Heron, Little Grebe, Great Crested Grebe, Light-vented Bulbul, Little Egret, White-cheeked Starling, Eurasian Hoopoe, Chinese Blackbird, Oriental Magpie-Robin, Vega Gull, White Wagtail, Olive-backed Pipit, Richard's Pipit, Eurasian Tree Sparrow, Crested Myna, Long-tailed Shrike
+-   **Comments**: Mostly hardened wetlands, migrating birds come to visit at winter. Pipits and wagtails walk happily on the lawn. Whole trail takes ~3.5 hours. 
+-   **Links**: [ebird-独墅湖公园](https://ebird.org/region/L33441763) \| [ebird-白鹭园](https://ebird.org/region/L26307800)
+
+#### ![](pixelart/greatcormorant_s.png) Suzhou, CN: Shui Ba Xian Ecological Park 水八仙生态文化园
+
+::: column-margin
+![Flock of black-winged stilts in paddy fields, Dec 2025](landspics/shuibaxian2.jpeg){group="landspics"}
+:::
+
+-   **Type**: Urban \| Wetlands - Paddy fields (freshwater); Open water (freshwater)
+-   **First Visited**: Dec 2025
+-   **Last Visited**: Dec 2025
+-   **Birds**: Green-winged teal, tufted duck, rock pigeon, eurasian moorhen, eurasian coot, black-winged stilt, northern lapwing, common snipe, marsh sandpiper, spotted redshank, black-headed gull, little grebe, great crested grebe, great cormorant, little egret, great egret, gray heron, common kingfisher, long-tailed shrike, oriental magpie, light-vented bulbul, red-billed starling, crested myna, chinese blackbird, daurian redstart, gray wagtail, white wagtail
+-   **Comments**: Paddy fields & part of Chenhu Lake. People raise fish in Chenhu Lake so it attracts a lot of fish-eating bird species. Nice place to watch shorebirds and ducks, has a relatively high entrance fee, though. 'Shui Ba Xian' (literal: 8 water gods) means 8 different water-borne vegetables which Suzhou local people enjoy eating, including 茭白 (water bamboo shoots), 莲藕 (lotus root), 水芹 (water celery), 鸡头米 (fox nuts), 慈姑 (arrowhead), 荸荠 (water chestnut), 莼菜 (water shield), &菱角 (water caltrop). They are often harvested in fall, so in winter, the fields are free for birds to live. 
+-   **Links**: [ebird-水八仙生态文化园](https://ebird.org/hotspot/L17507817)
+-   **Related Posts**: [Dec '25 Winter Migration](../251229_birding_suzhou/index.qmd)
+
+#### ![](pixelart/orientalturtledove_s.png) Suzhou, CN: Baitang Arboretum 白塘生态植物园
+
+::: column-margin
+![Dawn redwood in Baitang Arboretum, Jan 2026](landspics/baitang.jpeg){group="landspics"}
+:::
+
+-   **Type**: Urban \| Wetlands (freshwater)
+-   **First Visited**: Jan 2026
+-   **Last Visited**: Jan 2026
+-   **Birds**: Eastern spot-billed duck, oriental turtle-dove, eurasian collared-dove, spotted dove, eurasian moorhen, white-breasted waterhen, little grebe, long-tailed shrike, oriental magpie, light-vented bulbul, silver-throated tit, white-cheeked starling, crested myna, chinese blackbird, pale thrush, dusky thrush, verditer flycatcher, eurasian tree sparrow, white wagtail, yellow-billed grosbeak, oriental greenfinch, black-faced bunting
+-   **Comments**: City park in SIP, nice place with a bunch of man-made microenvironments, mostly wetlands. Regional migration trap. Most loved bird among local birders is a white-breasted waterhen which resides near the north-western corner of the arboretum. 
+-   **Links**: [ebird-白塘生态植物园](https://ebird.org/hotspot/L13265445)
+
+### Northern China Plain, China
+
+#### ![](pixelart/mandarinduck_s.png) Beijing, CN: Olympic Forest Park 奥林匹克森林公园
+
+::: column-margin
+![The 'Big Pit' of Olympic Forest Park, July 2025](landspics/olympicpark.jpeg){group="landspics"}
+:::
+
+-   **Type**: Rural \| Woods; Wetlands (freshwater)
+-   **First Visited**: Jul 2025
+-   **Last Visited**: Jul 2025
+-   **Birds**: Mandarin Duck, Eurasian Moorhen, Eurasian Tree Sparrow, Eurasian Magpie, Azure-winged Magpie, Eurasian Coot, Oriental Reed Warbler, Little Grebe, Grey Headed Woodpecker, Common Kingfisher, Vinous Throated Parrotbill, Grey Capped Greenfinch, Spotted Dove, Rock Pigeon
+-   **Comments**: Regional birding hotspot, the 'big pit' of the north park might be one of the most well-known birding hotspot in China with its lush reed marshes. The only problem is that you need to walk 1.5 hours to get to the pit, and there aren't any public transit inside the huge park. DON'T TRY IT IN BEIJING'S SUMMER.
+-   **Link**: [ebird](https://ebird.org/region/L13741681)
+
+#### ![](pixelart/littlegrebe_s.png) Linyi, CN: Yi River Water Park 沂河/水上公园
+
+::: column-margin
+![Yi River Water Park, Live Streamers Gathering, July 2025](landspics/linyi.jpeg){group="landspics"}
+:::
+
+-   **Type**: Urban \| Open water (freshwater)
+-   **First Visited**: Jul 2025
+-   **Last Visited**: Jul 2025
+-   **Birds**: Eurasian Tree Sparrow, Eurasian Coot, Little Grebe, Black-crowned Night Heron, Grey Heron, Whiskered Tern
+-   **Comments**: Nice place to grab some BBQ and hang out in the evening.
+-   **Link**: NA
 
 ### Midwest, USA
 
@@ -392,101 +490,6 @@ fillOpacity = 1, radius = 5) %>%
 -   **Birds**: Brown Pelican, California Gull, Tufted Puffin, Common Murre, Brandt's Cormorant, American Crow
 -   **Comments**: It's just heaven if you love seabirds and shorebirds - in summer, various birds are nesting on the cliff of haystack rock. Remember to bring your binoculars since there's a sign saying 'birds only beyond this point' - you would not be able to get too close to that rock. The volunteer is very friendly and helpful, and tide pools are also great fun to explore. Also, if you reside in Portland, be sure to check out Powell's books, it has a great collection of field guides as well as other gems.
 -   **Links**: [Friends of Haystack Rock](https://www.friendsofhaystackrock.org/) *check the webcams* \| [U.S. Fish & Wildlife Service: Oregon Islands National Wildlife Refuge](https://www.fws.gov/refuge/oregon-islands/) \| [ebird](https://ebird.org/region/L548476)
-
-### Eastern China
-
-#### ![](pixelart/blackcrownednightheron_s.png) Suzhou, CN: Huqiu Wetland Park 虎丘湿地生态公园
-
-::: column-margin
-![Huqiu Wetland Park during the 'Plum Rain' Season, June 2025](landspics/huqiu.jpeg){group="landspics"}
-:::
-
--   **Type**: Rural \| Wetlands (fresh water)
--   **First Visited**: June 2025
--   **Last Visited**: Jul 2025
--   **Birds**: Black-crowned Night Heron, Little Grebe, Azure-winged Magpie, Light-vented Bulbul, Little Egret, Red-rumped Swallow, Pheasant-tailed Jacana, Red-billed Starling, Eurasian Moorhen, Chinese Blackbird, Oriental Magpie-Robin
--   **Comments**: My hometown. Very beautiful place, regionally well-known birding hotspot and tourist attraction with reeds, waterlilies and lotus planted all over the ponds and wetlands.
--   **Link**: [ebird](https://ebird.org/region/L17313628)
-
-#### ![](pixelart/blackheadedgull_s.png) Suzhou, CN: Chongshan Island 冲山岛
-
-::: column-margin
-![Black headed gulls gathering, Dec 2025](landspics/chong.jpeg){group="landspics"}
-:::
-
--   **Type**: Urban \| Open water (fresh water)
--   **First Visited**: Dec 2025
--   **Last Visited**: Dec 2025
--   **Birds**: Black-headed gull, white wagtail, little grebe, great crested grebe, eurasian coot, spotted dove
--   **Comments**: Part of Taihu Lake. The urban myth is that the Suzhou government use Salmon sashimi to attract black-headed gulls from Wuxi (the city on the other side of Taihu).
--   **Links**: NA
-
-#### ![](pixelart/crestedmyna_s.png) Suzhou, CN: Dushu Lake, East Shore 独墅湖东
-
-::: column-margin
-![View of Dushu Lake from Banyue Bay Lawn, Dec 2025](landspics/dushulake.jpeg){group="landspics"}
-:::
-
--   **Type**: Urban \| Open water (fresh water)
--   **First Visited**: Dec 2025
--   **Last Visited**: Dec 2025
--   **Birds**: Black-crowned Night Heron, Little Grebe, Great Crested Grebe, Light-vented Bulbul, Little Egret, White-cheeked Starling, Eurasian Hoopoe, Chinese Blackbird, Oriental Magpie-Robin, Vega Gull, White Wagtail, Olive-backed Pipit, Richard's Pipit, Eurasian Tree Sparrow, Crested Myna, Long-tailed Shrike
--   **Comments**: Mostly hardened wetlands, migrating birds come to visit at winter. Pipits and wagtails walk happily on the lawn. Whole trail takes ~3.5 hours. 
--   **Links**: [ebird-独墅湖公园](https://ebird.org/region/L33441763) \| [ebird-白鹭园](https://ebird.org/region/L26307800)
-
-#### ![](pixelart/greatcormorant_s.png) Suzhou, CN: Shuibaxian Eco-cultural Park 水八仙生态文化园
-
-::: column-margin
-![Flock of black-winged stilts in paddy fields, Dec 2025](landspics/shuibaxian2.jpeg){group="landspics"}
-:::
-
--   **Type**: Urban \| Wetlands - Paddy fields (freshwater); Open water (freshwater)
--   **First Visited**: Dec 2025
--   **Last Visited**: Dec 2025
--   **Birds**: Green-winged teal, tufted duck, rock pigeon, eurasian moorhen, eurasian coot, black-winged stilt, northern lapwing, common snipe, marsh sandpiper, spotted redshank, black-headed gull, little grebe, great crested grebe, great cormorant, little egret, great egret, gray heron, common kingfisher, long-tailed shrike, oriental magpie, light-vented bulbul, red-billed starling, crested myna, chinese blackbird, daurian redstart, gray wagtail, white wagtail
--   **Comments**: Paddy fields + part of Chenhu Lake. People raise fish in Chenhu Lake so it attracts a lot of fish-eating bird species. Nice place to watch shorebirds and ducks, has a relatively high entrance fee, though. 'Shuibaxian' means 8 different water-borne vegetables. 
--   **Links**: [ebird-水八仙生态文化园](https://ebird.org/hotspot/L17507817)
-
-#### ![](pixelart/orientalturtledove_s.png) Suzhou, CN: Baitang Arboretum 白塘生态植物园
-
-::: column-margin
-![Dawn redwood in Baitang Arboretum, Jan 2026](landspics/baitang.jpeg){group="landspics"}
-:::
-
--   **Type**: Urban \| Wetlands (freshwater)
--   **First Visited**: Jan 2026
--   **Last Visited**: Jan 2026
--   **Birds**: Eastern spot-billed duck, oriental turtle-dove, eurasian collared-dove, spotted dove, eurasian moorhen, white-breasted waterhen, little grebe, long-tailed shrike, oriental magpie, light-vented bulbul, silver-throated tit, white-cheeked starling, crested myna, chinese blackbird, pale thrush, dusky thrush, verditer flycatcher, eurasian tree sparrow, white wagtail, yellow-billed grosbeak, oriental greenfinch, black-faced bunting
--   **Comments**: City park in SIP, nice place with a bunch of man-made microenvironments, mostly wetlands. Regional migration trap. Most loved bird among local birders is a white-breasted waterhen which resides near the north-western corner of the arboretum. 
--   **Links**: [ebird-白塘生态植物园](https://ebird.org/hotspot/L13265445)
-
-### Northern China
-
-#### ![](pixelart/mandarinduck_s.png) Beijing, CN: Olympic Forest Park 奥林匹克森林公园
-
-::: column-margin
-![The 'Big Pit' of Olympic Forest Park, July 2025](landspics/olympicpark.jpeg){group="landspics"}
-:::
-
--   **Type**: Rural \| Woods; Wetlands (freshwater)
--   **First Visited**: Jul 2025
--   **Last Visited**: Jul 2025
--   **Birds**: Mandarin Duck, Eurasian Moorhen, Eurasian Tree Sparrow, Eurasian Magpie, Azure-winged Magpie, Eurasian Coot, Oriental Reed Warbler, Little Grebe, Grey Headed Woodpecker, Common Kingfisher, Vinous Throated Parrotbill, Grey Capped Greenfinch, Spotted Dove, Rock Pigeon
--   **Comments**: Regional birding hotspot, the 'big pit' of the north park might be one of the most well-known birding hotspot in China with its lush reed marshes. The only problem is that you need to walk 1.5 hours to get to the pit, and there aren't any public transit inside the huge park. DON'T TRY IT IN BEIJING'S SUMMER.
--   **Link**: [ebird](https://ebird.org/region/L13741681)
-
-#### ![](pixelart/littlegrebe_s.png) Linyi, CN: Yi River Water Park 沂河/水上公园
-
-::: column-margin
-![Yi River Water Park, Live Streamers Gathering, July 2025](landspics/linyi.jpeg){group="landspics"}
-:::
-
--   **Type**: Urban \| Open water (freshwater)
--   **First Visited**: Jul 2025
--   **Last Visited**: Jul 2025
--   **Birds**: Eurasian Tree Sparrow, Eurasian Coot, Little Grebe, Black-crowned Night Heron, Grey Heron, Whiskered Tern
--   **Comments**: Nice place to grab some BBQ and hang out in the evening.
--   **Link**: NA
 
 ------------------------------------------------------------------------
 

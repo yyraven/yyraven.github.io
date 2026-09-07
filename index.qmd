@@ -88,11 +88,15 @@ last_gig <- gig %>%
   slice_tail(n = 1)
 ```
 
-- Recently watched: *`{r} last_mov[1,3]` *by *`{r} last_mov[1,4]` *on `{r} last_mov[1,1]`
+[Recently watched:](){.button} ***`{r} last_mov[1,3]` ***by *`{r} last_mov[1,4]` *on `{r} last_mov[1,1]`
 
-- Recently read: *`{r} last_book[1,3]` *by *`{r} last_book[1,4]` *on `{r} last_book[1,1]`
+> `{r} last_mov[1,7]`
 
-- Recently attended: *`{r} last_gig[1,2]` *by *`{r} last_gig[1,3]` *on `{r} last_gig[1,1]`
+[Recently read:](){.button} ***`{r} last_book[1,3]` ***by *`{r} last_book[1,4]` *on `{r} last_book[1,1]`
+
+> `{r} last_book[1,7]`
+
+[Recently attended:](){.button} ***`{r} last_gig[1,2]` ***by *`{r} last_gig[1,3]` *on `{r} last_gig[1,1]`
 
 <center>
 
