@@ -31,7 +31,3 @@ image: figs/landscape2.jpg
 最后还是没有见到咱们的大明星东部鸣角鸮Ruby，好遗憾，但这个树洞也不是没有客人——这是来蹭饭的red-bellied woodpecker。
 
 ![明明头比腹红，却叫做红腹啄木鸟呢](figs/guest.jpg)
-
----
-
-![总之……再见！](figs/byebye.jpg)
