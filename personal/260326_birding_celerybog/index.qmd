@@ -1,7 +1,7 @@
 ---
 title: "Birding｜Spring Migration: Birds are flowing out like endless rain into a paper cup"
 date: "2026-03-26"
-categories: [birding, indiana, celery bog, nature, EN]
+categories: [birding, indiana, nature, EN]
 toc: true
 image: figs/pelicans1.jpg
 output:

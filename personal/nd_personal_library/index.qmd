@@ -119,9 +119,9 @@ gig_2026 <- gig %>%
 2026年，我一共看了 <code>`r nrow(lib_book_2026)`</code> 本书，<code>`r nrow(lib_mov_2026)`</code> 部电影/电视剧/动画，<code>`r nrow(gig_2026)`</code> 场演出。
 
 ::: callout
-- 最喜欢的书：？
-- 最喜欢的电影/电视剧/动画：？
-- 最喜欢的现场：？
+- 最喜欢的书：永生的海拉
+- 最喜欢的电影/电视剧/动画：The Wire S1/2/3
+- 最喜欢的现场：Belle and Sebastian
 :::
 
 ```{r 2026 summ, echo = FALSE, message = FALSE, warning = FALSE}
