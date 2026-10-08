@@ -69,6 +69,7 @@ website:
         - section: "Diary"
           contents:
             - auto: "personal/*diary*/*.qmd"
+            - auto: "personal/*recap*/*.qmd"
 
 format:
   html:
