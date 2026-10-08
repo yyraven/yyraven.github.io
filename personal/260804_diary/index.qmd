@@ -1,7 +1,7 @@
 ---
 title: "日记｜Anywhere, USA"
 date: "2026-08-04"
-categories: [diary, 中文]
+categories: [diary, birding, 中文]
 description: "再次告别，再次出发"
 image: figs/landscape2.jpg
 ---
