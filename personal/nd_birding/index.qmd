@@ -240,8 +240,8 @@ fillOpacity = 1, radius = 5) %>%
 
 -   **Type**: Urban \| Wetlands (freshwater)
 -   **First Visited**: Jan 2026
--   **Last Visited**: Jan 2026
--   **Birds**: Eastern spot-billed duck, oriental turtle-dove, eurasian collared-dove, spotted dove, eurasian moorhen, white-breasted waterhen, little grebe, long-tailed shrike, oriental magpie, light-vented bulbul, silver-throated tit, white-cheeked starling, crested myna, chinese blackbird, pale thrush, dusky thrush, verditer flycatcher, eurasian tree sparrow, white wagtail, yellow-billed grosbeak, oriental greenfinch, black-faced bunting
+-   **Last Visited**: Oct 2026
+-   **Birds**: Eastern spot-billed duck, oriental turtle-dove, eurasian collared-dove, spotted dove, eurasian moorhen, white-breasted waterhen, little grebe, long-tailed shrike, oriental magpie, light-vented bulbul, silver-throated tit, white-cheeked starling, crested myna, chinese blackbird, pale thrush, dusky thrush, verditer flycatcher, eurasian tree sparrow, white wagtail, yellow-billed grosbeak, oriental greenfinch, black-faced bunting, crested goshawk, grey wagtail
 -   **Comments**: City park in SIP, nice place with a bunch of man-made microenvironments, mostly wetlands. Regional migration trap. Most loved bird among local birders is a white-breasted waterhen which resides near the north-western corner of the arboretum. 
 -   **Links**: [ebird-白塘生态植物园](https://ebird.org/hotspot/L13265445)
 
